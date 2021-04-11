@@ -1,0 +1,15 @@
+FCFS : Jerry 
+SJF : Chris 
+SRT : Donovan
+RR : Zach
+HPF-p : Emma
+HPF-np : Jesse
+
+main.c/testbench : Jerry, Chris
+
+each person takes care of their own stats collection/outputs
+
+**finish each scheduler by Monday night
+
+Tuesday: make sure everything works + write report
+

@@ -1,0 +1,37 @@
+
+### Built with maker.py ###
+### source = src ###
+### build = build ###
+### binary = prj6 ###
+
+CC=gcc
+CXX=g++
+
+CFLAGS= -g -Wall -Wextra
+CXXFLAGS= -g -Wall -Wextra -std=c++11
+
+### GENERATED ###
+
+all: prj6;
+
+remake:
+	/usr/bin/makerpy maker_config.json
+
+clean:
+	-rm -r build
+	-rm prj6
+
+build:
+	mkdir -p build/
+
+build/main.o: src/main.c | build
+	$(CC) $(CFLAGS) -c src/main.c -o build/main.o
+
+build/select.o: src/select.c | build
+	$(CC) $(CFLAGS) -c src/select.c -o build/select.o
+
+build/pipe.o: src/pipe.c | build
+	$(CC) $(CFLAGS) -c src/pipe.c -o build/pipe.o
+
+prj6: build/main.o build/select.o build/pipe.o
+	$(CC) $(CFLAGS) build/main.o build/select.o build/pipe.o -o prj6

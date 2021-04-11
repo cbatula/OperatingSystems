@@ -1,0 +1,3258 @@
+=================Average for all 5 Runs=================
+*****FCFS*****
+Avg Turnaround time = 35.36
+Avg Wait Time = 30.83
+Avg Response Time = 30.83
+Avg Throughput = 22.404 per 100 quantum
+
+*****Round Robin*****
+Avg Turnaround time: 44.867683
+Avg Wait Time: 39.865028
+Avg Response Time: 6.073746
+Avg Throughput: 17.796413
+
+*****HPF Non-Pre*****
+Avg Turnaround time = 21.2104
+Avg Wait Time = 15.8603
+Avg Response Time = 16.3869
+Avg Throughput = 0.1722
+
+*****HPF Pre*****
+Avg Turnaround time = 19.317064
+Avg Wait Time = 13.879245
+Avg Response Time = 10.244600
+Avg Throughput = 0.143073
+
+*****SRT*****
+Avg Turnaround time = 5.3
+Avg Wait Time = 3.124
+Avg Response Time = 3.13
+Avg Throughput = 24.92
+
+*****SJF*****
+Avg Turnaround time = 5.45
+Avg Wait Time = 4.19
+Avg Response Time = 4.19
+Avg Throughput = 28.6
+
+=================FCFS====================
+
+******FCFS Run 1******
+Time Chart
+===========
+ppppBBBBxx xxxFFccccc cccc1NNNkk kkk5555555 
+55ooosssss swwwwjjjjj Q8888888UU UUYYYYYYYv 
+vvvvvvvvDD DDDDHHHHLL
+
+Average turnaround: 34.17
+Average response: 29.83
+Average waiting: 29.83
+throughput: 23.00 per 100 quantum
+
+******FCFS Run 2******
+Time Chart
+===========
+VVVVsAAAAA AAAIIIIIII IIf444QQQQ QUUUYYYYYY 
+vvvDaaPPPP P7mmmmmmmC CCCCyyyyyy 22OOOOOOOO 
+O66666SStt tttttFFccc c000000000
+
+Average turnaround: 32.19
+Average response: 28.31
+Average waiting: 28.31
+throughput: 25.74 per 100 quantum
+
+******FCFS Run 3******
+Time Chart
+===========
+nnnnnnnrrr rrYDDDDDLi iiiiiiimCC CCyyyyyGGh 
+hhhhhh6666 6lSSSSSSSp pppttBBBBB BBBBgg5555 
+55555kkkkk ZZZZZZZAAA 
+
+Average turnaround: 31.00
+Average response: 26.83
+Average waiting: 26.83
+throughput: 24.00 per 100 quantum
+
+******FCFS Run 4******
+Time Chart
+===========
+TTTTTTTqqq qqqqqqXXXX X2hhOOOOOO OO77777Spp 
+pBBBxxxxxx xxxNNNNNNN kkkkRooooo ooVVVVssss 
+sZZEEEEEEb bbbbbbbfff fff0000000
+
+Average turnaround: 37.86
+Average response: 33.18
+Average waiting: 33.18
+throughput: 21.36 per 100 quantum
+
+
+******FCFS Run 5******
+Time Chart
+===========
+WWWWWWWWWx xxxxxxxxcc cggggggNNk kkkkkkkkVV 
+VssssswwwE EEEEbbffff f4444444jj jjjjjjQQQQ 
+9999999UUU UUUUYYYYYv vvvvvv0000 
+
+Average turnaround: 41.58
+Average response: 36.00
+Average waiting: 36.00
+throughput: 17.92 per 100 quantum
+
+
+=================Round Robin=================
+
+*****Round Robin Run 1*****
+Time Chart
+===========
+Creating workload
+name W, arrival 0.943898, service 0.688000, priority 3, 
+name B, arrival 3.709808, service 4.775402, priority 1, 
+name F, arrival 6.243796, service 2.888687, priority 3, 
+name c, arrival 6.738504, service 9.710427, priority 2, 
+name N, arrival 9.706580, service 3.899320, priority 4, 
+name I, arrival 19.987360, service 0.185734, priority 2, 
+name Q, arrival 23.711214, service 1.239647, priority 1, 
+name U, arrival 25.407902, service 4.203707, priority 1, 
+name Y, arrival 26.487085, service 7.114946, priority 1, 
+name D, arrival 30.260111, service 6.359428, priority 4, 
+name H, arrival 31.548412, service 4.352523, priority 3, 
+name L, arrival 33.514652, service 2.413465, priority 3, 
+name P, arrival 35.458286, service 5.435447, priority 2, 
+name C, arrival 41.234764, service 5.530833, priority 3, 
+name d, arrival 44.484215, service 5.535071, priority 3, 
+name K, arrival 45.132416, service 6.579745, priority 2, 
+name J, arrival 56.998009, service 0.891707, priority 2, 
+name R, arrival 60.992355, service 1.955743, priority 1, 
+name V, arrival 62.753757, service 9.880292, priority 2, 
+name Z, arrival 64.792953, service 7.958391, priority 4, 
+name A, arrival 65.606010, service 4.060255, priority 4, 
+name E, arrival 67.228905, service 7.052009, priority 3, 
+name b, arrival 68.463181, service 4.039178, priority 3, 
+name M, arrival 71.029762, service 8.117650, priority 4, 
+name a, arrival 80.385918, service 3.299399, priority 4, 
+name T, arrival 86.377403, service 3.443421, priority 1, 
+name X, arrival 88.374191, service 6.439191, priority 4, 
+name G, arrival 93.017471, service 3.613149, priority 1, 
+name O, arrival 96.604050, service 4.648695, priority 4, 
+name S, arrival 98.427231, service 2.676375, priority 3, 
+
+Quanta 0: Idle
+Quanta 1: W
+Quanta 2: Idle
+Quanta 3: Idle
+Quanta 4: B
+Quanta 5: B
+Quanta 6: B
+Quanta 7: F
+Quanta 8: c
+Quanta 9: B
+Quanta 10: F
+Quanta 11: c
+Quanta 12: N
+Quanta 13: B
+Quanta 14: F
+Quanta 15: c
+Quanta 16: N
+Quanta 17: c
+Quanta 18: N
+Quanta 19: c
+Quanta 20: N
+Quanta 21: I
+Quanta 22: c
+Quanta 23: c
+Quanta 24: Q
+Quanta 25: c
+Quanta 26: Q
+Quanta 27: U
+Quanta 28: c
+Quanta 29: Y
+Quanta 30: U
+Quanta 31: c
+Quanta 32: Y
+Quanta 33: D
+Quanta 34: U
+Quanta 35: H
+Quanta 36: Y
+Quanta 37: L
+Quanta 38: D
+Quanta 39: U
+Quanta 40: P
+Quanta 41: H
+Quanta 42: Y
+Quanta 43: L
+Quanta 44: D
+Quanta 45: U
+Quanta 46: P
+Quanta 47: C
+Quanta 48: H
+Quanta 49: Y
+Quanta 50: L
+Quanta 51: d
+Quanta 52: D
+Quanta 53: K
+Quanta 54: P
+Quanta 55: C
+Quanta 56: H
+Quanta 57: Y
+Quanta 58: d
+Quanta 59: D
+Quanta 60: K
+Quanta 61: P
+Quanta 62: C
+Quanta 63: J
+Quanta 64: H
+Quanta 65: Y
+Quanta 66: d
+Quanta 67: D
+Quanta 68: R
+Quanta 69: K
+Quanta 70: P
+Quanta 71: V
+Quanta 72: C
+Quanta 73: Z
+Quanta 74: A
+Quanta 75: Y
+Quanta 76: d
+Quanta 77: E
+Quanta 78: D
+Quanta 79: b
+Quanta 80: R
+Quanta 81: K
+Quanta 82: P
+Quanta 83: M
+Quanta 84: V
+Quanta 85: C
+Quanta 86: Z
+Quanta 87: A
+Quanta 88: d
+Quanta 89: E
+Quanta 90: b
+Quanta 91: a
+Quanta 92: K
+Quanta 93: M
+Quanta 94: V
+Quanta 95: C
+Quanta 96: T
+Quanta 97: Z
+Quanta 98: A
+Quanta 99: X
+Quanta 100: d
+Quanta 101: E
+Quanta 102: b
+Quanta 103: a
+Quanta 104: K
+Quanta 105: M
+Quanta 106: V
+Quanta 107: T
+Quanta 108: Z
+Quanta 109: A
+Quanta 110: X
+Quanta 111: E
+Quanta 112: b
+Quanta 113: a
+Quanta 114: K
+Quanta 115: M
+Quanta 116: V
+Quanta 117: T
+Quanta 118: Z
+Quanta 119: A
+Quanta 120: X
+Quanta 121: E
+Quanta 122: b
+Quanta 123: a
+Quanta 124: M
+Quanta 125: V
+Quanta 126: T
+Quanta 127: Z
+Quanta 128: X
+Quanta 129: E
+Quanta 130: M
+Quanta 131: V
+Quanta 132: Z
+Quanta 133: X
+Quanta 134: E
+Quanta 135: M
+Quanta 136: V
+Quanta 137: Z
+Quanta 138: X
+Quanta 139: E
+Quanta 140: M
+Quanta 141: V
+Quanta 142: X
+Quanta 143: M
+Quanta 144: V
+
+Throughput: 18.620689
+Average Turnaround: 38.386238
+Average Wait: 33.643665
+Average Response: 5.386242
+Freeing workload
+
+*****Round Robin Run 2*****
+Time Chart
+===========
+Creating workload
+name p, arrival 0.397681, service 4.607081, priority 2, 
+name x, arrival 4.511338, service 5.698181, priority 4, 
+name 1, arrival 8.630467, service 1.979650, priority 1, 
+name k, arrival 10.396932, service 5.813894, priority 4, 
+name 5, arrival 10.454252, service 9.914174, priority 2, 
+name o, arrival 12.526776, service 3.870666, priority 4, 
+name s, arrival 14.326908, service 6.862430, priority 3, 
+name w, arrival 16.264278, service 4.915644, priority 2, 
+name j, arrival 22.754761, service 5.095707, priority 2, 
+name 8, arrival 24.250006, service 7.240552, priority 4, 
+name v, arrival 28.228235, service 9.133230, priority 4, 
+name i, arrival 34.470104, service 9.276387, priority 2, 
+name m, arrival 36.228512, service 2.364617, priority 3, 
+name u, arrival 39.919579, service 3.408375, priority 3, 
+name 6, arrival 48.135384, service 0.795622, priority 2, 
+name t, arrival 52.186951, service 7.643302, priority 2, 
+name g, arrival 58.125542, service 7.768856, priority 2, 
+name f, arrival 70.228745, service 7.038344, priority 4, 
+name 4, arrival 71.580894, service 9.133103, priority 3, 
+name n, arrival 73.951721, service 3.141599, priority 3, 
+name r, arrival 76.166832, service 6.172384, priority 2, 
+name z, arrival 79.656410, service 7.182351, priority 2, 
+name e, arrival 81.976593, service 6.269605, priority 3, 
+name 3, arrival 83.814491, service 8.442616, priority 1, 
+name 7, arrival 85.657448, service 6.479617, priority 3, 
+name q, arrival 87.807823, service 5.374926, priority 1, 
+name y, arrival 91.376953, service 1.464923, priority 1, 
+name 2, arrival 95.499542, service 2.718518, priority 4, 
+name h, arrival 95.558060, service 8.494314, priority 4, 
+name l, arrival 97.794113, service 6.583854, priority 2, 
+
+Quanta 0: Idle
+Quanta 1: p
+Quanta 2: p
+Quanta 3: p
+Quanta 4: p
+Quanta 5: x
+Quanta 6: p
+Quanta 7: x
+Quanta 8: x
+Quanta 9: 1
+Quanta 10: x
+Quanta 11: 1
+Quanta 12: k
+Quanta 13: 5
+Quanta 14: x
+Quanta 15: o
+Quanta 16: k
+Quanta 17: 5
+Quanta 18: s
+Quanta 19: x
+Quanta 20: o
+Quanta 21: w
+Quanta 22: k
+Quanta 23: 5
+Quanta 24: s
+Quanta 25: o
+Quanta 26: w
+Quanta 27: j
+Quanta 28: k
+Quanta 29: 5
+Quanta 30: 8
+Quanta 31: s
+Quanta 32: o
+Quanta 33: w
+Quanta 34: j
+Quanta 35: v
+Quanta 36: k
+Quanta 37: 5
+Quanta 38: 8
+Quanta 39: s
+Quanta 40: w
+Quanta 41: i
+Quanta 42: j
+Quanta 43: v
+Quanta 44: m
+Quanta 45: k
+Quanta 46: 5
+Quanta 47: 8
+Quanta 48: u
+Quanta 49: s
+Quanta 50: w
+Quanta 51: i
+Quanta 52: j
+Quanta 53: v
+Quanta 54: m
+Quanta 55: 5
+Quanta 56: 8
+Quanta 57: 6
+Quanta 58: u
+Quanta 59: s
+Quanta 60: i
+Quanta 61: t
+Quanta 62: j
+Quanta 63: v
+Quanta 64: m
+Quanta 65: 5
+Quanta 66: 8
+Quanta 67: g
+Quanta 68: u
+Quanta 69: s
+Quanta 70: i
+Quanta 71: t
+Quanta 72: j
+Quanta 73: v
+Quanta 74: 5
+Quanta 75: 8
+Quanta 76: g
+Quanta 77: u
+Quanta 78: f
+Quanta 79: i
+Quanta 80: 4
+Quanta 81: t
+Quanta 82: n
+Quanta 83: v
+Quanta 84: 5
+Quanta 85: 8
+Quanta 86: r
+Quanta 87: g
+Quanta 88: f
+Quanta 89: z
+Quanta 90: i
+Quanta 91: 4
+Quanta 92: e
+Quanta 93: t
+Quanta 94: n
+Quanta 95: 3
+Quanta 96: v
+Quanta 97: 7
+Quanta 98: 8
+Quanta 99: r
+Quanta 100: g
+Quanta 101: f
+Quanta 102: z
+Quanta 103: i
+Quanta 104: 4
+Quanta 105: e
+Quanta 106: t
+Quanta 107: n
+Quanta 108: 3
+Quanta 109: v
+Quanta 110: 7
+Quanta 111: r
+Quanta 112: g
+Quanta 113: f
+Quanta 114: z
+Quanta 115: i
+Quanta 116: 4
+Quanta 117: e
+Quanta 118: t
+Quanta 119: n
+Quanta 120: 3
+Quanta 121: v
+Quanta 122: 7
+Quanta 123: r
+Quanta 124: g
+Quanta 125: f
+Quanta 126: z
+Quanta 127: i
+Quanta 128: 4
+Quanta 129: e
+Quanta 130: t
+Quanta 131: 3
+Quanta 132: v
+Quanta 133: 7
+Quanta 134: r
+Quanta 135: g
+Quanta 136: f
+Quanta 137: z
+Quanta 138: i
+Quanta 139: 4
+Quanta 140: e
+Quanta 141: t
+Quanta 142: 3
+Quanta 143: 7
+Quanta 144: r
+Quanta 145: g
+Quanta 146: f
+Quanta 147: z
+Quanta 148: 4
+Quanta 149: e
+Quanta 150: 3
+Quanta 151: 7
+Quanta 152: r
+Quanta 153: f
+Quanta 154: z
+Quanta 155: 4
+Quanta 156: e
+Quanta 157: 3
+Quanta 158: 7
+Quanta 159: z
+Quanta 160: 4
+Quanta 161: 3
+Quanta 162: 4
+Quanta 163: 3
+
+Throughput: 15.243903
+Average Turnaround: 57.686371
+Average Wait: 51.676445
+Average Response: 6.326367
+Freeing workload
+
+<===ROUND ROBIN RUN 3===>
+Creating workload
+name V, arrival 0.397681, service 4.607081, priority 2, 
+name A, arrival 3.282198, service 8.685257, priority 1, 
+name I, arrival 6.738504, service 9.710427, priority 2, 
+name Q, arrival 10.396932, service 5.813894, priority 4, 
+name U, arrival 12.526776, service 3.870666, priority 4, 
+name Y, arrival 14.326908, service 6.862430, priority 3, 
+name D, arrival 17.225306, service 1.075350, priority 3, 
+name a, arrival 18.093571, service 2.978717, priority 2, 
+name P, arrival 22.754761, service 5.095707, priority 2, 
+name C, arrival 29.015802, service 5.255159, priority 1, 
+name O, arrival 34.470104, service 9.276387, priority 2, 
+name S, arrival 36.228512, service 2.364617, priority 3, 
+name F, arrival 42.970490, service 2.558099, priority 4, 
+name c, arrival 43.629932, service 4.461819, priority 2, 
+name J, arrival 44.484215, service 5.535071, priority 3, 
+name Z, arrival 52.186951, service 7.643302, priority 2, 
+name E, arrival 54.726391, service 1.801552, priority 3, 
+name b, arrival 55.460606, service 8.653609, priority 3, 
+name M, arrival 58.125542, service 7.768856, priority 2, 
+name 9, arrival 61.503120, service 2.998022, priority 3, 
+name H, arrival 68.463181, service 4.039178, priority 3, 
+name L, arrival 70.228745, service 7.038344, priority 4, 
+name T, arrival 73.951721, service 3.141599, priority 3, 
+name X, arrival 76.166832, service 6.172384, priority 2, 
+name G, arrival 80.385918, service 3.299399, priority 4, 
+name K, arrival 81.976593, service 6.269605, priority 3, 
+name W, arrival 87.807823, service 5.374926, priority 1, 
+name B, arrival 90.381531, service 9.436344, priority 2, 
+name N, arrival 95.558060, service 8.494314, priority 4, 
+name R, arrival 97.794113, service 6.583854, priority 2, 
+
+Quanta 0: Idle
+Quanta 1: V
+Quanta 2: V
+Quanta 3: V
+Quanta 4: A
+Quanta 5: V
+Quanta 6: A
+Quanta 7: V
+Quanta 8: I
+Quanta 9: A
+Quanta 10: I
+Quanta 11: A
+Quanta 12: Q
+Quanta 13: I
+Quanta 14: A
+Quanta 15: U
+Quanta 16: Q
+Quanta 17: I
+Quanta 18: Y
+Quanta 19: A
+Quanta 20: U
+Quanta 21: Q
+Quanta 22: D
+Quanta 23: I
+Quanta 24: a
+Quanta 25: Y
+Quanta 26: A
+Quanta 27: U
+Quanta 28: Q
+Quanta 29: P
+Quanta 30: D
+Quanta 31: I
+Quanta 32: a
+Quanta 33: Y
+Quanta 34: A
+Quanta 35: U
+Quanta 36: Q
+Quanta 37: C
+Quanta 38: P
+Quanta 39: I
+Quanta 40: a
+Quanta 41: Y
+Quanta 42: O
+Quanta 43: A
+Quanta 44: S
+Quanta 45: Q
+Quanta 46: C
+Quanta 47: P
+Quanta 48: I
+Quanta 49: Y
+Quanta 50: F
+Quanta 51: O
+Quanta 52: c
+Quanta 53: J
+Quanta 54: S
+Quanta 55: C
+Quanta 56: P
+Quanta 57: I
+Quanta 58: Y
+Quanta 59: F
+Quanta 60: O
+Quanta 61: Z
+Quanta 62: c
+Quanta 63: J
+Quanta 64: E
+Quanta 65: S
+Quanta 66: b
+Quanta 67: C
+Quanta 68: P
+Quanta 69: I
+Quanta 70: M
+Quanta 71: Y
+Quanta 72: F
+Quanta 73: O
+Quanta 74: 9
+Quanta 75: Z
+Quanta 76: c
+Quanta 77: J
+Quanta 78: E
+Quanta 79: b
+Quanta 80: C
+Quanta 81: H
+Quanta 82: P
+Quanta 83: L
+Quanta 84: M
+Quanta 85: T
+Quanta 86: O
+Quanta 87: 9
+Quanta 88: Z
+Quanta 89: X
+Quanta 90: c
+Quanta 91: J
+Quanta 92: b
+Quanta 93: G
+Quanta 94: C
+Quanta 95: K
+Quanta 96: H
+Quanta 97: L
+Quanta 98: M
+Quanta 99: T
+Quanta 100: O
+Quanta 101: 9
+Quanta 102: Z
+Quanta 103: X
+Quanta 104: c
+Quanta 105: J
+Quanta 106: b
+Quanta 107: G
+Quanta 108: K
+Quanta 109: H
+Quanta 110: L
+Quanta 111: M
+Quanta 112: T
+Quanta 113: O
+Quanta 114: Z
+Quanta 115: X
+Quanta 116: J
+Quanta 117: b
+Quanta 118: G
+Quanta 119: K
+Quanta 120: H
+Quanta 121: L
+Quanta 122: M
+Quanta 123: T
+Quanta 124: O
+Quanta 125: Z
+Quanta 126: X
+Quanta 127: b
+Quanta 128: G
+Quanta 129: K
+Quanta 130: H
+Quanta 131: L
+Quanta 132: M
+Quanta 133: O
+Quanta 134: Z
+Quanta 135: X
+Quanta 136: b
+Quanta 137: K
+Quanta 138: L
+Quanta 139: M
+Quanta 140: O
+Quanta 141: Z
+Quanta 142: X
+Quanta 143: b
+Quanta 144: K
+Quanta 145: L
+Quanta 146: M
+Quanta 147: X
+Quanta 148: b
+Quanta 149: K
+Quanta 150: L
+
+Throughput: 17.218544
+Average Turnaround: 54.241642
+Average Wait: 48.973309
+Average Response: 7.780105
+Freeing workload
+
+
+<===ROUND ROBIN RUN 4===>
+Creating workload
+name s, arrival 1.830959, service 1.619069, priority 4, 
+name f, arrival 8.232365, service 1.800599, priority 3, 
+name 4, arrival 9.706580, service 3.899320, priority 4, 
+name v, arrival 15.756845, service 3.893625, priority 2, 
+name e, arrival 19.281031, service 0.951471, priority 3, 
+name 7, arrival 23.711214, service 1.239647, priority 1, 
+name m, arrival 24.101442, service 7.054821, priority 4, 
+name y, arrival 29.349455, service 6.123566, priority 4, 
+name d, arrival 31.793705, service 0.258571, priority 1, 
+name 2, arrival 33.514652, service 2.413465, priority 3, 
+name 6, arrival 35.458286, service 5.435447, priority 2, 
+name t, arrival 39.865406, service 7.368098, priority 1, 
+name 1, arrival 45.132416, service 6.579745, priority 2, 
+name g, arrival 45.712959, service 7.465417, priority 4, 
+name k, arrival 47.985474, service 5.577083, priority 2, 
+name o, arrival 49.525097, service 3.596448, priority 4, 
+name w, arrival 53.209999, service 9.574896, priority 1, 
+name j, arrival 59.336239, service 4.769245, priority 2, 
+name n, arrival 61.853207, service 2.885015, priority 2, 
+name r, arrival 64.010933, service 5.917032, priority 4, 
+name z, arrival 66.762001, service 1.911590, priority 1, 
+name 3, arrival 71.029762, service 8.117650, priority 4, 
+name i, arrival 71.394928, service 8.978404, priority 1, 
+name q, arrival 75.673782, service 5.124559, priority 2, 
+name u, arrival 77.129105, service 3.123095, priority 2, 
+name h, arrival 83.485855, service 3.294765, priority 2, 
+name l, arrival 85.241455, service 1.335622, priority 4, 
+name p, arrival 87.264572, service 4.352296, priority 3, 
+name x, arrival 90.891647, service 0.435419, priority 2, 
+name 5, arrival 96.604050, service 4.648695, priority 4, 
+
+Quanta 0: Idle
+Quanta 1: Idle
+Quanta 2: s
+Quanta 3: s
+Quanta 4: Idle
+Quanta 5: Idle
+Quanta 6: Idle
+Quanta 7: Idle
+Quanta 8: Idle
+Quanta 9: f
+Quanta 10: 4
+Quanta 11: f
+Quanta 12: 4
+Quanta 13: 4
+Quanta 14: 4
+Quanta 15: Idle
+Quanta 16: v
+Quanta 17: v
+Quanta 18: v
+Quanta 19: v
+Quanta 20: e
+Quanta 21: Idle
+Quanta 22: Idle
+Quanta 23: Idle
+Quanta 24: 7
+Quanta 25: m
+Quanta 26: 7
+Quanta 27: m
+Quanta 28: m
+Quanta 29: m
+Quanta 30: y
+Quanta 31: m
+Quanta 32: y
+Quanta 33: d
+Quanta 34: m
+Quanta 35: y
+Quanta 36: 2
+Quanta 37: m
+Quanta 38: 6
+Quanta 39: y
+Quanta 40: 2
+Quanta 41: m
+Quanta 42: 6
+Quanta 43: t
+Quanta 44: y
+Quanta 45: 2
+Quanta 46: 6
+Quanta 47: t
+Quanta 48: y
+Quanta 49: 1
+Quanta 50: g
+Quanta 51: 6
+Quanta 52: k
+Quanta 53: t
+Quanta 54: y
+Quanta 55: o
+Quanta 56: 1
+Quanta 57: g
+Quanta 58: 6
+Quanta 59: k
+Quanta 60: w
+Quanta 61: t
+Quanta 62: o
+Quanta 63: 1
+Quanta 64: g
+Quanta 65: 6
+Quanta 66: j
+Quanta 67: k
+Quanta 68: w
+Quanta 69: n
+Quanta 70: t
+Quanta 71: o
+Quanta 72: 1
+Quanta 73: r
+Quanta 74: g
+Quanta 75: z
+Quanta 76: j
+Quanta 77: k
+Quanta 78: w
+Quanta 79: n
+Quanta 80: t
+Quanta 81: 3
+Quanta 82: i
+Quanta 83: o
+Quanta 84: 1
+Quanta 85: r
+Quanta 86: g
+Quanta 87: q
+Quanta 88: z
+Quanta 89: j
+Quanta 90: u
+Quanta 91: k
+Quanta 92: w
+Quanta 93: n
+Quanta 94: t
+Quanta 95: 3
+Quanta 96: i
+Quanta 97: h
+Quanta 98: 1
+Quanta 99: l
+Quanta 100: r
+Quanta 101: g
+Quanta 102: q
+Quanta 103: j
+Quanta 104: u
+Quanta 105: k
+Quanta 106: w
+Quanta 107: t
+Quanta 108: 3
+Quanta 109: i
+Quanta 110: h
+Quanta 111: 1
+Quanta 112: l
+Quanta 113: r
+Quanta 114: g
+Quanta 115: q
+Quanta 116: j
+Quanta 117: u
+Quanta 118: w
+Quanta 119: 3
+Quanta 120: i
+Quanta 121: h
+Quanta 122: r
+Quanta 123: g
+Quanta 124: q
+Quanta 125: u
+Quanta 126: w
+Quanta 127: 3
+Quanta 128: i
+Quanta 129: h
+Quanta 130: r
+Quanta 131: q
+Quanta 132: w
+Quanta 133: 3
+Quanta 134: i
+Quanta 135: q
+Quanta 136: w
+Quanta 137: 3
+Quanta 138: i
+Quanta 139: w
+Quanta 140: 3
+Quanta 141: i
+Quanta 142: 3
+Quanta 143: i
+
+Throughput: 18.750000
+Average Turnaround: 37.367214
+Average Wait: 32.911354
+Average Response: 5.219069
+Freeing workload
+
+
+<===ROUND ROBIN RUN 5===>
+Creating workload
+name Y, arrival 1.830959, service 1.619069, priority 4, 
+name D, arrival 4.511338, service 5.698181, priority 4, 
+name L, arrival 8.232365, service 1.800599, priority 3, 
+name C, arrival 16.264278, service 4.915644, priority 2, 
+name G, arrival 18.093571, service 2.978717, priority 2, 
+name K, arrival 19.281031, service 0.951471, priority 3, 
+name S, arrival 24.101442, service 7.054821, priority 4, 
+name B, arrival 28.228235, service 9.133230, priority 4, 
+name J, arrival 31.793705, service 0.258571, priority 1, 
+name Z, arrival 39.865406, service 7.368098, priority 1, 
+name A, arrival 39.919579, service 3.408375, priority 3, 
+name b, arrival 42.950268, service 3.413212, priority 3, 
+name I, arrival 43.629932, service 4.461819, priority 2, 
+name M, arrival 45.712959, service 7.465417, priority 4, 
+name Q, arrival 47.985474, service 5.577083, priority 2, 
+name U, arrival 49.525097, service 3.596448, priority 4, 
+name a, arrival 55.231052, service 2.690229, priority 3, 
+name H, arrival 55.460606, service 8.653609, priority 3, 
+name P, arrival 59.336239, service 4.769245, priority 2, 
+name 8, arrival 60.992355, service 1.955743, priority 1, 
+name T, arrival 61.853207, service 2.885015, priority 2, 
+name X, arrival 64.010933, service 5.917032, priority 4, 
+name O, arrival 71.394928, service 8.978404, priority 1, 
+name W, arrival 75.673782, service 5.124559, priority 2, 
+name F, arrival 79.656410, service 7.182351, priority 2, 
+name N, arrival 83.485855, service 3.294765, priority 2, 
+name R, arrival 85.241455, service 1.335622, priority 4, 
+name V, arrival 87.264572, service 4.352296, priority 3, 
+name E, arrival 91.376953, service 1.464923, priority 1, 
+name 9, arrival 98.427231, service 2.676375, priority 3, 
+
+Quanta 0: Idle
+Quanta 1: Idle
+Quanta 2: Y
+Quanta 3: Y
+Quanta 4: Idle
+Quanta 5: D
+Quanta 6: D
+Quanta 7: D
+Quanta 8: D
+Quanta 9: L
+Quanta 10: D
+Quanta 11: L
+Quanta 12: D
+Quanta 13: Idle
+Quanta 14: Idle
+Quanta 15: Idle
+Quanta 16: Idle
+Quanta 17: C
+Quanta 18: C
+Quanta 19: G
+Quanta 20: C
+Quanta 21: K
+Quanta 22: G
+Quanta 23: C
+Quanta 24: G
+Quanta 25: C
+Quanta 26: S
+Quanta 27: S
+Quanta 28: S
+Quanta 29: B
+Quanta 30: S
+Quanta 31: B
+Quanta 32: S
+Quanta 33: J
+Quanta 34: B
+Quanta 35: S
+Quanta 36: B
+Quanta 37: S
+Quanta 38: B
+Quanta 39: S
+Quanta 40: B
+Quanta 41: Z
+Quanta 42: A
+Quanta 43: B
+Quanta 44: Z
+Quanta 45: b
+Quanta 46: A
+Quanta 47: I
+Quanta 48: B
+Quanta 49: Z
+Quanta 50: M
+Quanta 51: b
+Quanta 52: A
+Quanta 53: Q
+Quanta 54: I
+Quanta 55: B
+Quanta 56: U
+Quanta 57: Z
+Quanta 58: M
+Quanta 59: b
+Quanta 60: A
+Quanta 61: Q
+Quanta 62: I
+Quanta 63: a
+Quanta 64: H
+Quanta 65: B
+Quanta 66: U
+Quanta 67: Z
+Quanta 68: M
+Quanta 69: P
+Quanta 70: b
+Quanta 71: 8
+Quanta 72: T
+Quanta 73: Q
+Quanta 74: I
+Quanta 75: a
+Quanta 76: X
+Quanta 77: H
+Quanta 78: U
+Quanta 79: Z
+Quanta 80: M
+Quanta 81: P
+Quanta 82: O
+Quanta 83: 8
+Quanta 84: T
+Quanta 85: Q
+Quanta 86: I
+Quanta 87: W
+Quanta 88: a
+Quanta 89: X
+Quanta 90: H
+Quanta 91: U
+Quanta 92: F
+Quanta 93: Z
+Quanta 94: M
+Quanta 95: P
+Quanta 96: O
+Quanta 97: N
+Quanta 98: T
+Quanta 99: R
+Quanta 100: Q
+Quanta 101: W
+Quanta 102: X
+Quanta 103: H
+Quanta 104: F
+Quanta 105: Z
+Quanta 106: M
+Quanta 107: P
+Quanta 108: O
+Quanta 109: N
+Quanta 110: R
+Quanta 111: Q
+Quanta 112: W
+Quanta 113: X
+Quanta 114: H
+Quanta 115: F
+Quanta 116: M
+Quanta 117: P
+Quanta 118: O
+Quanta 119: N
+Quanta 120: W
+Quanta 121: X
+Quanta 122: H
+Quanta 123: F
+Quanta 124: M
+Quanta 125: O
+Quanta 126: N
+Quanta 127: W
+Quanta 128: X
+Quanta 129: H
+Quanta 130: F
+Quanta 131: O
+Quanta 132: W
+Quanta 133: H
+Quanta 134: F
+Quanta 135: O
+Quanta 136: H
+Quanta 137: F
+Quanta 138: O
+Quanta 139: F
+Quanta 140: O
+
+Throughput: 19.148937
+Average Turnaround: 36.656948
+Average Wait: 32.120380
+Average Response: 5.656946
+Freeing workload
+
+
+
+=================HPF Non-preemptive=================
+
+*****HPF Non-pre Round 1*****
+Time Chart
+===========
+255,0,0,0,0,0,0,0,0,4,4,4,4,4,4,4,4,4,4,8,8,8,8,8,8,8,
+8,8,18,18,20,20,20,20,20,20,20,23,23,23,23,23,23,23,24,
+24,24,28,28,28,28,28,28,28,28,28,28,34,34,34,34,34,34,34,
+34,34,35,35,35,35,35,35,35,36,36,36,36,36,36,36,37,40,40,40,
+40,40,40,40,44,44,44,44,44,44,44,44,48,48,48,48
+
+Priority Queue 1
+=================
+Completed processes: 14
+Final end time: 99.000000
+Mean turnaround time: 31.716734
+Mean wait time: 25.741858
+Mean response time: 26.216734
+Mean throughput: 0.141414
+
+Priority Queue 2
+=================
+Completed processes: 0
+Final end time: 0.000000
+Mean turnaround time: -nan
+Mean wait time: -nan
+Mean response time: -nan
+Mean throughput: 0.000000
+
+Priority Queue 3
+=================
+Completed processes: 1
+Final end time: 8.000000
+Mean turnaround time: 7.244416
+Mean wait time: -0.689942
+Mean response time: 0.244416
+Mean throughput: 0.010101
+
+Priority Queue 4
+=================
+Completed processes: 0
+Final end time: 0.000000
+Mean turnaround time: -nan
+Mean wait time: -nan
+Mean response time: -nan
+Mean throughput: 0.000000
+
+Overall Statistics
+=================
+Completed processes: 15
+Final end time: 99.000000
+Mean turnaround time: 30.085247
+Mean wait time: 23.979738
+Mean response time: 24.485249
+Mean throughput: 0.151515
+
+*****HPF Non-pre Round 2*****
+Time Chart
+===========
+255,255,255,0,0,0,0,2,2,2,2,6,6,6,6,6,6,6,6,
+11,11,11,11,11,11,11,11,11,13,15,15,15,21,21,
+21,21,21,21,34,34,34,34,34,34,34,34,34,34,35,
+35,35,35,35,35,35,35,35,35,38,38,38,38,38,38,
+39,39,41,41,41,41,43,43,43,43,47,47,47,47,47,
+48,48,48,48,49,49,49,49,49,49,49,49,49,49,63,
+63,63,63,63,63,63
+
+Priority Queue 1
+=================
+Completed processes: 16
+Final end time: 99.000000
+Mean turnaround time: 19.155848
+Mean wait time: 13.838292
+Mean response time: 14.343348
+Mean throughput: 0.161616
+
+Priority Queue 2
+=================
+Completed processes: 1
+Final end time: 10.000000
+Mean turnaround time: 6.015294
+Mean wait time: 2.699173
+Mean response time: 3.015294
+Mean throughput: 0.010101
+
+Priority Queue 3
+=================
+Completed processes: 0
+Final end time: 0.000000
+Mean turnaround time: -nan
+Mean wait time: -nan
+Mean response time: -nan
+Mean throughput: 0.000000
+
+Priority Queue 4
+=================
+Completed processes: 0
+Final end time: 0.000000
+Mean turnaround time: -nan
+Mean wait time: -nan
+Mean response time: -nan
+Mean throughput: 0.000000
+
+Overall Statistics
+=================
+Completed processes: 17
+Final end time: 99.000000
+Mean turnaround time: 18.382875
+Mean wait time: 13.183051
+Mean response time: 13.676993
+Mean throughput: 0.171717
+
+*****HPF Non-pre Round 3*****
+Time Chart
+===========
+255,0,0,0,1,3,3,3,3,5,5,5,5,5,5,11,6,7,
+7,7,7,15,15,15,15,15,15,15,15,25,25,25,
+25,25,25,25,30,30,30,30,30,30,30,30,30,
+30,33,33,33,33,33,33,33,36,36,36,36,36,
+36,36,36,40,40,40,40,42,42,42,42,42,42,
+42,42,42,42,43,43,59,59,60,60,60,60,60,
+60,60,60,60,60,65,65,65,65,65,65,65,66,
+66,66,66,66,66,66,66,66,66
+
+Priority Queue 1
+=================
+Completed processes: 15
+Final end time: 105.000000
+Mean turnaround time: 18.078808
+Mean wait time: 12.116896
+Mean response time: 12.678806
+Mean throughput: 0.142857
+
+Priority Queue 2
+=================
+Completed processes: 2
+Final end time: 20.000000
+Mean turnaround time: 11.343615
+Mean wait time: 9.411263
+Mean response time: 9.843615
+Mean throughput: 0.019048
+
+Priority Queue 3
+=================
+Completed processes: 1
+Final end time: 3.000000
+Mean turnaround time: 2.050899
+Mean wait time: -0.835451
+Mean response time: 0.050899
+Mean throughput: 0.009524
+
+Priority Queue 4
+=================
+Completed processes: 1
+Final end time: 4.000000
+Mean turnaround time: 1.795276
+Mean wait time: 0.980668
+Mean response time: 1.795276
+Mean throughput: 0.009524
+
+Overall Statistics
+=================
+Completed processes: 19
+Final end time: 105.000000
+Mean turnaround time: 15.669238
+Mean wait time: 10.564273
+Mean response time: 11.142921
+Mean throughput: 0.180952
+
+*****HPF Non-pre Round 4*****
+Time Chart
+===========
+255,255,0,0,0,0,0,2,2,2,2,2,2,3,3,3,3,
+3,10,10,10,10,10,10,10,11,11,11,11,11,
+11,18,18,18,21,26,26,26,26,26,28,28,28,
+28,28,28,28,28,28,31,31,31,31,31,31,42,
+42,42,42,42,42,52,52,52,52,52,52,52,57,
+57,57,57,57,57,57,61,61,61,61,61,63,63,
+63,63,63,63,63,63,63,70,70,70,70,70,70,
+70,70,70,71,71,71,71,71,71,71,71,71,71,
+
+Priority Queue 1
+=================
+Completed processes: 16
+Final end time: 107.000000
+Mean turnaround time: 16.635588
+Mean wait time: 10.874729
+Mean response time: 11.323088
+Mean throughput: 0.149533
+
+Priority Queue 2
+=================
+Completed processes: 1
+Final end time: 6.000000
+Mean turnaround time: 4.889465
+Mean wait time: 0.440668
+Mean response time: 0.889465
+Mean throughput: 0.009346
+
+Priority Queue 3
+=================
+Completed processes: 0
+Final end time: 0.000000
+Mean turnaround time: -nan
+Mean wait time: -nan
+Mean response time: -nan
+Mean throughput: 0.000000
+
+Priority Queue 4
+=================
+Completed processes: 0
+Final end time: 0.000000
+Mean turnaround time: -nan
+Mean wait time: -nan
+Mean response time: -nan
+Mean throughput: 0.000000
+
+Overall Statistics
+=================
+Completed processes: 17
+Final end time: 107.000000
+Mean turnaround time: 15.944639
+Mean wait time: 10.260962
+Mean response time: 10.709345
+Mean throughput: 0.158879
+
+*****HPF Non-pre Round 5*****
+Time Chart
+===========
+255,0,0,2,2,1,1,1,1,1,1,1,1,5,5,5,
+5,5,5,5,5,6,6,6,6,6,6,6,6,6,6,7,7,
+7,7,7,10,10,10,25,25,25,25,25,28,28,
+28,28,28,30,30,30,30,30,30,33,33,33,
+33,33,33,33,33,33,33,34,34,34,34,35,
+35,35,35,35,35,36,36,36,36,36,36,36,
+36,36,44,46,46,46,49,56,56,56,56,56,
+56,56,61,61,73,73,73,73,
+
+Priority Queue 1
+=================
+Completed processes: 18
+Final end time: 101.000000
+Mean turnaround time: 28.232418
+Mean wait time: 23.585209
+Mean response time: 24.176863
+Mean throughput: 0.178218
+
+Priority Queue 2
+=================
+Completed processes: 0
+Final end time: 0.000000
+Mean turnaround time: -nan
+Mean wait time: -nan
+Mean response time: -nan
+Mean throughput: 0.000000
+
+Priority Queue 3
+=================
+Completed processes: 1
+Final end time: 2.000000
+Mean turnaround time: 1.541882
+Mean wait time: -0.394262
+Mean response time: 0.541882
+Mean throughput: 0.009901
+
+Priority Queue 4
+=================
+Completed processes: 1
+Final end time: 12.000000
+Mean turnaround time: 9.673611
+Mean wait time: 2.132552
+Mean response time: 2.673610
+Mean throughput: 0.009901
+
+Overall Statistics
+=================
+Completed processes: 20
+Final end time: 101.000000
+Mean turnaround time: 25.969952
+Mean wait time: 21.313602
+Mean response time: 21.919952
+Mean throughput: 0.198020
+
+
+=================HPF Preemptive=================
+
+*****HPF Pre Round 1*****
+Time Chart
+===========
+255,0,0,0,0,0,3,3,3,3,3,3,3,3,3,3,3,0,7,7,7,7,7,7,7,
+7,7,7,26,26,30,30,30,30,30,30,30,30,30,30,30,7,24,24,
+24,24,24,24,37,37,37,37,37,37,37,37,37,37,50,50,50,50,
+50,50,60,60,37,52,52,52,52,52,52,52,52,71,71,71,71,71,
+71,71,71,71,83,83,83,83,83,83,83,83,83,83,83,83,91,91,
+91,57,
+
+Priority Queue 1
+=================
+Completed processes: 7
+Mean turnaround time: 10.277253
+Mean wait time: 4.865605
+Mean response time: 3.134396
+Mean throughput: 0.061404
+
+Priority Queue 2
+=================
+Completed processes: 7
+Mean turnaround time: 33.905853
+Mean wait time: 26.808880
+Mean response time: 15.762998
+Mean throughput: 0.065421
+
+Priority Queue 3
+=================
+Completed processes: 0
+Mean turnaround time: -nan
+Mean wait time: -nan
+Mean response time: -nan
+Mean throughput: -nan
+
+Priority Queue 4
+=================
+Completed processes: 0
+Mean turnaround time: -nan
+Mean wait time: -nan
+Mean response time: -nan
+Mean throughput: -nan
+
+Overall Statistics
+=================
+Completed processes: 14
+Mean turnaround time: 22.091555
+Mean wait time: 15.837242
+Mean response time: 9.448697
+Mean throughput: 0.122807
+
+*****HPF Pre Round 2*****
+Time Chart
+===========
+255,0,0,0,0,0,0,0,0,1,1,1,1,1,1,
+10,10,11,11,11,11,11,15,15,15,20,
+20,20,24,24,24,18,18,18,18,18,18,
+18,18,28,37,37,37,37,37,37,37,37,
+37,18,32,32,32,32,32,32,32,32,32,
+32,51,51,51,51,51,51,51,51,51,51,
+51,68,68,51,51,68,74,74,74,74,74,
+74,74,74,74,32,32,32,32,32,32,32,
+93,93,32,32,59,59,59,59
+
+Priority Queue 1
+=================
+Completed processes: 9
+Mean turnaround time: 9.150501
+Mean wait time: 4.676912
+Mean response time: 3.039390
+Mean throughput: 0.093750
+
+Priority Queue 2
+=================
+Completed processes: 6
+Mean turnaround time: 25.840677
+Mean wait time: 20.236450
+Mean response time: 12.007346
+Mean throughput: 0.057692
+
+Priority Queue 3
+=================
+Completed processes: 1
+Mean turnaround time: 13.620125
+Mean wait time: 8.079704
+Mean response time: 7.620125
+Mean throughput: 0.066667
+
+Priority Queue 4
+=================
+Completed processes: 0
+Mean turnaround time: -nan
+Mean wait time: -nan
+Mean response time: -nan
+Mean throughput: -nan
+
+Overall Statistics
+=================
+Completed processes: 16
+Mean turnaround time: 15.688669
+Mean wait time: 10.724413
+Mean response time: 6.688669
+Mean throughput: 0.153846
+
+*****HPF Pre Round 3*****
+Time Chart
+===========
+255,0,0,0,0,0,0,0,0,0,6,6,6,6,6,
+6,6,12,12,12,12,12,12,12,22,22,22,
+22,22,22,22,22,22,22,22,22,38,38,
+38,38,38,38,38,38,38,38,51,51,51,
+51,51,6,6,60,60,60,60,60,60,60,60,
+70,70,70,70,70,70,70,70,70,70,70,
+75,75,75,75,75,75,75,75,75,75,75,
+16,16,16,16,16,16,16,16,16,16,90,
+90,90,54,54,98,98
+
+Priority Queue 1
+=================
+Completed processes: 10
+Mean turnaround time: 10.302568
+Mean wait time: 4.606334
+Mean response time: 2.402569
+Mean throughput: 0.099010
+
+Priority Queue 2
+=================
+Completed processes: 3
+Mean turnaround time: 58.378738
+Mean wait time: 52.469105
+Mean response time: 40.045406
+Mean throughput: 0.030612
+
+Priority Queue 3
+=================
+Completed processes: 0
+Mean turnaround time: -nan
+Mean wait time: -nan
+Mean response time: -nan
+Mean throughput: -nan
+
+Priority Queue 4
+=================
+Completed processes: 0
+Mean turnaround time: -nan
+Mean wait time: -nan
+Mean response time: -nan
+Mean throughput: -nan
+
+Overall Statistics
+=================
+Completed processes: 13
+Mean turnaround time: 21.397072
+Mean wait time: 15.651589
+Mean response time: 11.089376
+Mean throughput: 0.128713
+
+*****HPF Pre Round 4*****
+Time Chart
+===========
+255,0,0,0,0,0,0,2,2,2,2,2,2,2,2,
+2,2,13,13,13,13,13,16,16,16,16,16,
+23,23,16,24,24,24,24,24,24,24,24,
+24,31,31,31,31,31,31,24,24,31,31,
+31,31,31,41,41,41,41,41,41,41,57,
+57,57,57,57,57,57,57,57,57,57,57,
+57,71,72,5,5,5,5,5,5,5,38,38,38,
+38,38,38,38,52,87,87,87,60,60,60,
+60,60,60,94,94,
+
+Priority Queue 1
+=================
+Completed processes: 12
+Mean turnaround time: 10.235795
+Mean wait time: 5.940015
+Mean response time: 3.402463
+Mean throughput: 0.120000
+
+Priority Queue 2
+=================
+Completed processes: 4
+Mean turnaround time: 49.307842
+Mean wait time: 44.622566
+Mean response time: 44.057842
+Mean throughput: 0.040816
+
+Priority Queue 3
+=================
+Completed processes: 1
+Mean turnaround time: 6.115964
+Mean wait time: 0.790128
+Mean response time: 0.115964
+Mean throughput: 0.142857
+
+Priority Queue 4
+=================
+Completed processes: 0
+Mean turnaround time: -nan
+Mean wait time: -nan
+Mean response time: -nan
+Mean throughput: -nan
+
+Overall Statistics
+=================
+Completed processes: 17
+Mean turnaround time: 19.186876
+Mean wait time: 14.738856
+Mean response time: 12.775110
+Mean throughput: 0.170000
+
+*****HPF Pre Round 5*****
+255,255,0,0,0,0,2,2,2,2,2,2,2,
+3,3,3,3,3,3,3,14,14,14,14,14,
+22,22,22,22,22,22,22,22,22,22,
+30,30,30,30,30,30,43,43,43,43,
+43,43,43,43,43,43,43,51,51,51,
+51,54,54,54,54,54,54,54,59,59,
+59,59,59,59,59,59,59,59,59,59,
+71,4,4,4,4,4,4,4,77,77,77,77,
+77,77,77,77,77,77,38,38,38,38,
+38,38,38
+
+Priority Queue 1
+=================
+Completed processes: 10
+Mean turnaround time: 10.346127
+Mean wait time: 4.482258
+Mean response time: 3.046127
+Mean throughput: 0.107527
+
+Priority Queue 2
+=================
+Completed processes: 2
+Mean turnaround time: 69.686707
+Mean wait time: 62.938522
+Mean response time: 62.686707
+Mean throughput: 0.020000
+
+Priority Queue 3
+=================
+Completed processes: 1
+Mean turnaround time: 4.036835
+Mean wait time: 1.708336
+Mean response time: 0.036835
+Mean throughput: 0.166667
+
+Priority Queue 4
+=================
+Completed processes: 1
+Mean turnaround time: 8.224518
+Mean wait time: 1.809774
+Mean response time: 1.224518
+Mean throughput: 0.076923
+
+Overall Statistics
+=================
+Completed processes: 14
+Mean turnaround time: 18.221144
+Mean wait time: 12.444123
+Mean response time: 11.221145
+Mean throughput: 0.140000
+
+=====SRT run 0================
+Creating workload
+name W, arrival 0.943898, service 0.688000, priority 3, 
+name B, arrival 3.709808, service 4.775402, priority 1, 
+name F, arrival 6.243796, service 2.888687, priority 3, 
+name c, arrival 6.738504, service 9.710427, priority 2, 
+name N, arrival 9.706580, service 3.899320, priority 4, 
+name k, arrival 10.396932, service 5.813894, priority 4, 
+name I, arrival 19.987360, service 0.185734, priority 2, 
+name j, arrival 22.754761, service 5.095707, priority 2, 
+name Q, arrival 23.711214, service 1.239647, priority 1, 
+name U, arrival 25.407902, service 4.203707, priority 1, 
+name Y, arrival 26.487085, service 7.114946, priority 1, 
+name D, arrival 30.260111, service 6.359428, priority 4, 
+name H, arrival 31.548412, service 4.352523, priority 3, 
+name L, arrival 33.514652, service 2.413465, priority 3, 
+name i, arrival 34.470104, service 9.276387, priority 2, 
+name P, arrival 35.458286, service 5.435447, priority 2, 
+name m, arrival 36.228512, service 2.364617, priority 3, 
+name C, arrival 41.234764, service 5.530833, priority 3, 
+name d, arrival 44.484215, service 5.535071, priority 3, 
+name K, arrival 45.132416, service 6.579745, priority 2, 
+name J, arrival 56.998009, service 0.891707, priority 2, 
+name g, arrival 58.125542, service 7.768856, priority 2, 
+name R, arrival 60.992355, service 1.955743, priority 1, 
+name V, arrival 62.753757, service 9.880292, priority 2, 
+name Z, arrival 64.792953, service 7.958391, priority 4, 
+name A, arrival 65.606010, service 4.060255, priority 4, 
+name E, arrival 67.228905, service 7.052009, priority 3, 
+name b, arrival 68.463181, service 4.039178, priority 3, 
+name f, arrival 70.228745, service 7.038344, priority 4, 
+name M, arrival 71.029762, service 8.117650, priority 4, 
+name n, arrival 73.951721, service 3.141599, priority 3, 
+name a, arrival 80.385918, service 3.299399, priority 4, 
+name e, arrival 81.976593, service 6.269605, priority 3, 
+name T, arrival 86.377403, service 3.443421, priority 1, 
+name X, arrival 88.374191, service 6.439191, priority 4, 
+name G, arrival 93.017471, service 3.613149, priority 1, 
+name h, arrival 95.558060, service 8.494314, priority 4, 
+name O, arrival 96.604050, service 4.648695, priority 4, 
+name l, arrival 97.794113, service 6.583854, priority 2, 
+name S, arrival 98.427231, service 2.676375, priority 3, 
+ W  BBBBBFFFNNNNkkkkIkkjQQjjjjjUUUUULLLmmmHHHHHPPPPPPCCCCJCCdRRdddddAAAAAbbbbbnnnnaaaaeTTTTeeeeeeGGGG
+Average turnaround: 4.42
+Average response: 2.32
+Average waiting: 2.33
+throughput: 23.76 per 100 quantum
+Freeing workload
+=====SRT run 1================
+Creating workload
+name p, arrival 0.397681, service 4.607081, priority 2, 
+name A, arrival 3.282198, service 8.685257, priority 1, 
+name x, arrival 4.511338, service 5.698181, priority 4, 
+name I, arrival 6.738504, service 9.710427, priority 2, 
+name 1, arrival 8.630467, service 1.979650, priority 1, 
+name Q, arrival 10.396932, service 5.813894, priority 4, 
+name 5, arrival 10.454252, service 9.914174, priority 2, 
+name o, arrival 12.526776, service 3.870666, priority 4, 
+name s, arrival 14.326908, service 6.862430, priority 3, 
+name w, arrival 16.264278, service 4.915644, priority 2, 
+name D, arrival 17.225306, service 1.075350, priority 3, 
+name P, arrival 22.754761, service 5.095707, priority 2, 
+name 8, arrival 24.250006, service 7.240552, priority 4, 
+name v, arrival 28.228235, service 9.133230, priority 4, 
+name C, arrival 29.015802, service 5.255159, priority 1, 
+name O, arrival 34.470104, service 9.276387, priority 2, 
+name S, arrival 36.228512, service 2.364617, priority 3, 
+name u, arrival 39.919579, service 3.408375, priority 3, 
+name F, arrival 42.970490, service 2.558099, priority 4, 
+name J, arrival 44.484215, service 5.535071, priority 3, 
+name 6, arrival 48.135384, service 0.795622, priority 2, 
+name t, arrival 52.186951, service 7.643302, priority 2, 
+name E, arrival 54.726391, service 1.801552, priority 3, 
+name M, arrival 58.125542, service 7.768856, priority 2, 
+name 9, arrival 61.503120, service 2.998022, priority 3, 
+name H, arrival 68.463181, service 4.039178, priority 3, 
+name L, arrival 70.228745, service 7.038344, priority 4, 
+name 4, arrival 71.580894, service 9.133103, priority 3, 
+name r, arrival 76.166832, service 6.172384, priority 2, 
+name z, arrival 79.656410, service 7.182351, priority 2, 
+name G, arrival 80.385918, service 3.299399, priority 4, 
+name K, arrival 81.976593, service 6.269605, priority 3, 
+name 3, arrival 83.814491, service 8.442616, priority 1, 
+name 7, arrival 85.657448, service 6.479617, priority 3, 
+name q, arrival 87.807823, service 5.374926, priority 1, 
+name B, arrival 90.381531, service 9.436344, priority 2, 
+name y, arrival 91.376953, service 1.464923, priority 1, 
+name 2, arrival 95.499542, service 2.718518, priority 4, 
+name N, arrival 95.558060, service 8.494314, priority 4, 
+name R, arrival 97.794113, service 6.583854, priority 2, 
+ pppppxxx11xxxooooDDwwwwwPPPPPPCCCCCCSSSuuuuFFFJJ6JJJJQEEQQQQQ999sssssssHHHHHrrrrrrrGGGGqqqqqqyy222KKKKKKK
+Average turnaround: 5.68
+Average response: 3.53
+Average waiting: 3.35
+throughput: 22.64 per 100 quantum
+Freeing workload
+=====SRT run 2================
+Creating workload
+name V, arrival 0.397681, service 4.607081, priority 2, 
+name s, arrival 1.830959, service 1.619069, priority 4, 
+name f, arrival 8.232365, service 1.800599, priority 3, 
+name 4, arrival 9.706580, service 3.899320, priority 4, 
+name U, arrival 12.526776, service 3.870666, priority 4, 
+name Y, arrival 14.326908, service 6.862430, priority 3, 
+name v, arrival 15.756845, service 3.893625, priority 2, 
+name a, arrival 18.093571, service 2.978717, priority 2, 
+name e, arrival 19.281031, service 0.951471, priority 3, 
+name 7, arrival 23.711214, service 1.239647, priority 1, 
+name m, arrival 24.101442, service 7.054821, priority 4, 
+name y, arrival 29.349455, service 6.123566, priority 4, 
+name d, arrival 31.793705, service 0.258571, priority 1, 
+name 2, arrival 33.514652, service 2.413465, priority 3, 
+name 6, arrival 35.458286, service 5.435447, priority 2, 
+name t, arrival 39.865406, service 7.368098, priority 1, 
+name c, arrival 43.629932, service 4.461819, priority 2, 
+name 1, arrival 45.132416, service 6.579745, priority 2, 
+name g, arrival 45.712959, service 7.465417, priority 4, 
+name k, arrival 47.985474, service 5.577083, priority 2, 
+name o, arrival 49.525097, service 3.596448, priority 4, 
+name Z, arrival 52.186951, service 7.643302, priority 2, 
+name w, arrival 53.209999, service 9.574896, priority 1, 
+name b, arrival 55.460606, service 8.653609, priority 3, 
+name j, arrival 59.336239, service 4.769245, priority 2, 
+name n, arrival 61.853207, service 2.885015, priority 2, 
+name r, arrival 64.010933, service 5.917032, priority 4, 
+name z, arrival 66.762001, service 1.911590, priority 1, 
+name 3, arrival 71.029762, service 8.117650, priority 4, 
+name i, arrival 71.394928, service 8.978404, priority 1, 
+name T, arrival 73.951721, service 3.141599, priority 3, 
+name q, arrival 75.673782, service 5.124559, priority 2, 
+name X, arrival 76.166832, service 6.172384, priority 2, 
+name u, arrival 77.129105, service 3.123095, priority 2, 
+name h, arrival 83.485855, service 3.294765, priority 2, 
+name l, arrival 85.241455, service 1.335622, priority 4, 
+name p, arrival 87.264572, service 4.352296, priority 3, 
+name W, arrival 87.807823, service 5.374926, priority 1, 
+name x, arrival 90.891647, service 0.435419, priority 2, 
+name 5, arrival 96.604050, service 4.648695, priority 4, 
+ VssVVVV ff4444UUUUaeaav77vvvYYYdY222YYY666666cccccooookkkkkkjnnnjjjjzzrrrrrrTTTTuuuuhllhhhxppppp55555
+Average turnaround: 3.94
+Average response: 1.77
+Average waiting: 1.80
+throughput: 26.47 per 100 quantum
+Freeing workload
+=====SRT run 3================
+Creating workload
+name Y, arrival 1.830959, service 1.619069, priority 4, 
+name D, arrival 4.511338, service 5.698181, priority 4, 
+name L, arrival 8.232365, service 1.800599, priority 3, 
+name i, arrival 9.625419, service 8.698984, priority 3, 
+name C, arrival 16.264278, service 4.915644, priority 2, 
+name G, arrival 18.093571, service 2.978717, priority 2, 
+name K, arrival 19.281031, service 0.951471, priority 3, 
+name h, arrival 21.189146, service 7.917181, priority 2, 
+name l, arrival 23.182430, service 1.044330, priority 1, 
+name S, arrival 24.101442, service 7.054821, priority 4, 
+name B, arrival 28.228235, service 9.133230, priority 4, 
+name J, arrival 31.793705, service 0.258571, priority 1, 
+name g, arrival 32.752151, service 2.192750, priority 4, 
+name k, arrival 35.420387, service 5.244469, priority 3, 
+name Z, arrival 39.865406, service 7.368098, priority 1, 
+name A, arrival 39.919579, service 3.408375, priority 3, 
+name b, arrival 42.950268, service 3.413212, priority 3, 
+name I, arrival 43.629932, service 4.461819, priority 2, 
+name f, arrival 45.260845, service 1.508182, priority 2, 
+name M, arrival 45.712959, service 7.465417, priority 4, 
+name Q, arrival 47.985474, service 5.577083, priority 2, 
+name U, arrival 49.525097, service 3.596448, priority 4, 
+name a, arrival 55.231052, service 2.690229, priority 3, 
+name H, arrival 55.460606, service 8.653609, priority 3, 
+name e, arrival 56.947285, service 0.731591, priority 3, 
+name P, arrival 59.336239, service 4.769245, priority 2, 
+name 8, arrival 60.992355, service 1.955743, priority 1, 
+name T, arrival 61.853207, service 2.885015, priority 2, 
+name X, arrival 64.010933, service 5.917032, priority 4, 
+name d, arrival 69.036095, service 9.881425, priority 3, 
+name O, arrival 71.394928, service 8.978404, priority 1, 
+name W, arrival 75.673782, service 5.124559, priority 2, 
+name F, arrival 79.656410, service 7.182351, priority 2, 
+name c, arrival 80.498177, service 9.109798, priority 3, 
+name N, arrival 83.485855, service 3.294765, priority 2, 
+name R, arrival 85.241455, service 1.335622, priority 4, 
+name V, arrival 87.264572, service 4.352296, priority 3, 
+name E, arrival 91.376953, service 1.464923, priority 1, 
+name j, arrival 96.286064, service 9.421902, priority 4, 
+name 9, arrival 98.427231, service 2.676375, priority 3, 
+  YY DDDDDDLLiiiiiiiKiiGllGGCCCCJCgggkkkkkkAAAAffbbbbUUUUeaaa88TTTIIIIIPPPPPWWWWWWQQNNNNRRQQEEQQVVVVV
+Average turnaround: 5.26
+Average response: 3.18
+Average waiting: 3.17
+throughput: 26.73 per 100 quantum
+Freeing workload
+=====SRT run 4================
+Creating workload
+name n, arrival 0.018290, service 7.553297, priority 1, 
+name r, arrival 1.379875, service 5.540421, priority 3, 
+name O, arrival 9.625419, service 8.698984, priority 3, 
+name 7, arrival 10.396932, service 5.813894, priority 4, 
+name m, arrival 11.320719, service 1.790614, priority 2, 
+name B, arrival 15.756845, service 3.893625, priority 2, 
+name y, arrival 16.434124, service 5.778440, priority 3, 
+name N, arrival 21.189146, service 7.917181, priority 2, 
+name 6, arrival 22.754761, service 5.095707, priority 2, 
+name p, arrival 25.098078, service 4.033922, priority 2, 
+name t, arrival 27.041779, service 2.108186, priority 1, 
+name E, arrival 29.349455, service 6.123566, priority 4, 
+name M, arrival 32.752151, service 2.192750, priority 4, 
+name 5, arrival 34.470104, service 9.276387, priority 2, 
+name Q, arrival 35.420387, service 5.244469, priority 3, 
+name 9, arrival 36.228512, service 2.364617, priority 3, 
+name H, arrival 42.950268, service 3.413212, priority 3, 
+name L, arrival 45.260845, service 1.508182, priority 2, 
+name v, arrival 52.772869, service 3.608288, priority 3, 
+name C, arrival 53.209999, service 9.574896, priority 1, 
+name z, arrival 54.195892, service 1.598378, priority 3, 
+name G, arrival 55.231052, service 2.690229, priority 3, 
+name K, arrival 56.947285, service 0.731591, priority 3, 
+name 3, arrival 58.125542, service 7.768856, priority 2, 
+name q, arrival 62.587120, service 9.723446, priority 4, 
+name u, arrival 64.829216, service 7.795106, priority 1, 
+name F, arrival 66.762001, service 1.911590, priority 1, 
+name J, arrival 69.036095, service 9.881425, priority 3, 
+name 2, arrival 70.228745, service 7.038344, priority 4, 
+name A, arrival 77.129105, service 3.123095, priority 2, 
+name x, arrival 77.983902, service 9.989064, priority 3, 
+name I, arrival 80.498177, service 9.109798, priority 3, 
+name 1, arrival 81.976593, service 6.269605, priority 3, 
+name o, arrival 86.330200, service 3.269401, priority 3, 
+name s, arrival 88.461380, service 1.332750, priority 4, 
+name w, arrival 90.296677, service 4.329948, priority 2, 
+name D, arrival 90.891647, service 0.435419, priority 2, 
+name 4, arrival 95.558060, service 8.494314, priority 4, 
+name P, arrival 96.286064, service 9.421902, priority 4, 
+name 8, arrival 97.794113, service 6.583854, priority 2, 
+ nrrrrrrnnnnmmnnnBBBByyyyyyptttppppMMM999666666LLHHHHvvzzKvvGGGQQQQQQFF777777EAAAAEEEEEEossDooowwwww
+Average turnaround: 7.20
+Average response: 4.82
+Average waiting: 5.00
+throughput: 25.00 per 100 quantum
+Freeing workload
+
+=================SJF=================
+
+Creating workload
+name p, arrival 0.397681, service 4.607081, priority 2, 
+name W, arrival 0.943898, service 0.688000, priority 3, 
+name B, arrival 3.709808, service 4.775402, priority 1, 
+name x, arrival 4.511338, service 5.698181, priority 4, 
+name F, arrival 6.243796, service 2.888687, priority 3, 
+name c, arrival 6.738504, service 9.710427, priority 2, 
+name 1, arrival 8.630467, service 1.979650, priority 1, 
+name N, arrival 9.706580, service 3.899320, priority 4, 
+name k, arrival 10.396932, service 5.813894, priority 4, 
+name 5, arrival 10.454252, service 9.914174, priority 2, 
+name o, arrival 12.526776, service 3.870666, priority 4, 
+name s, arrival 14.326908, service 6.862430, priority 3, 
+name w, arrival 16.264278, service 4.915644, priority 2, 
+name I, arrival 19.987360, service 0.185734, priority 2, 
+name j, arrival 22.754761, service 5.095707, priority 2, 
+name Q, arrival 23.711214, service 1.239647, priority 1, 
+name 8, arrival 24.250006, service 7.240552, priority 4, 
+name U, arrival 25.407902, service 4.203707, priority 1, 
+name Y, arrival 26.487085, service 7.114946, priority 1, 
+name v, arrival 28.228235, service 9.133230, priority 4, 
+name D, arrival 30.260111, service 6.359428, priority 4, 
+name H, arrival 31.548412, service 4.352523, priority 3, 
+name L, arrival 33.514652, service 2.413465, priority 3, 
+name i, arrival 34.470104, service 9.276387, priority 2, 
+name P, arrival 35.458286, service 5.435447, priority 2, 
+name m, arrival 36.228512, service 2.364617, priority 3, 
+name u, arrival 39.919579, service 3.408375, priority 3, 
+name C, arrival 41.234764, service 5.530833, priority 3, 
+name d, arrival 44.484215, service 5.535071, priority 3, 
+name K, arrival 45.132416, service 6.579745, priority 2, 
+name 6, arrival 48.135384, service 0.795622, priority 2, 
+name t, arrival 52.186951, service 7.643302, priority 2, 
+name J, arrival 56.998009, service 0.891707, priority 2, 
+name g, arrival 58.125542, service 7.768856, priority 2, 
+name R, arrival 60.992355, service 1.955743, priority 1, 
+name V, arrival 62.753757, service 9.880292, priority 2, 
+name Z, arrival 64.792953, service 7.958391, priority 4, 
+name A, arrival 65.606010, service 4.060255, priority 4, 
+name E, arrival 67.228905, service 7.052009, priority 3, 
+name b, arrival 68.463181, service 4.039178, priority 3, 
+name f, arrival 70.228745, service 7.038344, priority 4, 
+name M, arrival 71.029762, service 8.117650, priority 4, 
+name 4, arrival 71.580894, service 9.133103, priority 3, 
+name n, arrival 73.951721, service 3.141599, priority 3, 
+name r, arrival 76.166832, service 6.172384, priority 2, 
+name z, arrival 79.656410, service 7.182351, priority 2, 
+name a, arrival 80.385918, service 3.299399, priority 4, 
+name e, arrival 81.976593, service 6.269605, priority 3, 
+name 3, arrival 83.814491, service 8.442616, priority 1, 
+name 7, arrival 85.657448, service 6.479617, priority 3, 
+name T, arrival 86.377403, service 3.443421, priority 1, 
+name q, arrival 87.807823, service 5.374926, priority 1, 
+name X, arrival 88.374191, service 6.439191, priority 4, 
+name y, arrival 91.376953, service 1.464923, priority 1, 
+name G, arrival 93.017471, service 3.613149, priority 1, 
+name 2, arrival 95.499542, service 2.718518, priority 4, 
+name h, arrival 95.558060, service 8.494314, priority 4, 
+name O, arrival 96.604050, service 4.648695, priority 4, 
+name l, arrival 97.794113, service 6.583854, priority 2, 
+name S, arrival 98.427231, service 2.676375, priority 3, 
+Process: W 
+	Quantum: 1
+	Start Time: 1
+ 	Turnaround: 1 
+ 	Response:  1 
+	Waiting: 1 
+	Current Arrival: 0
+Process: p 
+	Quantum: 2
+	Start Time: 2
+ 	Turnaround: 6 
+ 	Response:  2 
+	Waiting: 2 
+	Current Arrival: 0
+Process: F 
+	Quantum: 7
+	Start Time: 7
+ 	Turnaround: 3 
+ 	Response:  1 
+	Waiting: 1 
+	Current Arrival: 6
+Process: 1 
+	Quantum: 10
+	Start Time: 10
+ 	Turnaround: 3 
+ 	Response:  2 
+	Waiting: 2 
+	Current Arrival: 8
+Process: N 
+	Quantum: 12
+	Start Time: 12
+ 	Turnaround: 6 
+ 	Response:  3 
+	Waiting: 3 
+	Current Arrival: 9
+Process: o 
+	Quantum: 16
+	Start Time: 16
+ 	Turnaround: 7 
+ 	Response:  4 
+	Waiting: 4 
+	Current Arrival: 12
+Process: I 
+	Quantum: 20
+	Start Time: 20
+ 	Turnaround: 1 
+ 	Response:  1 
+	Waiting: 1 
+	Current Arrival: 19
+Process: B 
+	Quantum: 21
+	Start Time: 21
+ 	Turnaround: 22 
+ 	Response:  18 
+	Waiting: 18 
+	Current Arrival: 3
+Process: Q 
+	Quantum: 26
+	Start Time: 26
+ 	Turnaround: 4 
+ 	Response:  3 
+	Waiting: 3 
+	Current Arrival: 23
+Process: U 
+	Quantum: 28
+	Start Time: 28
+ 	Turnaround: 7 
+ 	Response:  3 
+	Waiting: 3 
+	Current Arrival: 25
+Process: H 
+	Quantum: 33
+	Start Time: 33
+ 	Turnaround: 6 
+ 	Response:  2 
+	Waiting: 2 
+	Current Arrival: 31
+Process: m 
+	Quantum: 38
+	Start Time: 38
+ 	Turnaround: 4 
+ 	Response:  2 
+	Waiting: 2 
+	Current Arrival: 36
+Process: L 
+	Quantum: 41
+	Start Time: 41
+ 	Turnaround: 10 
+ 	Response:  8 
+	Waiting: 8 
+	Current Arrival: 33
+Process: u 
+	Quantum: 44
+	Start Time: 44
+ 	Turnaround: 8 
+ 	Response:  5 
+	Waiting: 5 
+	Current Arrival: 39
+Process: w 
+	Quantum: 48
+	Start Time: 48
+ 	Turnaround: 36 
+ 	Response:  32 
+	Waiting: 32 
+	Current Arrival: 16
+Process: 6 
+	Quantum: 53
+	Start Time: 53
+ 	Turnaround: 5 
+ 	Response:  5 
+	Waiting: 5 
+	Current Arrival: 48
+Process: j 
+	Quantum: 54
+	Start Time: 54
+ 	Turnaround: 37 
+ 	Response:  32 
+	Waiting: 32 
+	Current Arrival: 22
+Process: J 
+	Quantum: 60
+	Start Time: 60
+ 	Turnaround: 4 
+ 	Response:  4 
+	Waiting: 4 
+	Current Arrival: 56
+Process: R 
+	Quantum: 61
+	Start Time: 61
+ 	Turnaround: 2 
+ 	Response:  1 
+	Waiting: 1 
+	Current Arrival: 60
+Process: P 
+	Quantum: 63
+	Start Time: 63
+ 	Turnaround: 33 
+ 	Response:  28 
+	Waiting: 28 
+	Current Arrival: 35
+Process: b 
+	Quantum: 69
+	Start Time: 69
+ 	Turnaround: 5 
+ 	Response:  1 
+	Waiting: 1 
+	Current Arrival: 68
+Process: n 
+	Quantum: 74
+	Start Time: 74
+ 	Turnaround: 4 
+ 	Response:  1 
+	Waiting: 1 
+	Current Arrival: 73
+Process: A 
+	Quantum: 78
+	Start Time: 78
+ 	Turnaround: 17 
+ 	Response:  13 
+	Waiting: 13 
+	Current Arrival: 65
+Process: a 
+	Quantum: 83
+	Start Time: 83
+ 	Turnaround: 6 
+ 	Response:  3 
+	Waiting: 3 
+	Current Arrival: 80
+Process: T 
+	Quantum: 87
+	Start Time: 87
+ 	Turnaround: 4 
+ 	Response:  1 
+	Waiting: 1 
+	Current Arrival: 86
+Process: q 
+	Quantum: 91
+	Start Time: 91
+ 	Turnaround: 9 
+ 	Response:  4 
+	Waiting: 4 
+	Current Arrival: 87
+Process: y 
+	Quantum: 97
+	Start Time: 97
+ 	Turnaround: 7 
+ 	Response:  6 
+	Waiting: 6 
+	Current Arrival: 91
+Process: S 
+	Quantum: 99
+	Start Time: 99
+ 	Turnaround: 3 
+ 	Response:  1 
+	Waiting: 1 
+	Current Arrival: 98
+Process: 2 
+	Quantum: 100
+	Start Time: 100
+ 	Turnaround: 7 
+ 	Response:  5 
+	Waiting: 5 
+	Current Arrival: 95
+Average turnaround: 4.45
+ Average waiting: 3.20
+ Average response: 3.20
+ Average throughput: 29.00
+Timechart:
+	WpF1NoIBQUHmLuw6jJRPbnAaTqyS2
+Freeing workload
+Creating workload
+name V, arrival 0.397681, service 4.607081, priority 2, 
+name s, arrival 1.830959, service 1.619069, priority 4, 
+name A, arrival 3.282198, service 8.685257, priority 1, 
+name I, arrival 6.738504, service 9.710427, priority 2, 
+name f, arrival 8.232365, service 1.800599, priority 3, 
+name 4, arrival 9.706580, service 3.899320, priority 4, 
+name Q, arrival 10.396932, service 5.813894, priority 4, 
+name U, arrival 12.526776, service 3.870666, priority 4, 
+name Y, arrival 14.326908, service 6.862430, priority 3, 
+name v, arrival 15.756845, service 3.893625, priority 2, 
+name D, arrival 17.225306, service 1.075350, priority 3, 
+name a, arrival 18.093571, service 2.978717, priority 2, 
+name e, arrival 19.281031, service 0.951471, priority 3, 
+name P, arrival 22.754761, service 5.095707, priority 2, 
+name 7, arrival 23.711214, service 1.239647, priority 1, 
+name m, arrival 24.101442, service 7.054821, priority 4, 
+name C, arrival 29.015802, service 5.255159, priority 1, 
+name y, arrival 29.349455, service 6.123566, priority 4, 
+name d, arrival 31.793705, service 0.258571, priority 1, 
+name 2, arrival 33.514652, service 2.413465, priority 3, 
+name O, arrival 34.470104, service 9.276387, priority 2, 
+name 6, arrival 35.458286, service 5.435447, priority 2, 
+name S, arrival 36.228512, service 2.364617, priority 3, 
+name t, arrival 39.865406, service 7.368098, priority 1, 
+name F, arrival 42.970490, service 2.558099, priority 4, 
+name c, arrival 43.629932, service 4.461819, priority 2, 
+name J, arrival 44.484215, service 5.535071, priority 3, 
+name 1, arrival 45.132416, service 6.579745, priority 2, 
+name g, arrival 45.712959, service 7.465417, priority 4, 
+name k, arrival 47.985474, service 5.577083, priority 2, 
+name o, arrival 49.525097, service 3.596448, priority 4, 
+name Z, arrival 52.186951, service 7.643302, priority 2, 
+name w, arrival 53.209999, service 9.574896, priority 1, 
+name E, arrival 54.726391, service 1.801552, priority 3, 
+name b, arrival 55.460606, service 8.653609, priority 3, 
+name M, arrival 58.125542, service 7.768856, priority 2, 
+name j, arrival 59.336239, service 4.769245, priority 2, 
+name 9, arrival 61.503120, service 2.998022, priority 3, 
+name n, arrival 61.853207, service 2.885015, priority 2, 
+name r, arrival 64.010933, service 5.917032, priority 4, 
+name z, arrival 66.762001, service 1.911590, priority 1, 
+name H, arrival 68.463181, service 4.039178, priority 3, 
+name L, arrival 70.228745, service 7.038344, priority 4, 
+name 3, arrival 71.029762, service 8.117650, priority 4, 
+name i, arrival 71.394928, service 8.978404, priority 1, 
+name T, arrival 73.951721, service 3.141599, priority 3, 
+name q, arrival 75.673782, service 5.124559, priority 2, 
+name X, arrival 76.166832, service 6.172384, priority 2, 
+name u, arrival 77.129105, service 3.123095, priority 2, 
+name G, arrival 80.385918, service 3.299399, priority 4, 
+name K, arrival 81.976593, service 6.269605, priority 3, 
+name h, arrival 83.485855, service 3.294765, priority 2, 
+name l, arrival 85.241455, service 1.335622, priority 4, 
+name p, arrival 87.264572, service 4.352296, priority 3, 
+name W, arrival 87.807823, service 5.374926, priority 1, 
+name B, arrival 90.381531, service 9.436344, priority 2, 
+name x, arrival 90.891647, service 0.435419, priority 2, 
+name N, arrival 95.558060, service 8.494314, priority 4, 
+name 5, arrival 96.604050, service 4.648695, priority 4, 
+name R, arrival 97.794113, service 6.583854, priority 2, 
+Process: V 
+	Quantum: 1
+	Start Time: 1
+ 	Turnaround: 5 
+ 	Response:  1 
+	Waiting: 1 
+	Current Arrival: 0
+Process: s 
+	Quantum: 6
+	Start Time: 6
+ 	Turnaround: 6 
+ 	Response:  5 
+	Waiting: 5 
+	Current Arrival: 1
+Process: A 
+	Quantum: 8
+	Start Time: 8
+ 	Turnaround: 13 
+ 	Response:  5 
+	Waiting: 5 
+	Current Arrival: 3
+Process: f 
+	Quantum: 17
+	Start Time: 17
+ 	Turnaround: 10 
+ 	Response:  9 
+	Waiting: 9 
+	Current Arrival: 8
+Process: D 
+	Quantum: 19
+	Start Time: 19
+ 	Turnaround: 3 
+ 	Response:  2 
+	Waiting: 2 
+	Current Arrival: 17
+Process: e 
+	Quantum: 21
+	Start Time: 21
+ 	Turnaround: 2 
+ 	Response:  2 
+	Waiting: 2 
+	Current Arrival: 19
+Process: a 
+	Quantum: 22
+	Start Time: 22
+ 	Turnaround: 6 
+ 	Response:  4 
+	Waiting: 4 
+	Current Arrival: 18
+Process: 7 
+	Quantum: 25
+	Start Time: 25
+ 	Turnaround: 3 
+ 	Response:  2 
+	Waiting: 2 
+	Current Arrival: 23
+Process: U 
+	Quantum: 27
+	Start Time: 27
+ 	Turnaround: 18 
+ 	Response:  15 
+	Waiting: 15 
+	Current Arrival: 12
+Process: v 
+	Quantum: 31
+	Start Time: 31
+ 	Turnaround: 19 
+ 	Response:  16 
+	Waiting: 16 
+	Current Arrival: 15
+Process: d 
+	Quantum: 35
+	Start Time: 35
+ 	Turnaround: 4 
+ 	Response:  4 
+	Waiting: 4 
+	Current Arrival: 31
+Process: 2 
+	Quantum: 36
+	Start Time: 36
+ 	Turnaround: 5 
+ 	Response:  3 
+	Waiting: 3 
+	Current Arrival: 33
+Process: S 
+	Quantum: 39
+	Start Time: 39
+ 	Turnaround: 5 
+ 	Response:  3 
+	Waiting: 3 
+	Current Arrival: 36
+Process: 4 
+	Quantum: 42
+	Start Time: 42
+ 	Turnaround: 36 
+ 	Response:  33 
+	Waiting: 33 
+	Current Arrival: 9
+Process: F 
+	Quantum: 46
+	Start Time: 46
+ 	Turnaround: 6 
+ 	Response:  4 
+	Waiting: 4 
+	Current Arrival: 42
+Process: c 
+	Quantum: 49
+	Start Time: 49
+ 	Turnaround: 10 
+ 	Response:  6 
+	Waiting: 6 
+	Current Arrival: 43
+Process: o 
+	Quantum: 54
+	Start Time: 54
+ 	Turnaround: 8 
+ 	Response:  5 
+	Waiting: 5 
+	Current Arrival: 49
+Process: E 
+	Quantum: 58
+	Start Time: 58
+ 	Turnaround: 5 
+ 	Response:  4 
+	Waiting: 4 
+	Current Arrival: 54
+Process: j 
+	Quantum: 60
+	Start Time: 60
+ 	Turnaround: 5 
+ 	Response:  1 
+	Waiting: 1 
+	Current Arrival: 59
+Process: n 
+	Quantum: 65
+	Start Time: 65
+ 	Turnaround: 6 
+ 	Response:  4 
+	Waiting: 4 
+	Current Arrival: 61
+Process: z 
+	Quantum: 68
+	Start Time: 68
+ 	Turnaround: 3 
+ 	Response:  2 
+	Waiting: 2 
+	Current Arrival: 66
+Process: 9 
+	Quantum: 70
+	Start Time: 70
+ 	Turnaround: 11 
+ 	Response:  9 
+	Waiting: 9 
+	Current Arrival: 61
+Process: H 
+	Quantum: 73
+	Start Time: 73
+ 	Turnaround: 9 
+ 	Response:  5 
+	Waiting: 5 
+	Current Arrival: 68
+Process: u 
+	Quantum: 78
+	Start Time: 78
+ 	Turnaround: 4 
+ 	Response:  1 
+	Waiting: 1 
+	Current Arrival: 77
+Process: T 
+	Quantum: 82
+	Start Time: 82
+ 	Turnaround: 12 
+ 	Response:  9 
+	Waiting: 9 
+	Current Arrival: 73
+Process: l 
+	Quantum: 86
+	Start Time: 86
+ 	Turnaround: 2 
+ 	Response:  1 
+	Waiting: 1 
+	Current Arrival: 85
+Process: h 
+	Quantum: 88
+	Start Time: 88
+ 	Turnaround: 8 
+ 	Response:  5 
+	Waiting: 5 
+	Current Arrival: 83
+Process: x 
+	Quantum: 92
+	Start Time: 92
+ 	Turnaround: 2 
+ 	Response:  2 
+	Waiting: 2 
+	Current Arrival: 90
+Process: G 
+	Quantum: 93
+	Start Time: 93
+ 	Turnaround: 16 
+ 	Response:  13 
+	Waiting: 13 
+	Current Arrival: 80
+Process: p 
+	Quantum: 97
+	Start Time: 97
+ 	Turnaround: 14 
+ 	Response:  10 
+	Waiting: 10 
+	Current Arrival: 87
+Process: 5 
+	Quantum: 98
+	Start Time: 98
+ 	Turnaround: 6 
+ 	Response:  2 
+	Waiting: 2 
+	Current Arrival: 96
+Process: P 
+	Quantum: 99
+	Start Time: 99
+ 	Turnaround: 82 
+ 	Response:  77 
+	Waiting: 77 
+	Current Arrival: 22
+Process: q 
+	Quantum: 100
+	Start Time: 100
+ 	Turnaround: 30 
+ 	Response:  25 
+	Waiting: 25 
+	Current Arrival: 75
+Average turnaround: 6.23
+ Average waiting: 4.82
+ Average response: 4.82
+ Average throughput: 33.00
+Timechart:
+	VsAfDea7Uvd2S4FcoEjnz9HuTlhxGp5Pq
+Freeing workload
+Creating workload
+name n, arrival 0.018290, service 7.553297, priority 1, 
+name r, arrival 1.379875, service 5.540421, priority 3, 
+name Y, arrival 1.830959, service 1.619069, priority 4, 
+name D, arrival 4.511338, service 5.698181, priority 4, 
+name L, arrival 8.232365, service 1.800599, priority 3, 
+name i, arrival 9.625419, service 8.698984, priority 3, 
+name m, arrival 11.320719, service 1.790614, priority 2, 
+name C, arrival 16.264278, service 4.915644, priority 2, 
+name y, arrival 16.434124, service 5.778440, priority 3, 
+name G, arrival 18.093571, service 2.978717, priority 2, 
+name K, arrival 19.281031, service 0.951471, priority 3, 
+name h, arrival 21.189146, service 7.917181, priority 2, 
+name 6, arrival 22.754761, service 5.095707, priority 2, 
+name l, arrival 23.182430, service 1.044330, priority 1, 
+name S, arrival 24.101442, service 7.054821, priority 4, 
+name p, arrival 25.098078, service 4.033922, priority 2, 
+name t, arrival 27.041779, service 2.108186, priority 1, 
+name B, arrival 28.228235, service 9.133230, priority 4, 
+name J, arrival 31.793705, service 0.258571, priority 1, 
+name g, arrival 32.752151, service 2.192750, priority 4, 
+name 5, arrival 34.470104, service 9.276387, priority 2, 
+name k, arrival 35.420387, service 5.244469, priority 3, 
+name Z, arrival 39.865406, service 7.368098, priority 1, 
+name A, arrival 39.919579, service 3.408375, priority 3, 
+name b, arrival 42.950268, service 3.413212, priority 3, 
+name I, arrival 43.629932, service 4.461819, priority 2, 
+name f, arrival 45.260845, service 1.508182, priority 2, 
+name M, arrival 45.712959, service 7.465417, priority 4, 
+name Q, arrival 47.985474, service 5.577083, priority 2, 
+name U, arrival 49.525097, service 3.596448, priority 4, 
+name v, arrival 52.772869, service 3.608288, priority 3, 
+name z, arrival 54.195892, service 1.598378, priority 3, 
+name a, arrival 55.231052, service 2.690229, priority 3, 
+name H, arrival 55.460606, service 8.653609, priority 3, 
+name e, arrival 56.947285, service 0.731591, priority 3, 
+name 3, arrival 58.125542, service 7.768856, priority 2, 
+name P, arrival 59.336239, service 4.769245, priority 2, 
+name 8, arrival 60.992355, service 1.955743, priority 1, 
+name T, arrival 61.853207, service 2.885015, priority 2, 
+name q, arrival 62.587120, service 9.723446, priority 4, 
+name X, arrival 64.010933, service 5.917032, priority 4, 
+name u, arrival 64.829216, service 7.795106, priority 1, 
+name d, arrival 69.036095, service 9.881425, priority 3, 
+name 2, arrival 70.228745, service 7.038344, priority 4, 
+name O, arrival 71.394928, service 8.978404, priority 1, 
+name W, arrival 75.673782, service 5.124559, priority 2, 
+name x, arrival 77.983902, service 9.989064, priority 3, 
+name F, arrival 79.656410, service 7.182351, priority 2, 
+name c, arrival 80.498177, service 9.109798, priority 3, 
+name 1, arrival 81.976593, service 6.269605, priority 3, 
+name N, arrival 83.485855, service 3.294765, priority 2, 
+name R, arrival 85.241455, service 1.335622, priority 4, 
+name o, arrival 86.330200, service 3.269401, priority 3, 
+name V, arrival 87.264572, service 4.352296, priority 3, 
+name s, arrival 88.461380, service 1.332750, priority 4, 
+name w, arrival 90.296677, service 4.329948, priority 2, 
+name E, arrival 91.376953, service 1.464923, priority 1, 
+name 4, arrival 95.558060, service 8.494314, priority 4, 
+name j, arrival 96.286064, service 9.421902, priority 4, 
+name 9, arrival 98.427231, service 2.676375, priority 3, 
+Process: n 
+	Quantum: 1
+	Start Time: 1
+ 	Turnaround: 8 
+ 	Response:  1 
+	Waiting: 1 
+	Current Arrival: 0
+Process: Y 
+	Quantum: 9
+	Start Time: 9
+ 	Turnaround: 9 
+ 	Response:  8 
+	Waiting: 8 
+	Current Arrival: 1
+Process: L 
+	Quantum: 11
+	Start Time: 11
+ 	Turnaround: 4 
+ 	Response:  3 
+	Waiting: 3 
+	Current Arrival: 8
+Process: m 
+	Quantum: 13
+	Start Time: 13
+ 	Turnaround: 3 
+ 	Response:  2 
+	Waiting: 2 
+	Current Arrival: 11
+Process: r 
+	Quantum: 15
+	Start Time: 15
+ 	Turnaround: 19 
+ 	Response:  14 
+	Waiting: 14 
+	Current Arrival: 1
+Process: K 
+	Quantum: 21
+	Start Time: 21
+ 	Turnaround: 2 
+ 	Response:  2 
+	Waiting: 2 
+	Current Arrival: 19
+Process: G 
+	Quantum: 22
+	Start Time: 22
+ 	Turnaround: 6 
+ 	Response:  4 
+	Waiting: 4 
+	Current Arrival: 18
+Process: l 
+	Quantum: 25
+	Start Time: 25
+ 	Turnaround: 3 
+ 	Response:  2 
+	Waiting: 2 
+	Current Arrival: 23
+Process: p 
+	Quantum: 27
+	Start Time: 27
+ 	Turnaround: 6 
+ 	Response:  2 
+	Waiting: 2 
+	Current Arrival: 25
+Process: J 
+	Quantum: 32
+	Start Time: 32
+ 	Turnaround: 1 
+ 	Response:  1 
+	Waiting: 1 
+	Current Arrival: 31
+Process: t 
+	Quantum: 33
+	Start Time: 33
+ 	Turnaround: 8 
+ 	Response:  6 
+	Waiting: 6 
+	Current Arrival: 27
+Process: g 
+	Quantum: 36
+	Start Time: 36
+ 	Turnaround: 6 
+ 	Response:  4 
+	Waiting: 4 
+	Current Arrival: 32
+Process: C 
+	Quantum: 39
+	Start Time: 39
+ 	Turnaround: 27 
+ 	Response:  23 
+	Waiting: 23 
+	Current Arrival: 16
+Process: A 
+	Quantum: 44
+	Start Time: 44
+ 	Turnaround: 8 
+ 	Response:  5 
+	Waiting: 5 
+	Current Arrival: 39
+Process: f 
+	Quantum: 48
+	Start Time: 48
+ 	Turnaround: 4 
+ 	Response:  3 
+	Waiting: 3 
+	Current Arrival: 45
+Process: b 
+	Quantum: 50
+	Start Time: 50
+ 	Turnaround: 11 
+ 	Response:  8 
+	Waiting: 8 
+	Current Arrival: 42
+Process: U 
+	Quantum: 54
+	Start Time: 54
+ 	Turnaround: 8 
+ 	Response:  5 
+	Waiting: 5 
+	Current Arrival: 49
+Process: e 
+	Quantum: 58
+	Start Time: 58
+ 	Turnaround: 2 
+ 	Response:  2 
+	Waiting: 2 
+	Current Arrival: 56
+Process: z 
+	Quantum: 59
+	Start Time: 59
+ 	Turnaround: 6 
+ 	Response:  5 
+	Waiting: 5 
+	Current Arrival: 54
+Process: 8 
+	Quantum: 61
+	Start Time: 61
+ 	Turnaround: 2 
+ 	Response:  1 
+	Waiting: 1 
+	Current Arrival: 60
+Process: a 
+	Quantum: 63
+	Start Time: 63
+ 	Turnaround: 10 
+ 	Response:  8 
+	Waiting: 8 
+	Current Arrival: 55
+Process: T 
+	Quantum: 66
+	Start Time: 66
+ 	Turnaround: 7 
+ 	Response:  5 
+	Waiting: 5 
+	Current Arrival: 61
+Process: v 
+	Quantum: 69
+	Start Time: 69
+ 	Turnaround: 20 
+ 	Response:  17 
+	Waiting: 17 
+	Current Arrival: 52
+Process: I 
+	Quantum: 73
+	Start Time: 73
+ 	Turnaround: 34 
+ 	Response:  30 
+	Waiting: 30 
+	Current Arrival: 43
+Process: P 
+	Quantum: 78
+	Start Time: 78
+ 	Turnaround: 23 
+ 	Response:  19 
+	Waiting: 19 
+	Current Arrival: 59
+Process: 6 
+	Quantum: 83
+	Start Time: 83
+ 	Turnaround: 66 
+ 	Response:  61 
+	Waiting: 61 
+	Current Arrival: 22
+Process: s 
+	Quantum: 89
+	Start Time: 89
+ 	Turnaround: 2 
+ 	Response:  1 
+	Waiting: 1 
+	Current Arrival: 88
+Process: R 
+	Quantum: 91
+	Start Time: 91
+ 	Turnaround: 7 
+ 	Response:  6 
+	Waiting: 6 
+	Current Arrival: 85
+Process: E 
+	Quantum: 93
+	Start Time: 93
+ 	Turnaround: 3 
+ 	Response:  2 
+	Waiting: 2 
+	Current Arrival: 91
+Process: o 
+	Quantum: 95
+	Start Time: 95
+ 	Turnaround: 12 
+ 	Response:  9 
+	Waiting: 9 
+	Current Arrival: 86
+Process: 9 
+	Quantum: 99
+	Start Time: 99
+ 	Turnaround: 3 
+ 	Response:  1 
+	Waiting: 1 
+	Current Arrival: 98
+Process: N 
+	Quantum: 100
+	Start Time: 100
+ 	Turnaround: 20 
+ 	Response:  17 
+	Waiting: 17 
+	Current Arrival: 83
+Average turnaround: 5.83
+ Average waiting: 4.62
+ Average response: 4.62
+ Average throughput: 32.00
+Timechart:
+	nYLmrKGlpJtgCAfbUez8aTvIP6sREo9N
+Freeing workload
+Creating workload
+name T, arrival 0.018290, service 7.553297, priority 1, 
+name q, arrival 0.495787, service 9.416437, priority 4, 
+name X, arrival 1.379875, service 5.540421, priority 3, 
+name 2, arrival 8.232365, service 1.800599, priority 3, 
+name h, arrival 8.857309, service 2.695529, priority 3, 
+name O, arrival 9.625419, service 8.698984, priority 3, 
+name 7, arrival 10.396932, service 5.813894, priority 4, 
+name S, arrival 11.320719, service 1.790614, priority 2, 
+name p, arrival 12.615302, service 3.736102, priority 1, 
+name B, arrival 15.756845, service 3.893625, priority 2, 
+name x, arrival 15.800193, service 9.685853, priority 2, 
+name 1, arrival 19.281031, service 0.951471, priority 3, 
+name N, arrival 21.189146, service 7.917181, priority 2, 
+name k, arrival 22.060814, service 4.871861, priority 3, 
+name R, arrival 23.182430, service 1.044330, priority 1, 
+name o, arrival 24.343731, service 7.921275, priority 3, 
+name V, arrival 25.098078, service 4.033922, priority 2, 
+name s, arrival 26.233786, service 5.960761, priority 4, 
+name Z, arrival 27.041779, service 2.108186, priority 1, 
+name E, arrival 29.349455, service 6.123566, priority 4, 
+name b, arrival 30.447758, service 8.062756, priority 3, 
+name f, arrival 32.415325, service 6.118712, priority 1, 
+name M, arrival 32.752151, service 2.192750, priority 4, 
+name j, arrival 34.289143, service 4.164851, priority 1, 
+name Q, arrival 35.420387, service 5.244469, priority 3, 
+name 9, arrival 36.228512, service 2.364617, priority 3, 
+name r, arrival 38.201706, service 0.280726, priority 2, 
+name z, arrival 41.995636, service 6.272743, priority 2, 
+name a, arrival 42.134865, service 7.303288, priority 4, 
+name H, arrival 42.950268, service 3.413212, priority 3, 
+name e, arrival 44.295616, service 5.358359, priority 2, 
+name L, arrival 45.260845, service 1.508182, priority 2, 
+name 3, arrival 45.712959, service 7.465417, priority 4, 
+name u, arrival 52.129700, service 7.475387, priority 1, 
+name y, arrival 53.169617, service 0.519857, priority 2, 
+name C, arrival 53.209999, service 9.574896, priority 1, 
+name G, arrival 55.231052, service 2.690229, priority 3, 
+name d, arrival 55.699825, service 9.503147, priority 3, 
+name K, arrival 56.947285, service 0.731591, priority 3, 
+name l, arrival 59.881725, service 5.648337, priority 2, 
+name W, arrival 62.587120, service 9.723446, priority 4, 
+name t, arrival 63.694664, service 6.701003, priority 1, 
+name F, arrival 66.762001, service 1.911590, priority 1, 
+name c, arrival 68.066780, service 8.814970, priority 1, 
+name J, arrival 69.036095, service 9.881425, priority 3, 
+name g, arrival 69.957352, service 6.860884, priority 2, 
+name 5, arrival 71.394928, service 8.978404, priority 1, 
+name A, arrival 77.129105, service 3.123095, priority 2, 
+name w, arrival 77.321388, service 3.988561, priority 2, 
+name I, arrival 80.498177, service 9.109798, priority 3, 
+name 4, arrival 83.485855, service 3.294765, priority 2, 
+name n, arrival 85.940872, service 7.203919, priority 2, 
+name U, arrival 86.330200, service 3.269401, priority 3, 
+name Y, arrival 88.461380, service 1.332750, priority 4, 
+name v, arrival 89.687637, service 3.294943, priority 3, 
+name D, arrival 90.891647, service 0.435419, priority 2, 
+name i, arrival 95.617340, service 3.405358, priority 4, 
+name P, arrival 96.286064, service 9.421902, priority 4, 
+name m, arrival 97.350761, service 1.427335, priority 1, 
+name 8, arrival 97.794113, service 6.583854, priority 2, 
+Process: T 
+	Quantum: 1
+	Start Time: 1
+ 	Turnaround: 8 
+ 	Response:  1 
+	Waiting: 1 
+	Current Arrival: 0
+Process: 2 
+	Quantum: 9
+	Start Time: 9
+ 	Turnaround: 2 
+ 	Response:  1 
+	Waiting: 1 
+	Current Arrival: 8
+Process: h 
+	Quantum: 11
+	Start Time: 11
+ 	Turnaround: 5 
+ 	Response:  3 
+	Waiting: 3 
+	Current Arrival: 8
+Process: S 
+	Quantum: 14
+	Start Time: 14
+ 	Turnaround: 4 
+ 	Response:  3 
+	Waiting: 3 
+	Current Arrival: 11
+Process: p 
+	Quantum: 16
+	Start Time: 16
+ 	Turnaround: 7 
+ 	Response:  4 
+	Waiting: 4 
+	Current Arrival: 12
+Process: 1 
+	Quantum: 20
+	Start Time: 20
+ 	Turnaround: 1 
+ 	Response:  1 
+	Waiting: 1 
+	Current Arrival: 19
+Process: B 
+	Quantum: 21
+	Start Time: 21
+ 	Turnaround: 9 
+ 	Response:  6 
+	Waiting: 6 
+	Current Arrival: 15
+Process: R 
+	Quantum: 25
+	Start Time: 25
+ 	Turnaround: 3 
+ 	Response:  2 
+	Waiting: 2 
+	Current Arrival: 23
+Process: V 
+	Quantum: 27
+	Start Time: 27
+ 	Turnaround: 6 
+ 	Response:  2 
+	Waiting: 2 
+	Current Arrival: 25
+Process: Z 
+	Quantum: 32
+	Start Time: 32
+ 	Turnaround: 7 
+ 	Response:  5 
+	Waiting: 5 
+	Current Arrival: 27
+Process: M 
+	Quantum: 35
+	Start Time: 35
+ 	Turnaround: 5 
+ 	Response:  3 
+	Waiting: 3 
+	Current Arrival: 32
+Process: 9 
+	Quantum: 38
+	Start Time: 38
+ 	Turnaround: 4 
+ 	Response:  2 
+	Waiting: 2 
+	Current Arrival: 36
+Process: r 
+	Quantum: 41
+	Start Time: 41
+ 	Turnaround: 3 
+ 	Response:  3 
+	Waiting: 3 
+	Current Arrival: 38
+Process: j 
+	Quantum: 42
+	Start Time: 42
+ 	Turnaround: 12 
+ 	Response:  8 
+	Waiting: 8 
+	Current Arrival: 34
+Process: L 
+	Quantum: 47
+	Start Time: 47
+ 	Turnaround: 3 
+ 	Response:  2 
+	Waiting: 2 
+	Current Arrival: 45
+Process: H 
+	Quantum: 49
+	Start Time: 49
+ 	Turnaround: 10 
+ 	Response:  7 
+	Waiting: 7 
+	Current Arrival: 42
+Process: k 
+	Quantum: 53
+	Start Time: 53
+ 	Turnaround: 35 
+ 	Response:  31 
+	Waiting: 31 
+	Current Arrival: 22
+Process: y 
+	Quantum: 58
+	Start Time: 58
+ 	Turnaround: 5 
+ 	Response:  5 
+	Waiting: 5 
+	Current Arrival: 53
+Process: K 
+	Quantum: 59
+	Start Time: 59
+ 	Turnaround: 3 
+ 	Response:  3 
+	Waiting: 3 
+	Current Arrival: 56
+Process: G 
+	Quantum: 60
+	Start Time: 60
+ 	Turnaround: 7 
+ 	Response:  5 
+	Waiting: 5 
+	Current Arrival: 55
+Process: Q 
+	Quantum: 63
+	Start Time: 63
+ 	Turnaround: 33 
+ 	Response:  28 
+	Waiting: 28 
+	Current Arrival: 35
+Process: F 
+	Quantum: 69
+	Start Time: 69
+ 	Turnaround: 4 
+ 	Response:  3 
+	Waiting: 3 
+	Current Arrival: 66
+Process: e 
+	Quantum: 71
+	Start Time: 71
+ 	Turnaround: 32 
+ 	Response:  27 
+	Waiting: 27 
+	Current Arrival: 44
+Process: X 
+	Quantum: 77
+	Start Time: 77
+ 	Turnaround: 81 
+ 	Response:  76 
+	Waiting: 76 
+	Current Arrival: 1
+Process: A 
+	Quantum: 83
+	Start Time: 83
+ 	Turnaround: 9 
+ 	Response:  6 
+	Waiting: 6 
+	Current Arrival: 77
+Process: U 
+	Quantum: 87
+	Start Time: 87
+ 	Turnaround: 4 
+ 	Response:  1 
+	Waiting: 1 
+	Current Arrival: 86
+Process: D 
+	Quantum: 91
+	Start Time: 91
+ 	Turnaround: 1 
+ 	Response:  1 
+	Waiting: 1 
+	Current Arrival: 90
+Process: Y 
+	Quantum: 92
+	Start Time: 92
+ 	Turnaround: 5 
+ 	Response:  4 
+	Waiting: 4 
+	Current Arrival: 88
+Process: 4 
+	Quantum: 94
+	Start Time: 94
+ 	Turnaround: 14 
+ 	Response:  11 
+	Waiting: 11 
+	Current Arrival: 83
+Process: m 
+	Quantum: 98
+	Start Time: 98
+ 	Turnaround: 2 
+ 	Response:  1 
+	Waiting: 1 
+	Current Arrival: 97
+Process: v 
+	Quantum: 100
+	Start Time: 100
+ 	Turnaround: 14 
+ 	Response:  11 
+	Waiting: 11 
+	Current Arrival: 89
+Average turnaround: 5.63
+ Average waiting: 4.43
+ Average response: 4.43
+ Average throughput: 31.00
+Timechart:
+	T2hSp1BRVZM9rjLHkyKGQFeXAUDY4mv
+Freeing workload
+Creating workload
+name W, arrival 0.495787, service 9.416437, priority 4, 
+name x, arrival 3.230999, service 9.374838, priority 1, 
+name c, arrival 5.636538, service 3.523047, priority 4, 
+name g, arrival 7.802751, service 6.534866, priority 2, 
+name N, arrival 8.857309, service 2.695529, priority 3, 
+name k, arrival 9.635146, service 9.536943, priority 2, 
+name V, arrival 12.615302, service 3.736102, priority 1, 
+name s, arrival 13.524213, service 5.647161, priority 1, 
+name w, arrival 14.735106, service 3.634766, priority 1, 
+name E, arrival 16.434124, service 5.778440, priority 3, 
+name b, arrival 17.886026, service 2.799117, priority 3, 
+name f, arrival 19.717905, service 5.797991, priority 4, 
+name 4, arrival 21.189146, service 7.917181, priority 2, 
+name j, arrival 21.915470, service 8.827118, priority 1, 
+name Q, arrival 22.060814, service 4.871861, priority 3, 
+name 9, arrival 24.101442, service 7.054821, priority 4, 
+name U, arrival 24.343731, service 7.921275, priority 3, 
+name Y, arrival 26.233786, service 5.960761, priority 4, 
+name v, arrival 27.028992, service 7.881849, priority 1, 
+name z, arrival 28.791536, service 5.921400, priority 4, 
+name a, arrival 29.541569, service 2.035352, priority 2, 
+name H, arrival 30.447758, service 8.062756, priority 3, 
+name e, arrival 32.060982, service 5.095341, priority 1, 
+name L, arrival 32.415325, service 6.118712, priority 1, 
+name 3, arrival 32.752151, service 2.192750, priority 4, 
+name i, arrival 33.330196, service 3.083933, priority 3, 
+name P, arrival 34.289143, service 4.164851, priority 1, 
+name m, arrival 35.238976, service 6.081498, priority 2, 
+name X, arrival 38.201706, service 0.280726, priority 2, 
+name G, arrival 42.134865, service 7.303288, priority 4, 
+name d, arrival 43.464127, service 4.290309, priority 1, 
+name K, arrival 44.295616, service 5.358359, priority 2, 
+name 2, arrival 45.260845, service 1.508182, priority 2, 
+name h, arrival 45.380974, service 7.297719, priority 2, 
+name 7, arrival 47.985474, service 5.577083, priority 2, 
+name p, arrival 49.011505, service 8.327306, priority 4, 
+name t, arrival 51.316391, service 6.413309, priority 4, 
+name B, arrival 52.772869, service 3.608288, priority 3, 
+name F, arrival 54.195892, service 1.598378, priority 3, 
+name J, arrival 55.699825, service 9.503147, priority 3, 
+name 1, arrival 56.947285, service 0.731591, priority 3, 
+name 6, arrival 59.336239, service 4.769245, priority 2, 
+name R, arrival 59.881725, service 5.648337, priority 2, 
+name o, arrival 60.908367, service 7.564153, priority 1, 
+name Z, arrival 63.694664, service 6.701003, priority 1, 
+name A, arrival 64.829216, service 7.795106, priority 1, 
+name I, arrival 68.066780, service 8.814970, priority 1, 
+name M, arrival 69.957352, service 6.860884, priority 2, 
+name n, arrival 73.206657, service 1.932151, priority 4, 
+name r, arrival 74.742531, service 9.837940, priority 2, 
+name D, arrival 77.983902, service 9.989064, priority 3, 
+name 8, arrival 85.241455, service 1.335622, priority 4, 
+name T, arrival 85.940872, service 7.203919, priority 2, 
+name q, arrival 86.951477, service 4.151239, priority 4, 
+name u, arrival 88.444527, service 2.178350, priority 1, 
+name C, arrival 90.296677, service 4.329948, priority 2, 
+name y, arrival 90.435799, service 0.236162, priority 4, 
+name O, arrival 95.617340, service 3.405358, priority 4, 
+name l, arrival 96.838936, service 0.402917, priority 4, 
+name S, arrival 97.350761, service 1.427335, priority 1, 
+Process: W 
+	Quantum: 1
+	Start Time: 1
+ 	Turnaround: 10 
+ 	Response:  1 
+	Waiting: 1 
+	Current Arrival: 0
+Process: N 
+	Quantum: 11
+	Start Time: 11
+ 	Turnaround: 5 
+ 	Response:  3 
+	Waiting: 3 
+	Current Arrival: 8
+Process: c 
+	Quantum: 14
+	Start Time: 14
+ 	Turnaround: 12 
+ 	Response:  9 
+	Waiting: 9 
+	Current Arrival: 5
+Process: b 
+	Quantum: 18
+	Start Time: 18
+ 	Turnaround: 3 
+ 	Response:  1 
+	Waiting: 1 
+	Current Arrival: 17
+Process: w 
+	Quantum: 21
+	Start Time: 21
+ 	Turnaround: 10 
+ 	Response:  7 
+	Waiting: 7 
+	Current Arrival: 14
+Process: V 
+	Quantum: 25
+	Start Time: 25
+ 	Turnaround: 16 
+ 	Response:  13 
+	Waiting: 13 
+	Current Arrival: 12
+Process: Q 
+	Quantum: 29
+	Start Time: 29
+ 	Turnaround: 11 
+ 	Response:  7 
+	Waiting: 7 
+	Current Arrival: 22
+Process: a 
+	Quantum: 34
+	Start Time: 34
+ 	Turnaround: 7 
+ 	Response:  5 
+	Waiting: 5 
+	Current Arrival: 29
+Process: 3 
+	Quantum: 37
+	Start Time: 37
+ 	Turnaround: 7 
+ 	Response:  5 
+	Waiting: 5 
+	Current Arrival: 32
+Process: X 
+	Quantum: 40
+	Start Time: 40
+ 	Turnaround: 2 
+ 	Response:  2 
+	Waiting: 2 
+	Current Arrival: 38
+Process: i 
+	Quantum: 41
+	Start Time: 41
+ 	Turnaround: 11 
+ 	Response:  8 
+	Waiting: 8 
+	Current Arrival: 33
+Process: P 
+	Quantum: 45
+	Start Time: 45
+ 	Turnaround: 15 
+ 	Response:  11 
+	Waiting: 11 
+	Current Arrival: 34
+Process: 2 
+	Quantum: 50
+	Start Time: 50
+ 	Turnaround: 6 
+ 	Response:  5 
+	Waiting: 5 
+	Current Arrival: 45
+Process: d 
+	Quantum: 52
+	Start Time: 52
+ 	Turnaround: 13 
+ 	Response:  9 
+	Waiting: 9 
+	Current Arrival: 43
+Process: 1 
+	Quantum: 57
+	Start Time: 57
+ 	Turnaround: 1 
+ 	Response:  1 
+	Waiting: 1 
+	Current Arrival: 56
+Process: F 
+	Quantum: 58
+	Start Time: 58
+ 	Turnaround: 5 
+ 	Response:  4 
+	Waiting: 4 
+	Current Arrival: 54
+Process: B 
+	Quantum: 60
+	Start Time: 60
+ 	Turnaround: 11 
+ 	Response:  8 
+	Waiting: 8 
+	Current Arrival: 52
+Process: 6 
+	Quantum: 64
+	Start Time: 64
+ 	Turnaround: 9 
+ 	Response:  5 
+	Waiting: 5 
+	Current Arrival: 59
+Process: e 
+	Quantum: 69
+	Start Time: 69
+ 	Turnaround: 42 
+ 	Response:  37 
+	Waiting: 37 
+	Current Arrival: 32
+Process: n 
+	Quantum: 75
+	Start Time: 75
+ 	Turnaround: 3 
+ 	Response:  2 
+	Waiting: 2 
+	Current Arrival: 73
+Process: K 
+	Quantum: 77
+	Start Time: 77
+ 	Turnaround: 38 
+ 	Response:  33 
+	Waiting: 33 
+	Current Arrival: 44
+Process: 7 
+	Quantum: 83
+	Start Time: 83
+ 	Turnaround: 41 
+ 	Response:  36 
+	Waiting: 36 
+	Current Arrival: 47
+Process: 8 
+	Quantum: 89
+	Start Time: 89
+ 	Turnaround: 5 
+ 	Response:  4 
+	Waiting: 4 
+	Current Arrival: 85
+Process: y 
+	Quantum: 91
+	Start Time: 91
+ 	Turnaround: 1 
+ 	Response:  1 
+	Waiting: 1 
+	Current Arrival: 90
+Process: u 
+	Quantum: 92
+	Start Time: 92
+ 	Turnaround: 6 
+ 	Response:  4 
+	Waiting: 4 
+	Current Arrival: 88
+Process: q 
+	Quantum: 95
+	Start Time: 95
+ 	Turnaround: 13 
+ 	Response:  9 
+	Waiting: 9 
+	Current Arrival: 86
+Process: l 
+	Quantum: 100
+	Start Time: 100
+ 	Turnaround: 4 
+ 	Response:  4 
+	Waiting: 4 
+	Current Arrival: 96
+Average turnaround: 5.12
+ Average waiting: 3.90
+ Average response: 3.90
+ Average throughput: 27.00
+Timechart:
+	WNcbwVQa3XiP2d1FB6enK78yuql
+Freeing workload
+Overall turnaround time: 
+	5.45
+Overall waiting time: 
+	4.19
+Overall response time: 
+	4.19
+Overall throughput:
+	28.6

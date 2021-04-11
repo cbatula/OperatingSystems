@@ -1,0 +1,2279 @@
+<===ROUND ROBIN RUN 1===>
+Creating workload
+name W, arrival 0.943898, service 0.688000, priority 3, 
+name B, arrival 3.709808, service 4.775402, priority 1, 
+name F, arrival 6.243796, service 2.888687, priority 3, 
+name c, arrival 6.738504, service 9.710427, priority 2, 
+name N, arrival 9.706580, service 3.899320, priority 4, 
+name I, arrival 19.987360, service 0.185734, priority 2, 
+name Q, arrival 23.711214, service 1.239647, priority 1, 
+name U, arrival 25.407902, service 4.203707, priority 1, 
+name Y, arrival 26.487085, service 7.114946, priority 1, 
+name D, arrival 30.260111, service 6.359428, priority 4, 
+name H, arrival 31.548412, service 4.352523, priority 3, 
+name L, arrival 33.514652, service 2.413465, priority 3, 
+name P, arrival 35.458286, service 5.435447, priority 2, 
+name C, arrival 41.234764, service 5.530833, priority 3, 
+name d, arrival 44.484215, service 5.535071, priority 3, 
+name K, arrival 45.132416, service 6.579745, priority 2, 
+name J, arrival 56.998009, service 0.891707, priority 2, 
+name R, arrival 60.992355, service 1.955743, priority 1, 
+name V, arrival 62.753757, service 9.880292, priority 2, 
+name Z, arrival 64.792953, service 7.958391, priority 4, 
+name A, arrival 65.606010, service 4.060255, priority 4, 
+name E, arrival 67.228905, service 7.052009, priority 3, 
+name b, arrival 68.463181, service 4.039178, priority 3, 
+name M, arrival 71.029762, service 8.117650, priority 4, 
+name a, arrival 80.385918, service 3.299399, priority 4, 
+name T, arrival 86.377403, service 3.443421, priority 1, 
+name X, arrival 88.374191, service 6.439191, priority 4, 
+name G, arrival 93.017471, service 3.613149, priority 1, 
+name O, arrival 96.604050, service 4.648695, priority 4, 
+name S, arrival 98.427231, service 2.676375, priority 3, 
+
+Quanta 0: Idle
+Quanta 1: W
+Quanta 2: Idle
+Quanta 3: Idle
+Quanta 4: B
+Quanta 5: B
+Quanta 6: B
+Quanta 7: F
+Quanta 8: c
+Quanta 9: B
+Quanta 10: F
+Quanta 11: c
+Quanta 12: N
+Quanta 13: B
+Quanta 14: F
+Quanta 15: c
+Quanta 16: N
+Quanta 17: c
+Quanta 18: N
+Quanta 19: c
+Quanta 20: N
+Quanta 21: I
+Quanta 22: c
+Quanta 23: c
+Quanta 24: Q
+Quanta 25: c
+Quanta 26: Q
+Quanta 27: U
+Quanta 28: c
+Quanta 29: Y
+Quanta 30: U
+Quanta 31: c
+Quanta 32: Y
+Quanta 33: D
+Quanta 34: U
+Quanta 35: H
+Quanta 36: Y
+Quanta 37: L
+Quanta 38: D
+Quanta 39: U
+Quanta 40: P
+Quanta 41: H
+Quanta 42: Y
+Quanta 43: L
+Quanta 44: D
+Quanta 45: U
+Quanta 46: P
+Quanta 47: C
+Quanta 48: H
+Quanta 49: Y
+Quanta 50: L
+Quanta 51: d
+Quanta 52: D
+Quanta 53: K
+Quanta 54: P
+Quanta 55: C
+Quanta 56: H
+Quanta 57: Y
+Quanta 58: d
+Quanta 59: D
+Quanta 60: K
+Quanta 61: P
+Quanta 62: C
+Quanta 63: J
+Quanta 64: H
+Quanta 65: Y
+Quanta 66: d
+Quanta 67: D
+Quanta 68: R
+Quanta 69: K
+Quanta 70: P
+Quanta 71: V
+Quanta 72: C
+Quanta 73: Z
+Quanta 74: A
+Quanta 75: Y
+Quanta 76: d
+Quanta 77: E
+Quanta 78: D
+Quanta 79: b
+Quanta 80: R
+Quanta 81: K
+Quanta 82: P
+Quanta 83: M
+Quanta 84: V
+Quanta 85: C
+Quanta 86: Z
+Quanta 87: A
+Quanta 88: d
+Quanta 89: E
+Quanta 90: b
+Quanta 91: a
+Quanta 92: K
+Quanta 93: M
+Quanta 94: V
+Quanta 95: C
+Quanta 96: T
+Quanta 97: Z
+Quanta 98: A
+Quanta 99: X
+Quanta 100: d
+Quanta 101: E
+Quanta 102: b
+Quanta 103: a
+Quanta 104: K
+Quanta 105: M
+Quanta 106: V
+Quanta 107: T
+Quanta 108: Z
+Quanta 109: A
+Quanta 110: X
+Quanta 111: E
+Quanta 112: b
+Quanta 113: a
+Quanta 114: K
+Quanta 115: M
+Quanta 116: V
+Quanta 117: T
+Quanta 118: Z
+Quanta 119: A
+Quanta 120: X
+Quanta 121: E
+Quanta 122: b
+Quanta 123: a
+Quanta 124: M
+Quanta 125: V
+Quanta 126: T
+Quanta 127: Z
+Quanta 128: X
+Quanta 129: E
+Quanta 130: M
+Quanta 131: V
+Quanta 132: Z
+Quanta 133: X
+Quanta 134: E
+Quanta 135: M
+Quanta 136: V
+Quanta 137: Z
+Quanta 138: X
+Quanta 139: E
+Quanta 140: M
+Quanta 141: V
+Quanta 142: X
+Quanta 143: M
+Quanta 144: V
+
+Completed Process Statistics
+Process name: W
+Arrival Time: 0.943898
+Expected Runtime: 0.688000
+Priority: 3
+Start Time: 1
+End Time: 2
+Turnaround time: 1.056102
+Response time: 0.056102
+Wait time: 0.368102
+
+Process name: B
+Arrival Time: 3.709808
+Expected Runtime: 4.775402
+Priority: 1
+Start Time: 4
+End Time: 14
+Turnaround time: 10.290192
+Response time: 0.290192
+Wait time: 5.514790
+
+Process name: F
+Arrival Time: 6.243796
+Expected Runtime: 2.888687
+Priority: 3
+Start Time: 7
+End Time: 15
+Turnaround time: 8.756205
+Response time: 0.756204
+Wait time: 5.867517
+
+Process name: c
+Arrival Time: 6.738504
+Expected Runtime: 9.710427
+Priority: 2
+Start Time: 8
+End Time: 32
+Turnaround time: 25.261496
+Response time: 1.261496
+Wait time: 15.551068
+
+Process name: N
+Arrival Time: 9.706580
+Expected Runtime: 3.899320
+Priority: 4
+Start Time: 12
+End Time: 21
+Turnaround time: 11.293420
+Response time: 2.293420
+Wait time: 7.394100
+
+Process name: I
+Arrival Time: 19.987360
+Expected Runtime: 0.185734
+Priority: 2
+Start Time: 21
+End Time: 22
+Turnaround time: 2.012640
+Response time: 1.012640
+Wait time: 1.826906
+
+Process name: Q
+Arrival Time: 23.711214
+Expected Runtime: 1.239647
+Priority: 1
+Start Time: 24
+End Time: 27
+Turnaround time: 3.288786
+Response time: 0.288786
+Wait time: 2.049139
+
+Process name: U
+Arrival Time: 25.407902
+Expected Runtime: 4.203707
+Priority: 1
+Start Time: 27
+End Time: 46
+Turnaround time: 20.592098
+Response time: 1.592098
+Wait time: 16.388391
+
+Process name: Y
+Arrival Time: 26.487085
+Expected Runtime: 7.114946
+Priority: 1
+Start Time: 29
+End Time: 76
+Turnaround time: 49.512917
+Response time: 2.512915
+Wait time: 42.397972
+
+Process name: D
+Arrival Time: 30.260111
+Expected Runtime: 6.359428
+Priority: 4
+Start Time: 33
+End Time: 79
+Turnaround time: 48.739891
+Response time: 2.739889
+Wait time: 42.380463
+
+Process name: H
+Arrival Time: 31.548412
+Expected Runtime: 4.352523
+Priority: 3
+Start Time: 35
+End Time: 65
+Turnaround time: 33.451588
+Response time: 3.451588
+Wait time: 29.099064
+
+Process name: L
+Arrival Time: 33.514652
+Expected Runtime: 2.413465
+Priority: 3
+Start Time: 37
+End Time: 51
+Turnaround time: 17.485348
+Response time: 3.485348
+Wait time: 15.071882
+
+Process name: P
+Arrival Time: 35.458286
+Expected Runtime: 5.435447
+Priority: 2
+Start Time: 40
+End Time: 83
+Turnaround time: 47.541714
+Response time: 4.541714
+Wait time: 42.106266
+
+Process name: C
+Arrival Time: 41.234764
+Expected Runtime: 5.530833
+Priority: 3
+Start Time: 47
+End Time: 96
+Turnaround time: 54.765236
+Response time: 5.765236
+Wait time: 49.234402
+
+Process name: d
+Arrival Time: 44.484215
+Expected Runtime: 5.535071
+Priority: 3
+Start Time: 51
+End Time: 101
+Turnaround time: 56.515785
+Response time: 6.515785
+Wait time: 50.980713
+
+Process name: K
+Arrival Time: 45.132416
+Expected Runtime: 6.579745
+Priority: 2
+Start Time: 53
+End Time: 115
+Turnaround time: 69.867584
+Response time: 7.867584
+Wait time: 63.287838
+
+Process name: J
+Arrival Time: 56.998009
+Expected Runtime: 0.891707
+Priority: 2
+Start Time: 63
+End Time: 64
+Turnaround time: 7.001991
+Response time: 6.001991
+Wait time: 6.110284
+
+Process name: R
+Arrival Time: 60.992355
+Expected Runtime: 1.955743
+Priority: 1
+Start Time: 68
+End Time: 81
+Turnaround time: 20.007645
+Response time: 7.007645
+Wait time: 18.051901
+
+Process name: V
+Arrival Time: 62.753757
+Expected Runtime: 9.880292
+Priority: 2
+Start Time: 71
+End Time: 145
+Turnaround time: 82.246246
+Response time: 8.246243
+Wait time: 72.365952
+
+Process name: Z
+Arrival Time: 64.792953
+Expected Runtime: 7.958391
+Priority: 4
+Start Time: 73
+End Time: 138
+Turnaround time: 73.207047
+Response time: 8.207047
+Wait time: 65.248657
+
+Process name: A
+Arrival Time: 65.606010
+Expected Runtime: 4.060255
+Priority: 4
+Start Time: 74
+End Time: 120
+Turnaround time: 54.393990
+Response time: 8.393990
+Wait time: 50.333733
+
+Process name: E
+Arrival Time: 67.228905
+Expected Runtime: 7.052009
+Priority: 3
+Start Time: 77
+End Time: 140
+Turnaround time: 72.771095
+Response time: 9.771095
+Wait time: 65.719086
+
+Process name: b
+Arrival Time: 68.463181
+Expected Runtime: 4.039178
+Priority: 3
+Start Time: 79
+End Time: 123
+Turnaround time: 54.536819
+Response time: 10.536819
+Wait time: 50.497643
+
+Process name: M
+Arrival Time: 71.029762
+Expected Runtime: 8.117650
+Priority: 4
+Start Time: 83
+End Time: 144
+Turnaround time: 72.970238
+Response time: 11.970238
+Wait time: 64.852585
+
+Process name: a
+Arrival Time: 80.385918
+Expected Runtime: 3.299399
+Priority: 4
+Start Time: 91
+End Time: 124
+Turnaround time: 43.614082
+Response time: 10.614082
+Wait time: 40.314682
+
+Process name: T
+Arrival Time: 86.377403
+Expected Runtime: 3.443421
+Priority: 1
+Start Time: 96
+End Time: 127
+Turnaround time: 40.622597
+Response time: 9.622597
+Wait time: 37.179176
+
+Process name: X
+Arrival Time: 88.374191
+Expected Runtime: 6.439191
+Priority: 4
+Start Time: 99
+End Time: 143
+Turnaround time: 54.625809
+Response time: 10.625809
+Wait time: 48.186619
+
+Throughput: 18.620689
+Average Turnaround: 38.386238
+Average Wait: 33.643665
+Average Response: 5.386242
+Freeing workload
+
+
+<===ROUND ROBIN RUN 2===>
+Creating workload
+name p, arrival 0.397681, service 4.607081, priority 2, 
+name x, arrival 4.511338, service 5.698181, priority 4, 
+name 1, arrival 8.630467, service 1.979650, priority 1, 
+name k, arrival 10.396932, service 5.813894, priority 4, 
+name 5, arrival 10.454252, service 9.914174, priority 2, 
+name o, arrival 12.526776, service 3.870666, priority 4, 
+name s, arrival 14.326908, service 6.862430, priority 3, 
+name w, arrival 16.264278, service 4.915644, priority 2, 
+name j, arrival 22.754761, service 5.095707, priority 2, 
+name 8, arrival 24.250006, service 7.240552, priority 4, 
+name v, arrival 28.228235, service 9.133230, priority 4, 
+name i, arrival 34.470104, service 9.276387, priority 2, 
+name m, arrival 36.228512, service 2.364617, priority 3, 
+name u, arrival 39.919579, service 3.408375, priority 3, 
+name 6, arrival 48.135384, service 0.795622, priority 2, 
+name t, arrival 52.186951, service 7.643302, priority 2, 
+name g, arrival 58.125542, service 7.768856, priority 2, 
+name f, arrival 70.228745, service 7.038344, priority 4, 
+name 4, arrival 71.580894, service 9.133103, priority 3, 
+name n, arrival 73.951721, service 3.141599, priority 3, 
+name r, arrival 76.166832, service 6.172384, priority 2, 
+name z, arrival 79.656410, service 7.182351, priority 2, 
+name e, arrival 81.976593, service 6.269605, priority 3, 
+name 3, arrival 83.814491, service 8.442616, priority 1, 
+name 7, arrival 85.657448, service 6.479617, priority 3, 
+name q, arrival 87.807823, service 5.374926, priority 1, 
+name y, arrival 91.376953, service 1.464923, priority 1, 
+name 2, arrival 95.499542, service 2.718518, priority 4, 
+name h, arrival 95.558060, service 8.494314, priority 4, 
+name l, arrival 97.794113, service 6.583854, priority 2, 
+
+Quanta 0: Idle
+Quanta 1: p
+Quanta 2: p
+Quanta 3: p
+Quanta 4: p
+Quanta 5: x
+Quanta 6: p
+Quanta 7: x
+Quanta 8: x
+Quanta 9: 1
+Quanta 10: x
+Quanta 11: 1
+Quanta 12: k
+Quanta 13: 5
+Quanta 14: x
+Quanta 15: o
+Quanta 16: k
+Quanta 17: 5
+Quanta 18: s
+Quanta 19: x
+Quanta 20: o
+Quanta 21: w
+Quanta 22: k
+Quanta 23: 5
+Quanta 24: s
+Quanta 25: o
+Quanta 26: w
+Quanta 27: j
+Quanta 28: k
+Quanta 29: 5
+Quanta 30: 8
+Quanta 31: s
+Quanta 32: o
+Quanta 33: w
+Quanta 34: j
+Quanta 35: v
+Quanta 36: k
+Quanta 37: 5
+Quanta 38: 8
+Quanta 39: s
+Quanta 40: w
+Quanta 41: i
+Quanta 42: j
+Quanta 43: v
+Quanta 44: m
+Quanta 45: k
+Quanta 46: 5
+Quanta 47: 8
+Quanta 48: u
+Quanta 49: s
+Quanta 50: w
+Quanta 51: i
+Quanta 52: j
+Quanta 53: v
+Quanta 54: m
+Quanta 55: 5
+Quanta 56: 8
+Quanta 57: 6
+Quanta 58: u
+Quanta 59: s
+Quanta 60: i
+Quanta 61: t
+Quanta 62: j
+Quanta 63: v
+Quanta 64: m
+Quanta 65: 5
+Quanta 66: 8
+Quanta 67: g
+Quanta 68: u
+Quanta 69: s
+Quanta 70: i
+Quanta 71: t
+Quanta 72: j
+Quanta 73: v
+Quanta 74: 5
+Quanta 75: 8
+Quanta 76: g
+Quanta 77: u
+Quanta 78: f
+Quanta 79: i
+Quanta 80: 4
+Quanta 81: t
+Quanta 82: n
+Quanta 83: v
+Quanta 84: 5
+Quanta 85: 8
+Quanta 86: r
+Quanta 87: g
+Quanta 88: f
+Quanta 89: z
+Quanta 90: i
+Quanta 91: 4
+Quanta 92: e
+Quanta 93: t
+Quanta 94: n
+Quanta 95: 3
+Quanta 96: v
+Quanta 97: 7
+Quanta 98: 8
+Quanta 99: r
+Quanta 100: g
+Quanta 101: f
+Quanta 102: z
+Quanta 103: i
+Quanta 104: 4
+Quanta 105: e
+Quanta 106: t
+Quanta 107: n
+Quanta 108: 3
+Quanta 109: v
+Quanta 110: 7
+Quanta 111: r
+Quanta 112: g
+Quanta 113: f
+Quanta 114: z
+Quanta 115: i
+Quanta 116: 4
+Quanta 117: e
+Quanta 118: t
+Quanta 119: n
+Quanta 120: 3
+Quanta 121: v
+Quanta 122: 7
+Quanta 123: r
+Quanta 124: g
+Quanta 125: f
+Quanta 126: z
+Quanta 127: i
+Quanta 128: 4
+Quanta 129: e
+Quanta 130: t
+Quanta 131: 3
+Quanta 132: v
+Quanta 133: 7
+Quanta 134: r
+Quanta 135: g
+Quanta 136: f
+Quanta 137: z
+Quanta 138: i
+Quanta 139: 4
+Quanta 140: e
+Quanta 141: t
+Quanta 142: 3
+Quanta 143: 7
+Quanta 144: r
+Quanta 145: g
+Quanta 146: f
+Quanta 147: z
+Quanta 148: 4
+Quanta 149: e
+Quanta 150: 3
+Quanta 151: 7
+Quanta 152: r
+Quanta 153: f
+Quanta 154: z
+Quanta 155: 4
+Quanta 156: e
+Quanta 157: 3
+Quanta 158: 7
+Quanta 159: z
+Quanta 160: 4
+Quanta 161: 3
+Quanta 162: 4
+Quanta 163: 3
+
+Completed Process Statistics
+Process name: p
+Arrival Time: 0.397681
+Expected Runtime: 4.607081
+Priority: 2
+Start Time: 1
+End Time: 7
+Turnaround time: 6.602319
+Response time: 0.602319
+Wait time: 1.995238
+
+Process name: x
+Arrival Time: 4.511338
+Expected Runtime: 5.698181
+Priority: 4
+Start Time: 5
+End Time: 20
+Turnaround time: 15.488663
+Response time: 0.488662
+Wait time: 9.790482
+
+Process name: 1
+Arrival Time: 8.630467
+Expected Runtime: 1.979650
+Priority: 1
+Start Time: 9
+End Time: 12
+Turnaround time: 3.369533
+Response time: 0.369533
+Wait time: 1.389883
+
+Process name: k
+Arrival Time: 10.396932
+Expected Runtime: 5.813894
+Priority: 4
+Start Time: 12
+End Time: 46
+Turnaround time: 35.603069
+Response time: 1.603068
+Wait time: 29.789175
+
+Process name: 5
+Arrival Time: 10.454252
+Expected Runtime: 9.914174
+Priority: 2
+Start Time: 13
+End Time: 85
+Turnaround time: 74.545746
+Response time: 2.545748
+Wait time: 64.631569
+
+Process name: o
+Arrival Time: 12.526776
+Expected Runtime: 3.870666
+Priority: 4
+Start Time: 15
+End Time: 33
+Turnaround time: 20.473225
+Response time: 2.473224
+Wait time: 16.602558
+
+Process name: s
+Arrival Time: 14.326908
+Expected Runtime: 6.862430
+Priority: 3
+Start Time: 18
+End Time: 70
+Turnaround time: 55.673092
+Response time: 3.673092
+Wait time: 48.810661
+
+Process name: w
+Arrival Time: 16.264278
+Expected Runtime: 4.915644
+Priority: 2
+Start Time: 21
+End Time: 51
+Turnaround time: 34.735722
+Response time: 4.735722
+Wait time: 29.820078
+
+Process name: j
+Arrival Time: 22.754761
+Expected Runtime: 5.095707
+Priority: 2
+Start Time: 27
+End Time: 73
+Turnaround time: 50.245239
+Response time: 4.245239
+Wait time: 45.149532
+
+Process name: 8
+Arrival Time: 24.250006
+Expected Runtime: 7.240552
+Priority: 4
+Start Time: 30
+End Time: 99
+Turnaround time: 74.749992
+Response time: 5.749994
+Wait time: 67.509438
+
+Process name: v
+Arrival Time: 28.228235
+Expected Runtime: 9.133230
+Priority: 4
+Start Time: 35
+End Time: 133
+Turnaround time: 104.771767
+Response time: 6.771765
+Wait time: 95.638535
+
+Process name: i
+Arrival Time: 34.470104
+Expected Runtime: 9.276387
+Priority: 2
+Start Time: 41
+End Time: 139
+Turnaround time: 104.529892
+Response time: 6.529896
+Wait time: 95.253502
+
+Process name: m
+Arrival Time: 36.228512
+Expected Runtime: 2.364617
+Priority: 3
+Start Time: 44
+End Time: 65
+Turnaround time: 28.771488
+Response time: 7.771488
+Wait time: 26.406872
+
+Process name: u
+Arrival Time: 39.919579
+Expected Runtime: 3.408375
+Priority: 3
+Start Time: 48
+End Time: 78
+Turnaround time: 38.080421
+Response time: 8.080421
+Wait time: 34.672047
+
+Process name: 6
+Arrival Time: 48.135384
+Expected Runtime: 0.795622
+Priority: 2
+Start Time: 57
+End Time: 58
+Turnaround time: 9.864616
+Response time: 8.864616
+Wait time: 9.068995
+
+Process name: t
+Arrival Time: 52.186951
+Expected Runtime: 7.643302
+Priority: 2
+Start Time: 61
+End Time: 142
+Turnaround time: 89.813049
+Response time: 8.813049
+Wait time: 82.169746
+
+Process name: g
+Arrival Time: 58.125542
+Expected Runtime: 7.768856
+Priority: 2
+Start Time: 67
+End Time: 146
+Turnaround time: 87.874458
+Response time: 8.874458
+Wait time: 80.105606
+
+Process name: f
+Arrival Time: 70.228745
+Expected Runtime: 7.038344
+Priority: 4
+Start Time: 78
+End Time: 154
+Turnaround time: 83.771255
+Response time: 7.771255
+Wait time: 76.732910
+
+Process name: 4
+Arrival Time: 71.580894
+Expected Runtime: 9.133103
+Priority: 3
+Start Time: 80
+End Time: 163
+Turnaround time: 91.419106
+Response time: 8.419106
+Wait time: 82.286003
+
+Process name: n
+Arrival Time: 73.951721
+Expected Runtime: 3.141599
+Priority: 3
+Start Time: 82
+End Time: 120
+Turnaround time: 46.048279
+Response time: 8.048279
+Wait time: 42.906681
+
+Process name: r
+Arrival Time: 76.166832
+Expected Runtime: 6.172384
+Priority: 2
+Start Time: 86
+End Time: 153
+Turnaround time: 76.833168
+Response time: 9.833168
+Wait time: 70.660782
+
+Process name: z
+Arrival Time: 79.656410
+Expected Runtime: 7.182351
+Priority: 2
+Start Time: 89
+End Time: 160
+Turnaround time: 80.343590
+Response time: 9.343590
+Wait time: 73.161240
+
+Process name: e
+Arrival Time: 81.976593
+Expected Runtime: 6.269605
+Priority: 3
+Start Time: 92
+End Time: 157
+Turnaround time: 75.023407
+Response time: 10.023407
+Wait time: 68.753799
+
+Process name: 3
+Arrival Time: 83.814491
+Expected Runtime: 8.442616
+Priority: 1
+Start Time: 95
+End Time: 164
+Turnaround time: 80.185509
+Response time: 11.185509
+Wait time: 71.742889
+
+Process name: 7
+Arrival Time: 85.657448
+Expected Runtime: 6.479617
+Priority: 3
+Start Time: 97
+End Time: 159
+Turnaround time: 73.342552
+Response time: 11.342552
+Wait time: 66.862938
+
+Throughput: 15.243903
+Average Turnaround: 57.686371
+Average Wait: 51.676445
+Average Response: 6.326367
+Freeing workload
+
+
+<===ROUND ROBIN RUN 3===>
+Creating workload
+name V, arrival 0.397681, service 4.607081, priority 2, 
+name A, arrival 3.282198, service 8.685257, priority 1, 
+name I, arrival 6.738504, service 9.710427, priority 2, 
+name Q, arrival 10.396932, service 5.813894, priority 4, 
+name U, arrival 12.526776, service 3.870666, priority 4, 
+name Y, arrival 14.326908, service 6.862430, priority 3, 
+name D, arrival 17.225306, service 1.075350, priority 3, 
+name a, arrival 18.093571, service 2.978717, priority 2, 
+name P, arrival 22.754761, service 5.095707, priority 2, 
+name C, arrival 29.015802, service 5.255159, priority 1, 
+name O, arrival 34.470104, service 9.276387, priority 2, 
+name S, arrival 36.228512, service 2.364617, priority 3, 
+name F, arrival 42.970490, service 2.558099, priority 4, 
+name c, arrival 43.629932, service 4.461819, priority 2, 
+name J, arrival 44.484215, service 5.535071, priority 3, 
+name Z, arrival 52.186951, service 7.643302, priority 2, 
+name E, arrival 54.726391, service 1.801552, priority 3, 
+name b, arrival 55.460606, service 8.653609, priority 3, 
+name M, arrival 58.125542, service 7.768856, priority 2, 
+name 9, arrival 61.503120, service 2.998022, priority 3, 
+name H, arrival 68.463181, service 4.039178, priority 3, 
+name L, arrival 70.228745, service 7.038344, priority 4, 
+name T, arrival 73.951721, service 3.141599, priority 3, 
+name X, arrival 76.166832, service 6.172384, priority 2, 
+name G, arrival 80.385918, service 3.299399, priority 4, 
+name K, arrival 81.976593, service 6.269605, priority 3, 
+name W, arrival 87.807823, service 5.374926, priority 1, 
+name B, arrival 90.381531, service 9.436344, priority 2, 
+name N, arrival 95.558060, service 8.494314, priority 4, 
+name R, arrival 97.794113, service 6.583854, priority 2, 
+
+Quanta 0: Idle
+Quanta 1: V
+Quanta 2: V
+Quanta 3: V
+Quanta 4: A
+Quanta 5: V
+Quanta 6: A
+Quanta 7: V
+Quanta 8: I
+Quanta 9: A
+Quanta 10: I
+Quanta 11: A
+Quanta 12: Q
+Quanta 13: I
+Quanta 14: A
+Quanta 15: U
+Quanta 16: Q
+Quanta 17: I
+Quanta 18: Y
+Quanta 19: A
+Quanta 20: U
+Quanta 21: Q
+Quanta 22: D
+Quanta 23: I
+Quanta 24: a
+Quanta 25: Y
+Quanta 26: A
+Quanta 27: U
+Quanta 28: Q
+Quanta 29: P
+Quanta 30: D
+Quanta 31: I
+Quanta 32: a
+Quanta 33: Y
+Quanta 34: A
+Quanta 35: U
+Quanta 36: Q
+Quanta 37: C
+Quanta 38: P
+Quanta 39: I
+Quanta 40: a
+Quanta 41: Y
+Quanta 42: O
+Quanta 43: A
+Quanta 44: S
+Quanta 45: Q
+Quanta 46: C
+Quanta 47: P
+Quanta 48: I
+Quanta 49: Y
+Quanta 50: F
+Quanta 51: O
+Quanta 52: c
+Quanta 53: J
+Quanta 54: S
+Quanta 55: C
+Quanta 56: P
+Quanta 57: I
+Quanta 58: Y
+Quanta 59: F
+Quanta 60: O
+Quanta 61: Z
+Quanta 62: c
+Quanta 63: J
+Quanta 64: E
+Quanta 65: S
+Quanta 66: b
+Quanta 67: C
+Quanta 68: P
+Quanta 69: I
+Quanta 70: M
+Quanta 71: Y
+Quanta 72: F
+Quanta 73: O
+Quanta 74: 9
+Quanta 75: Z
+Quanta 76: c
+Quanta 77: J
+Quanta 78: E
+Quanta 79: b
+Quanta 80: C
+Quanta 81: H
+Quanta 82: P
+Quanta 83: L
+Quanta 84: M
+Quanta 85: T
+Quanta 86: O
+Quanta 87: 9
+Quanta 88: Z
+Quanta 89: X
+Quanta 90: c
+Quanta 91: J
+Quanta 92: b
+Quanta 93: G
+Quanta 94: C
+Quanta 95: K
+Quanta 96: H
+Quanta 97: L
+Quanta 98: M
+Quanta 99: T
+Quanta 100: O
+Quanta 101: 9
+Quanta 102: Z
+Quanta 103: X
+Quanta 104: c
+Quanta 105: J
+Quanta 106: b
+Quanta 107: G
+Quanta 108: K
+Quanta 109: H
+Quanta 110: L
+Quanta 111: M
+Quanta 112: T
+Quanta 113: O
+Quanta 114: Z
+Quanta 115: X
+Quanta 116: J
+Quanta 117: b
+Quanta 118: G
+Quanta 119: K
+Quanta 120: H
+Quanta 121: L
+Quanta 122: M
+Quanta 123: T
+Quanta 124: O
+Quanta 125: Z
+Quanta 126: X
+Quanta 127: b
+Quanta 128: G
+Quanta 129: K
+Quanta 130: H
+Quanta 131: L
+Quanta 132: M
+Quanta 133: O
+Quanta 134: Z
+Quanta 135: X
+Quanta 136: b
+Quanta 137: K
+Quanta 138: L
+Quanta 139: M
+Quanta 140: O
+Quanta 141: Z
+Quanta 142: X
+Quanta 143: b
+Quanta 144: K
+Quanta 145: L
+Quanta 146: M
+Quanta 147: X
+Quanta 148: b
+Quanta 149: K
+Quanta 150: L
+
+Completed Process Statistics
+Process name: V
+Arrival Time: 0.397681
+Expected Runtime: 4.607081
+Priority: 2
+Start Time: 1
+End Time: 8
+Turnaround time: 7.602319
+Response time: 0.602319
+Wait time: 2.995238
+
+Process name: A
+Arrival Time: 3.282198
+Expected Runtime: 8.685257
+Priority: 1
+Start Time: 4
+End Time: 44
+Turnaround time: 40.717800
+Response time: 0.717802
+Wait time: 32.032543
+
+Process name: I
+Arrival Time: 6.738504
+Expected Runtime: 9.710427
+Priority: 2
+Start Time: 8
+End Time: 70
+Turnaround time: 63.261497
+Response time: 1.261496
+Wait time: 53.551071
+
+Process name: Q
+Arrival Time: 10.396932
+Expected Runtime: 5.813894
+Priority: 4
+Start Time: 12
+End Time: 46
+Turnaround time: 35.603069
+Response time: 1.603068
+Wait time: 29.789175
+
+Process name: U
+Arrival Time: 12.526776
+Expected Runtime: 3.870666
+Priority: 4
+Start Time: 15
+End Time: 36
+Turnaround time: 23.473225
+Response time: 2.473224
+Wait time: 19.602558
+
+Process name: Y
+Arrival Time: 14.326908
+Expected Runtime: 6.862430
+Priority: 3
+Start Time: 18
+End Time: 72
+Turnaround time: 57.673092
+Response time: 3.673092
+Wait time: 50.810661
+
+Process name: D
+Arrival Time: 17.225306
+Expected Runtime: 1.075350
+Priority: 3
+Start Time: 22
+End Time: 31
+Turnaround time: 13.774694
+Response time: 4.774694
+Wait time: 12.699344
+
+Process name: a
+Arrival Time: 18.093571
+Expected Runtime: 2.978717
+Priority: 2
+Start Time: 24
+End Time: 41
+Turnaround time: 22.906429
+Response time: 5.906429
+Wait time: 19.927711
+
+Process name: P
+Arrival Time: 22.754761
+Expected Runtime: 5.095707
+Priority: 2
+Start Time: 29
+End Time: 83
+Turnaround time: 60.245239
+Response time: 6.245239
+Wait time: 55.149532
+
+Process name: C
+Arrival Time: 29.015802
+Expected Runtime: 5.255159
+Priority: 1
+Start Time: 37
+End Time: 95
+Turnaround time: 65.984200
+Response time: 7.984198
+Wait time: 60.729042
+
+Process name: O
+Arrival Time: 34.470104
+Expected Runtime: 9.276387
+Priority: 2
+Start Time: 42
+End Time: 141
+Turnaround time: 106.529892
+Response time: 7.529896
+Wait time: 97.253502
+
+Process name: S
+Arrival Time: 36.228512
+Expected Runtime: 2.364617
+Priority: 3
+Start Time: 44
+End Time: 66
+Turnaround time: 29.771488
+Response time: 7.771488
+Wait time: 27.406872
+
+Process name: F
+Arrival Time: 42.970490
+Expected Runtime: 2.558099
+Priority: 4
+Start Time: 50
+End Time: 73
+Turnaround time: 30.029510
+Response time: 7.029510
+Wait time: 27.471413
+
+Process name: c
+Arrival Time: 43.629932
+Expected Runtime: 4.461819
+Priority: 2
+Start Time: 52
+End Time: 105
+Turnaround time: 61.370068
+Response time: 8.370068
+Wait time: 56.908249
+
+Process name: J
+Arrival Time: 44.484215
+Expected Runtime: 5.535071
+Priority: 3
+Start Time: 53
+End Time: 117
+Turnaround time: 72.515785
+Response time: 8.515785
+Wait time: 66.980713
+
+Process name: Z
+Arrival Time: 52.186951
+Expected Runtime: 7.643302
+Priority: 2
+Start Time: 61
+End Time: 142
+Turnaround time: 89.813049
+Response time: 8.813049
+Wait time: 82.169746
+
+Process name: E
+Arrival Time: 54.726391
+Expected Runtime: 1.801552
+Priority: 3
+Start Time: 64
+End Time: 79
+Turnaround time: 24.273609
+Response time: 9.273609
+Wait time: 22.472057
+
+Process name: b
+Arrival Time: 55.460606
+Expected Runtime: 8.653609
+Priority: 3
+Start Time: 66
+End Time: 149
+Turnaround time: 93.539398
+Response time: 10.539394
+Wait time: 84.885788
+
+Process name: M
+Arrival Time: 58.125542
+Expected Runtime: 7.768856
+Priority: 2
+Start Time: 70
+End Time: 147
+Turnaround time: 88.874458
+Response time: 11.874458
+Wait time: 81.105606
+
+Process name: 9
+Arrival Time: 61.503120
+Expected Runtime: 2.998022
+Priority: 3
+Start Time: 74
+End Time: 102
+Turnaround time: 40.496880
+Response time: 12.496880
+Wait time: 37.498856
+
+Process name: H
+Arrival Time: 68.463181
+Expected Runtime: 4.039178
+Priority: 3
+Start Time: 81
+End Time: 131
+Turnaround time: 62.536819
+Response time: 12.536819
+Wait time: 58.497643
+
+Process name: L
+Arrival Time: 70.228745
+Expected Runtime: 7.038344
+Priority: 4
+Start Time: 83
+End Time: 151
+Turnaround time: 80.771255
+Response time: 12.771255
+Wait time: 73.732910
+
+Process name: T
+Arrival Time: 73.951721
+Expected Runtime: 3.141599
+Priority: 3
+Start Time: 85
+End Time: 124
+Turnaround time: 50.048279
+Response time: 11.048279
+Wait time: 46.906681
+
+Process name: X
+Arrival Time: 76.166832
+Expected Runtime: 6.172384
+Priority: 2
+Start Time: 89
+End Time: 148
+Turnaround time: 71.833168
+Response time: 12.833168
+Wait time: 65.660782
+
+Process name: G
+Arrival Time: 80.385918
+Expected Runtime: 3.299399
+Priority: 4
+Start Time: 93
+End Time: 129
+Turnaround time: 48.614082
+Response time: 12.614082
+Wait time: 45.314682
+
+Process name: K
+Arrival Time: 81.976593
+Expected Runtime: 6.269605
+Priority: 3
+Start Time: 95
+End Time: 150
+Turnaround time: 68.023407
+Response time: 13.023407
+Wait time: 61.753803
+
+Throughput: 17.218544
+Average Turnaround: 54.241642
+Average Wait: 48.973309
+Average Response: 7.780105
+Freeing workload
+
+
+<===ROUND ROBIN RUN 4===>
+Creating workload
+name s, arrival 1.830959, service 1.619069, priority 4, 
+name f, arrival 8.232365, service 1.800599, priority 3, 
+name 4, arrival 9.706580, service 3.899320, priority 4, 
+name v, arrival 15.756845, service 3.893625, priority 2, 
+name e, arrival 19.281031, service 0.951471, priority 3, 
+name 7, arrival 23.711214, service 1.239647, priority 1, 
+name m, arrival 24.101442, service 7.054821, priority 4, 
+name y, arrival 29.349455, service 6.123566, priority 4, 
+name d, arrival 31.793705, service 0.258571, priority 1, 
+name 2, arrival 33.514652, service 2.413465, priority 3, 
+name 6, arrival 35.458286, service 5.435447, priority 2, 
+name t, arrival 39.865406, service 7.368098, priority 1, 
+name 1, arrival 45.132416, service 6.579745, priority 2, 
+name g, arrival 45.712959, service 7.465417, priority 4, 
+name k, arrival 47.985474, service 5.577083, priority 2, 
+name o, arrival 49.525097, service 3.596448, priority 4, 
+name w, arrival 53.209999, service 9.574896, priority 1, 
+name j, arrival 59.336239, service 4.769245, priority 2, 
+name n, arrival 61.853207, service 2.885015, priority 2, 
+name r, arrival 64.010933, service 5.917032, priority 4, 
+name z, arrival 66.762001, service 1.911590, priority 1, 
+name 3, arrival 71.029762, service 8.117650, priority 4, 
+name i, arrival 71.394928, service 8.978404, priority 1, 
+name q, arrival 75.673782, service 5.124559, priority 2, 
+name u, arrival 77.129105, service 3.123095, priority 2, 
+name h, arrival 83.485855, service 3.294765, priority 2, 
+name l, arrival 85.241455, service 1.335622, priority 4, 
+name p, arrival 87.264572, service 4.352296, priority 3, 
+name x, arrival 90.891647, service 0.435419, priority 2, 
+name 5, arrival 96.604050, service 4.648695, priority 4, 
+
+Quanta 0: Idle
+Quanta 1: Idle
+Quanta 2: s
+Quanta 3: s
+Quanta 4: Idle
+Quanta 5: Idle
+Quanta 6: Idle
+Quanta 7: Idle
+Quanta 8: Idle
+Quanta 9: f
+Quanta 10: 4
+Quanta 11: f
+Quanta 12: 4
+Quanta 13: 4
+Quanta 14: 4
+Quanta 15: Idle
+Quanta 16: v
+Quanta 17: v
+Quanta 18: v
+Quanta 19: v
+Quanta 20: e
+Quanta 21: Idle
+Quanta 22: Idle
+Quanta 23: Idle
+Quanta 24: 7
+Quanta 25: m
+Quanta 26: 7
+Quanta 27: m
+Quanta 28: m
+Quanta 29: m
+Quanta 30: y
+Quanta 31: m
+Quanta 32: y
+Quanta 33: d
+Quanta 34: m
+Quanta 35: y
+Quanta 36: 2
+Quanta 37: m
+Quanta 38: 6
+Quanta 39: y
+Quanta 40: 2
+Quanta 41: m
+Quanta 42: 6
+Quanta 43: t
+Quanta 44: y
+Quanta 45: 2
+Quanta 46: 6
+Quanta 47: t
+Quanta 48: y
+Quanta 49: 1
+Quanta 50: g
+Quanta 51: 6
+Quanta 52: k
+Quanta 53: t
+Quanta 54: y
+Quanta 55: o
+Quanta 56: 1
+Quanta 57: g
+Quanta 58: 6
+Quanta 59: k
+Quanta 60: w
+Quanta 61: t
+Quanta 62: o
+Quanta 63: 1
+Quanta 64: g
+Quanta 65: 6
+Quanta 66: j
+Quanta 67: k
+Quanta 68: w
+Quanta 69: n
+Quanta 70: t
+Quanta 71: o
+Quanta 72: 1
+Quanta 73: r
+Quanta 74: g
+Quanta 75: z
+Quanta 76: j
+Quanta 77: k
+Quanta 78: w
+Quanta 79: n
+Quanta 80: t
+Quanta 81: 3
+Quanta 82: i
+Quanta 83: o
+Quanta 84: 1
+Quanta 85: r
+Quanta 86: g
+Quanta 87: q
+Quanta 88: z
+Quanta 89: j
+Quanta 90: u
+Quanta 91: k
+Quanta 92: w
+Quanta 93: n
+Quanta 94: t
+Quanta 95: 3
+Quanta 96: i
+Quanta 97: h
+Quanta 98: 1
+Quanta 99: l
+Quanta 100: r
+Quanta 101: g
+Quanta 102: q
+Quanta 103: j
+Quanta 104: u
+Quanta 105: k
+Quanta 106: w
+Quanta 107: t
+Quanta 108: 3
+Quanta 109: i
+Quanta 110: h
+Quanta 111: 1
+Quanta 112: l
+Quanta 113: r
+Quanta 114: g
+Quanta 115: q
+Quanta 116: j
+Quanta 117: u
+Quanta 118: w
+Quanta 119: 3
+Quanta 120: i
+Quanta 121: h
+Quanta 122: r
+Quanta 123: g
+Quanta 124: q
+Quanta 125: u
+Quanta 126: w
+Quanta 127: 3
+Quanta 128: i
+Quanta 129: h
+Quanta 130: r
+Quanta 131: q
+Quanta 132: w
+Quanta 133: 3
+Quanta 134: i
+Quanta 135: q
+Quanta 136: w
+Quanta 137: 3
+Quanta 138: i
+Quanta 139: w
+Quanta 140: 3
+Quanta 141: i
+Quanta 142: 3
+Quanta 143: i
+
+Completed Process Statistics
+Process name: s
+Arrival Time: 1.830959
+Expected Runtime: 1.619069
+Priority: 4
+Start Time: 2
+End Time: 4
+Turnaround time: 2.169041
+Response time: 0.169041
+Wait time: 0.549971
+
+Process name: f
+Arrival Time: 8.232365
+Expected Runtime: 1.800599
+Priority: 3
+Start Time: 9
+End Time: 12
+Turnaround time: 3.767635
+Response time: 0.767635
+Wait time: 1.967037
+
+Process name: 4
+Arrival Time: 9.706580
+Expected Runtime: 3.899320
+Priority: 4
+Start Time: 10
+End Time: 15
+Turnaround time: 5.293420
+Response time: 0.293420
+Wait time: 1.394100
+
+Process name: v
+Arrival Time: 15.756845
+Expected Runtime: 3.893625
+Priority: 2
+Start Time: 16
+End Time: 20
+Turnaround time: 4.243155
+Response time: 0.243155
+Wait time: 0.349530
+
+Process name: e
+Arrival Time: 19.281031
+Expected Runtime: 0.951471
+Priority: 3
+Start Time: 20
+End Time: 21
+Turnaround time: 1.718969
+Response time: 0.718969
+Wait time: 0.767498
+
+Process name: 7
+Arrival Time: 23.711214
+Expected Runtime: 1.239647
+Priority: 1
+Start Time: 24
+End Time: 27
+Turnaround time: 3.288786
+Response time: 0.288786
+Wait time: 2.049139
+
+Process name: m
+Arrival Time: 24.101442
+Expected Runtime: 7.054821
+Priority: 4
+Start Time: 25
+End Time: 42
+Turnaround time: 17.898558
+Response time: 0.898558
+Wait time: 10.843737
+
+Process name: y
+Arrival Time: 29.349455
+Expected Runtime: 6.123566
+Priority: 4
+Start Time: 30
+End Time: 55
+Turnaround time: 25.650545
+Response time: 0.650545
+Wait time: 19.526979
+
+Process name: d
+Arrival Time: 31.793705
+Expected Runtime: 0.258571
+Priority: 1
+Start Time: 33
+End Time: 34
+Turnaround time: 2.206295
+Response time: 1.206295
+Wait time: 1.947724
+
+Process name: 2
+Arrival Time: 33.514652
+Expected Runtime: 2.413465
+Priority: 3
+Start Time: 36
+End Time: 46
+Turnaround time: 12.485348
+Response time: 2.485348
+Wait time: 10.071882
+
+Process name: 6
+Arrival Time: 35.458286
+Expected Runtime: 5.435447
+Priority: 2
+Start Time: 38
+End Time: 66
+Turnaround time: 30.541714
+Response time: 2.541714
+Wait time: 25.106266
+
+Process name: t
+Arrival Time: 39.865406
+Expected Runtime: 7.368098
+Priority: 1
+Start Time: 43
+End Time: 108
+Turnaround time: 68.134598
+Response time: 3.134594
+Wait time: 60.766499
+
+Process name: 1
+Arrival Time: 45.132416
+Expected Runtime: 6.579745
+Priority: 2
+Start Time: 49
+End Time: 112
+Turnaround time: 66.867584
+Response time: 3.867584
+Wait time: 60.287838
+
+Process name: g
+Arrival Time: 45.712959
+Expected Runtime: 7.465417
+Priority: 4
+Start Time: 50
+End Time: 124
+Turnaround time: 78.287041
+Response time: 4.287041
+Wait time: 70.821625
+
+Process name: k
+Arrival Time: 47.985474
+Expected Runtime: 5.577083
+Priority: 2
+Start Time: 52
+End Time: 106
+Turnaround time: 58.014526
+Response time: 4.014526
+Wait time: 52.437443
+
+Process name: o
+Arrival Time: 49.525097
+Expected Runtime: 3.596448
+Priority: 4
+Start Time: 55
+End Time: 84
+Turnaround time: 34.474903
+Response time: 5.474903
+Wait time: 30.878456
+
+Process name: w
+Arrival Time: 53.209999
+Expected Runtime: 9.574896
+Priority: 1
+Start Time: 60
+End Time: 140
+Turnaround time: 86.790001
+Response time: 6.790001
+Wait time: 77.215103
+
+Process name: j
+Arrival Time: 59.336239
+Expected Runtime: 4.769245
+Priority: 2
+Start Time: 66
+End Time: 117
+Turnaround time: 57.663761
+Response time: 6.663761
+Wait time: 52.894516
+
+Process name: n
+Arrival Time: 61.853207
+Expected Runtime: 2.885015
+Priority: 2
+Start Time: 69
+End Time: 94
+Turnaround time: 32.146793
+Response time: 7.146793
+Wait time: 29.261778
+
+Process name: r
+Arrival Time: 64.010933
+Expected Runtime: 5.917032
+Priority: 4
+Start Time: 73
+End Time: 131
+Turnaround time: 66.989067
+Response time: 8.989067
+Wait time: 61.072037
+
+Process name: z
+Arrival Time: 66.762001
+Expected Runtime: 1.911590
+Priority: 1
+Start Time: 75
+End Time: 89
+Turnaround time: 22.237999
+Response time: 8.237999
+Wait time: 20.326408
+
+Process name: 3
+Arrival Time: 71.029762
+Expected Runtime: 8.117650
+Priority: 4
+Start Time: 81
+End Time: 143
+Turnaround time: 71.970238
+Response time: 9.970238
+Wait time: 63.852589
+
+Process name: i
+Arrival Time: 71.394928
+Expected Runtime: 8.978404
+Priority: 1
+Start Time: 82
+End Time: 144
+Turnaround time: 72.605072
+Response time: 10.605072
+Wait time: 63.626667
+
+Process name: q
+Arrival Time: 75.673782
+Expected Runtime: 5.124559
+Priority: 2
+Start Time: 87
+End Time: 136
+Turnaround time: 60.326218
+Response time: 11.326218
+Wait time: 55.201660
+
+Process name: u
+Arrival Time: 77.129105
+Expected Runtime: 3.123095
+Priority: 2
+Start Time: 90
+End Time: 126
+Turnaround time: 48.870895
+Response time: 12.870895
+Wait time: 45.747803
+
+Process name: h
+Arrival Time: 83.485855
+Expected Runtime: 3.294765
+Priority: 2
+Start Time: 97
+End Time: 130
+Turnaround time: 46.514145
+Response time: 13.514145
+Wait time: 43.219379
+
+Process name: l
+Arrival Time: 85.241455
+Expected Runtime: 1.335622
+Priority: 4
+Start Time: 99
+End Time: 113
+Turnaround time: 27.758545
+Response time: 13.758545
+Wait time: 26.422922
+
+Throughput: 18.750000
+Average Turnaround: 37.367214
+Average Wait: 32.911354
+Average Response: 5.219069
+Freeing workload
+
+
+<===ROUND ROBIN RUN 5===>
+Creating workload
+name Y, arrival 1.830959, service 1.619069, priority 4, 
+name D, arrival 4.511338, service 5.698181, priority 4, 
+name L, arrival 8.232365, service 1.800599, priority 3, 
+name C, arrival 16.264278, service 4.915644, priority 2, 
+name G, arrival 18.093571, service 2.978717, priority 2, 
+name K, arrival 19.281031, service 0.951471, priority 3, 
+name S, arrival 24.101442, service 7.054821, priority 4, 
+name B, arrival 28.228235, service 9.133230, priority 4, 
+name J, arrival 31.793705, service 0.258571, priority 1, 
+name Z, arrival 39.865406, service 7.368098, priority 1, 
+name A, arrival 39.919579, service 3.408375, priority 3, 
+name b, arrival 42.950268, service 3.413212, priority 3, 
+name I, arrival 43.629932, service 4.461819, priority 2, 
+name M, arrival 45.712959, service 7.465417, priority 4, 
+name Q, arrival 47.985474, service 5.577083, priority 2, 
+name U, arrival 49.525097, service 3.596448, priority 4, 
+name a, arrival 55.231052, service 2.690229, priority 3, 
+name H, arrival 55.460606, service 8.653609, priority 3, 
+name P, arrival 59.336239, service 4.769245, priority 2, 
+name 8, arrival 60.992355, service 1.955743, priority 1, 
+name T, arrival 61.853207, service 2.885015, priority 2, 
+name X, arrival 64.010933, service 5.917032, priority 4, 
+name O, arrival 71.394928, service 8.978404, priority 1, 
+name W, arrival 75.673782, service 5.124559, priority 2, 
+name F, arrival 79.656410, service 7.182351, priority 2, 
+name N, arrival 83.485855, service 3.294765, priority 2, 
+name R, arrival 85.241455, service 1.335622, priority 4, 
+name V, arrival 87.264572, service 4.352296, priority 3, 
+name E, arrival 91.376953, service 1.464923, priority 1, 
+name 9, arrival 98.427231, service 2.676375, priority 3, 
+
+Quanta 0: Idle
+Quanta 1: Idle
+Quanta 2: Y
+Quanta 3: Y
+Quanta 4: Idle
+Quanta 5: D
+Quanta 6: D
+Quanta 7: D
+Quanta 8: D
+Quanta 9: L
+Quanta 10: D
+Quanta 11: L
+Quanta 12: D
+Quanta 13: Idle
+Quanta 14: Idle
+Quanta 15: Idle
+Quanta 16: Idle
+Quanta 17: C
+Quanta 18: C
+Quanta 19: G
+Quanta 20: C
+Quanta 21: K
+Quanta 22: G
+Quanta 23: C
+Quanta 24: G
+Quanta 25: C
+Quanta 26: S
+Quanta 27: S
+Quanta 28: S
+Quanta 29: B
+Quanta 30: S
+Quanta 31: B
+Quanta 32: S
+Quanta 33: J
+Quanta 34: B
+Quanta 35: S
+Quanta 36: B
+Quanta 37: S
+Quanta 38: B
+Quanta 39: S
+Quanta 40: B
+Quanta 41: Z
+Quanta 42: A
+Quanta 43: B
+Quanta 44: Z
+Quanta 45: b
+Quanta 46: A
+Quanta 47: I
+Quanta 48: B
+Quanta 49: Z
+Quanta 50: M
+Quanta 51: b
+Quanta 52: A
+Quanta 53: Q
+Quanta 54: I
+Quanta 55: B
+Quanta 56: U
+Quanta 57: Z
+Quanta 58: M
+Quanta 59: b
+Quanta 60: A
+Quanta 61: Q
+Quanta 62: I
+Quanta 63: a
+Quanta 64: H
+Quanta 65: B
+Quanta 66: U
+Quanta 67: Z
+Quanta 68: M
+Quanta 69: P
+Quanta 70: b
+Quanta 71: 8
+Quanta 72: T
+Quanta 73: Q
+Quanta 74: I
+Quanta 75: a
+Quanta 76: X
+Quanta 77: H
+Quanta 78: U
+Quanta 79: Z
+Quanta 80: M
+Quanta 81: P
+Quanta 82: O
+Quanta 83: 8
+Quanta 84: T
+Quanta 85: Q
+Quanta 86: I
+Quanta 87: W
+Quanta 88: a
+Quanta 89: X
+Quanta 90: H
+Quanta 91: U
+Quanta 92: F
+Quanta 93: Z
+Quanta 94: M
+Quanta 95: P
+Quanta 96: O
+Quanta 97: N
+Quanta 98: T
+Quanta 99: R
+Quanta 100: Q
+Quanta 101: W
+Quanta 102: X
+Quanta 103: H
+Quanta 104: F
+Quanta 105: Z
+Quanta 106: M
+Quanta 107: P
+Quanta 108: O
+Quanta 109: N
+Quanta 110: R
+Quanta 111: Q
+Quanta 112: W
+Quanta 113: X
+Quanta 114: H
+Quanta 115: F
+Quanta 116: M
+Quanta 117: P
+Quanta 118: O
+Quanta 119: N
+Quanta 120: W
+Quanta 121: X
+Quanta 122: H
+Quanta 123: F
+Quanta 124: M
+Quanta 125: O
+Quanta 126: N
+Quanta 127: W
+Quanta 128: X
+Quanta 129: H
+Quanta 130: F
+Quanta 131: O
+Quanta 132: W
+Quanta 133: H
+Quanta 134: F
+Quanta 135: O
+Quanta 136: H
+Quanta 137: F
+Quanta 138: O
+Quanta 139: F
+Quanta 140: O
+
+Completed Process Statistics
+Process name: Y
+Arrival Time: 1.830959
+Expected Runtime: 1.619069
+Priority: 4
+Start Time: 2
+End Time: 4
+Turnaround time: 2.169041
+Response time: 0.169041
+Wait time: 0.549971
+
+Process name: D
+Arrival Time: 4.511338
+Expected Runtime: 5.698181
+Priority: 4
+Start Time: 5
+End Time: 13
+Turnaround time: 8.488663
+Response time: 0.488662
+Wait time: 2.790482
+
+Process name: L
+Arrival Time: 8.232365
+Expected Runtime: 1.800599
+Priority: 3
+Start Time: 9
+End Time: 12
+Turnaround time: 3.767635
+Response time: 0.767635
+Wait time: 1.967037
+
+Process name: C
+Arrival Time: 16.264278
+Expected Runtime: 4.915644
+Priority: 2
+Start Time: 17
+End Time: 26
+Turnaround time: 9.735722
+Response time: 0.735722
+Wait time: 4.820078
+
+Process name: G
+Arrival Time: 18.093571
+Expected Runtime: 2.978717
+Priority: 2
+Start Time: 19
+End Time: 25
+Turnaround time: 6.906429
+Response time: 0.906429
+Wait time: 3.927712
+
+Process name: K
+Arrival Time: 19.281031
+Expected Runtime: 0.951471
+Priority: 3
+Start Time: 21
+End Time: 22
+Turnaround time: 2.718969
+Response time: 1.718969
+Wait time: 1.767498
+
+Process name: S
+Arrival Time: 24.101442
+Expected Runtime: 7.054821
+Priority: 4
+Start Time: 26
+End Time: 40
+Turnaround time: 15.898558
+Response time: 1.898558
+Wait time: 8.843737
+
+Process name: B
+Arrival Time: 28.228235
+Expected Runtime: 9.133230
+Priority: 4
+Start Time: 29
+End Time: 66
+Turnaround time: 37.771767
+Response time: 0.771765
+Wait time: 28.638536
+
+Process name: J
+Arrival Time: 31.793705
+Expected Runtime: 0.258571
+Priority: 1
+Start Time: 33
+End Time: 34
+Turnaround time: 2.206295
+Response time: 1.206295
+Wait time: 1.947724
+
+Process name: Z
+Arrival Time: 39.865406
+Expected Runtime: 7.368098
+Priority: 1
+Start Time: 41
+End Time: 106
+Turnaround time: 66.134598
+Response time: 1.134594
+Wait time: 58.766499
+
+Process name: A
+Arrival Time: 39.919579
+Expected Runtime: 3.408375
+Priority: 3
+Start Time: 42
+End Time: 61
+Turnaround time: 21.080421
+Response time: 2.080421
+Wait time: 17.672047
+
+Process name: b
+Arrival Time: 42.950268
+Expected Runtime: 3.413212
+Priority: 3
+Start Time: 45
+End Time: 71
+Turnaround time: 28.049732
+Response time: 2.049732
+Wait time: 24.636520
+
+Process name: I
+Arrival Time: 43.629932
+Expected Runtime: 4.461819
+Priority: 2
+Start Time: 47
+End Time: 87
+Turnaround time: 43.370068
+Response time: 3.370068
+Wait time: 38.908249
+
+Process name: M
+Arrival Time: 45.712959
+Expected Runtime: 7.465417
+Priority: 4
+Start Time: 50
+End Time: 125
+Turnaround time: 79.287041
+Response time: 4.287041
+Wait time: 71.821625
+
+Process name: Q
+Arrival Time: 47.985474
+Expected Runtime: 5.577083
+Priority: 2
+Start Time: 53
+End Time: 112
+Turnaround time: 64.014526
+Response time: 5.014526
+Wait time: 58.437443
+
+Process name: U
+Arrival Time: 49.525097
+Expected Runtime: 3.596448
+Priority: 4
+Start Time: 56
+End Time: 92
+Turnaround time: 42.474903
+Response time: 6.474903
+Wait time: 38.878456
+
+Process name: a
+Arrival Time: 55.231052
+Expected Runtime: 2.690229
+Priority: 3
+Start Time: 63
+End Time: 89
+Turnaround time: 33.768948
+Response time: 7.768948
+Wait time: 31.078718
+
+Process name: H
+Arrival Time: 55.460606
+Expected Runtime: 8.653609
+Priority: 3
+Start Time: 64
+End Time: 137
+Turnaround time: 81.539398
+Response time: 8.539394
+Wait time: 72.885788
+
+Process name: P
+Arrival Time: 59.336239
+Expected Runtime: 4.769245
+Priority: 2
+Start Time: 69
+End Time: 118
+Turnaround time: 58.663761
+Response time: 9.663761
+Wait time: 53.894516
+
+Process name: 8
+Arrival Time: 60.992355
+Expected Runtime: 1.955743
+Priority: 1
+Start Time: 71
+End Time: 84
+Turnaround time: 23.007645
+Response time: 10.007645
+Wait time: 21.051901
+
+Process name: T
+Arrival Time: 61.853207
+Expected Runtime: 2.885015
+Priority: 2
+Start Time: 72
+End Time: 99
+Turnaround time: 37.146793
+Response time: 10.146793
+Wait time: 34.261780
+
+Process name: X
+Arrival Time: 64.010933
+Expected Runtime: 5.917032
+Priority: 4
+Start Time: 76
+End Time: 129
+Turnaround time: 64.989067
+Response time: 11.989067
+Wait time: 59.072037
+
+Process name: O
+Arrival Time: 71.394928
+Expected Runtime: 8.978404
+Priority: 1
+Start Time: 82
+End Time: 141
+Turnaround time: 69.605072
+Response time: 10.605072
+Wait time: 60.626667
+
+Process name: W
+Arrival Time: 75.673782
+Expected Runtime: 5.124559
+Priority: 2
+Start Time: 87
+End Time: 133
+Turnaround time: 57.326218
+Response time: 11.326218
+Wait time: 52.201660
+
+Process name: F
+Arrival Time: 79.656410
+Expected Runtime: 7.182351
+Priority: 2
+Start Time: 92
+End Time: 140
+Turnaround time: 60.343590
+Response time: 12.343590
+Wait time: 53.161240
+
+Process name: N
+Arrival Time: 83.485855
+Expected Runtime: 3.294765
+Priority: 2
+Start Time: 97
+End Time: 127
+Turnaround time: 43.514145
+Response time: 13.514145
+Wait time: 40.219379
+
+Process name: R
+Arrival Time: 85.241455
+Expected Runtime: 1.335622
+Priority: 4
+Start Time: 99
+End Time: 111
+Turnaround time: 25.758545
+Response time: 13.758545
+Wait time: 24.422922
+
+Throughput: 19.148937
+Average Turnaround: 36.656948
+Average Wait: 32.120380
+Average Response: 5.656946
+Freeing workload
+
+
+Average Throughput of all runs: 17.796413
+Average Turnaround Time of all runs: 44.867683
+Average Wait Time of all runs: 39.865028
+Average Response Time of all runs: 6.073746

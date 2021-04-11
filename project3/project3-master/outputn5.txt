@@ -1,0 +1,288 @@
+response time: 0
+response time: 0
+response time: 0
+response time: 0
+response time: 0
+response time: 0
+response time: 4
+response time: 2
+response time: 0
+response time: 0
+response time: 3
+response time: 1
+response time: 0
+response time: 0
+response time: 0
+response time: 6
+response time: 0
+response time: 0
+response time: 4
+response time: 0
+response time: 0
+response time: 7
+response time: 0
+response time: 1
+response time: 0
+response time: 0
+response time: 2
+response time: 0
+response time: 2
+response time: 0
+response time: 0
+response time: 3
+response time: 0
+response time: 0
+response time: 0
+response time: 0
+response time: 1
+response time: 0
+response time: 0
+response time: 0
+response time: 6
+response time: 1
+response time: 0
+response time: 0
+response time: 0
+response time: 10
+response time: 0
+response time: 3
+------------------------------------------
+Seller H1 event log: 
+------------------------------------------
+0:9 - Customer 4 arrived.
+0:9 - Customer 4 assigned a seat!
+0:11 - Customer 4 completed transaction!
+0:43 - Customer 0 arrived.
+0:43 - Customer 0 assigned a seat!
+0:44 - Customer 0 completed transaction!
+0:46 - Customer 3 arrived.
+0:46 - Customer 3 assigned a seat!
+0:47 - Customer 3 completed transaction!
+0:53 - Customer 2 arrived.
+0:53 - Customer 2 assigned a seat!
+0:55 - Customer 2 completed transaction!
+0:57 - Customer 1 arrived.
+0:57 - Customer 1 assigned a seat!
+0:59 - Customer 1 completed transaction!
+response time: 0average_response_time: 0.000000
+turnaround time: 8average turnaround time: 1.600000
+price: 0 seated: 5 turnedaway: 0 turnabout: 8 response: 0
+------------------------------------------
+Seller M1 event log: 
+------------------------------------------
+0:0 - Customer 3 arrived.
+0:0 - Customer 3 assigned a seat!
+0:2 - Customer 0 arrived.
+0:2 - Customer 3 completed transaction!
+0:2 - Customer 0 assigned a seat!
+0:5 - Customer 0 completed transaction!
+0:23 - Customer 2 arrived.
+0:23 - Customer 2 assigned a seat!
+0:26 - Customer 2 completed transaction!
+0:50 - Customer 1 arrived.
+0:50 - Customer 1 assigned a seat!
+0:52 - Customer 4 arrived.
+0:53 - Customer 1 completed transaction!
+0:53 - Customer 4 assigned a seat!
+0:56 - Customer 4 completed transaction!
+response time: 1average_response_time: 0.200000
+turnaround time: 15average turnaround time: 3.000000
+price: 1 seated: 5 turnedaway: 0 turnabout: 15 response: 1
+------------------------------------------
+Seller M2 event log: 
+------------------------------------------
+0:2 - Customer 2 arrived.
+0:2 - Customer 3 arrived.
+0:2 - Customer 2 assigned a seat!
+0:6 - Customer 2 completed transaction!
+0:6 - Customer 3 assigned a seat!
+0:7 - Customer 4 arrived.
+0:9 - Customer 3 completed transaction!
+0:9 - Customer 4 assigned a seat!
+0:11 - Customer 0 arrived.
+0:12 - Customer 4 completed transaction!
+0:12 - Customer 0 assigned a seat!
+0:16 - Customer 0 completed transaction!
+0:27 - Customer 1 arrived.
+0:27 - Customer 1 assigned a seat!
+0:29 - Customer 1 completed transaction!
+response time: 7average_response_time: 1.400000
+turnaround time: 23average turnaround time: 4.600000
+price: 1 seated: 5 turnedaway: 0 turnabout: 23 response: 7
+------------------------------------------
+Seller M3 event log: 
+------------------------------------------
+0:13 - Customer 3 arrived.
+0:13 - Customer 3 assigned a seat!
+0:16 - Customer 3 completed transaction!
+0:29 - Customer 0 arrived.
+0:29 - Customer 2 arrived.
+0:29 - Customer 0 assigned a seat!
+0:31 - Customer 4 arrived.
+0:31 - Customer 0 completed transaction!
+0:31 - Customer 2 assigned a seat!
+0:33 - Customer 2 completed transaction!
+0:33 - Customer 4 assigned a seat!
+0:36 - Customer 4 completed transaction!
+0:42 - Customer 1 arrived.
+0:42 - Customer 1 assigned a seat!
+0:44 - Customer 1 completed transaction!
+response time: 4average_response_time: 0.800000
+turnaround time: 16average turnaround time: 3.200000
+price: 1 seated: 5 turnedaway: 0 turnabout: 16 response: 4
+------------------------------------------
+Seller L1 event log: 
+------------------------------------------
+0:9 - Customer 0 arrived.
+0:9 - Customer 0 assigned a seat!
+0:14 - Customer 0 completed transaction!
+0:21 - Customer 1 arrived.
+0:21 - Customer 1 assigned a seat!
+0:28 - Customer 1 completed transaction!
+0:35 - Customer 4 arrived.
+0:35 - Customer 4 assigned a seat!
+0:38 - Customer 3 arrived.
+0:41 - Customer 4 completed transaction!
+0:41 - Customer 3 assigned a seat!
+0:44 - Customer 2 arrived.
+0:45 - Customer 3 completed transaction!
+0:45 - Customer 2 assigned a seat!
+0:50 - Customer 2 completed transaction!
+response time: 4average_response_time: 0.800000
+turnaround time: 31average turnaround time: 6.200000
+price: 2 seated: 5 turnedaway: 0 turnabout: 31 response: 4
+------------------------------------------
+Seller L2 event log: 
+------------------------------------------
+0:2 - Customer 3 arrived.
+0:2 - Customer 3 assigned a seat!
+0:8 - Customer 3 completed transaction!
+0:16 - Customer 4 arrived.
+0:16 - Customer 4 assigned a seat!
+0:21 - Customer 4 completed transaction!
+0:31 - Customer 1 arrived.
+0:31 - Customer 1 assigned a seat!
+0:35 - Customer 1 completed transaction!
+0:53 - Customer 0 arrived.
+0:53 - Customer 0 assigned a seat!
+0:56 - Customer 2 arrived.
+0:59 - Customer 0 completed transaction!
+0:59 - Customer 2 assigned a seat!
+1:4 - Customer 2 completed transaction!
+response time: 3average_response_time: 0.600000
+turnaround time: 29average turnaround time: 5.800000
+price: 2 seated: 5 turnedaway: 0 turnabout: 29 response: 3
+------------------------------------------
+Seller L3 event log: 
+------------------------------------------
+0:13 - Customer 4 arrived.
+0:13 - Customer 4 assigned a seat!
+0:18 - Customer 4 completed transaction!
+0:44 - Customer 1 arrived.
+0:44 - Customer 1 assigned a seat!
+0:45 - Customer 0 arrived.
+0:46 - Customer 3 arrived.
+0:51 - Customer 1 completed transaction!
+0:51 - Customer 0 assigned a seat!
+0:56 - Customer 2 arrived.
+0:56 - Customer 0 completed transaction!
+0:56 - Customer 3 assigned a seat!
+1:1 - Customer 3 completed transaction!
+response time: 16average_response_time: 4.000000
+turnaround time: 38average turnaround time: 9.500000
+price: 2 seated: 4 turnedaway: 0 turnabout: 38 response: 16
+------------------------------------------
+Seller L4 event log: 
+------------------------------------------
+0:3 - Customer 4 arrived.
+0:3 - Customer 4 assigned a seat!
+0:9 - Customer 4 completed transaction!
+0:14 - Customer 2 arrived.
+0:14 - Customer 3 arrived.
+0:14 - Customer 2 assigned a seat!
+0:21 - Customer 2 completed transaction!
+0:21 - Customer 3 assigned a seat!
+0:24 - Customer 0 arrived.
+0:25 - Customer 3 completed transaction!
+0:25 - Customer 0 assigned a seat!
+0:32 - Customer 0 completed transaction!
+0:42 - Customer 1 arrived.
+0:42 - Customer 1 assigned a seat!
+0:47 - Customer 1 completed transaction!
+response time: 8average_response_time: 1.600000
+turnaround time: 37average turnaround time: 7.400000
+price: 2 seated: 5 turnedaway: 0 turnabout: 37 response: 8
+------------------------------------------
+Seller L5 event log: 
+------------------------------------------
+0:3 - Customer 3 arrived.
+0:3 - Customer 3 assigned a seat!
+0:7 - Customer 0 arrived.
+0:8 - Customer 2 arrived.
+0:10 - Customer 3 completed transaction!
+0:10 - Customer 0 assigned a seat!
+0:14 - Customer 4 arrived.
+0:14 - Customer 0 completed transaction!
+0:14 - Customer 2 assigned a seat!
+0:18 - Customer 2 completed transaction!
+0:18 - Customer 4 assigned a seat!
+0:25 - Customer 4 completed transaction!
+0:36 - Customer 1 arrived.
+0:36 - Customer 1 assigned a seat!
+0:42 - Customer 1 completed transaction!
+response time: 13average_response_time: 2.600000
+turnaround time: 41average turnaround time: 8.200000
+price: 2 seated: 5 turnedaway: 0 turnabout: 41 response: 13
+------------------------------------------
+Seller L6 event log: 
+------------------------------------------
+0:12 - Customer 0 arrived.
+0:12 - Customer 0 assigned a seat!
+0:16 - Customer 0 completed transaction!
+0:19 - Customer 2 arrived.
+0:19 - Customer 2 assigned a seat!
+0:23 - Customer 2 completed transaction!
+0:46 - Customer 3 arrived.
+0:46 - Customer 3 assigned a seat!
+0:52 - Customer 3 completed transaction!
+0:54 - Customer 4 arrived.
+0:54 - Customer 4 assigned a seat!
+0:56 - Customer 1 arrived.
+1:1 - Customer 4 completed transaction!
+response time: 0average_response_time: 0.000000
+turnaround time: 21average turnaround time: 5.250000
+price: 2 seated: 4 turnedaway: 0 turnabout: 21 response: 0
+-----------------------------------------------------------------------
+| H1_4 | H1_0 | H1_3 | H1_2 | H1_1 |      |      |      |      |      |
+-----------------------------------------------------------------------
+|      |      |      |      |      |      |      |      |      |      |
+-----------------------------------------------------------------------
+|      |      |      |      |      |      |      |      |      |      |
+-----------------------------------------------------------------------
+|      |      |      |      |      |      |      |      |      |      |
+-----------------------------------------------------------------------
+|      |      |      |      |      |      |      |      |      |      |
+-----------------------------------------------------------------------
+| M1_3 | M1_0 | M2_2 | M2_3 | M2_4 | M2_0 | M3_3 | M1_2 | M2_1 | M3_0 |
+-----------------------------------------------------------------------
+| M3_2 | M3_4 | M3_1 | M1_1 | M1_4 |      |      |      |      |      |
+-----------------------------------------------------------------------
+|      |      | L2_2 | L3_3 | L6_4 | L2_0 | L3_0 | L6_3 | L1_2 | L3_1 |
+-----------------------------------------------------------------------
+| L4_1 | L1_3 | L5_1 | L1_4 | L2_1 | L4_0 | L4_3 | L1_1 | L6_2 | L5_4 |
+-----------------------------------------------------------------------
+| L2_4 | L4_2 | L5_2 | L3_4 | L6_0 | L5_0 | L1_0 | L5_3 | L4_4 | L2_3 |
+-----------------------------------------------------------------------
+
+H sold: 5 H rejected: 0
+M sold: 15 M rejected: 0
+L sold: 28 L rejected: 0
+H turnabout: 1.6
+M turnabout: 3.6
+L turnabout: 7.03571
+H response: 0
+M response: 0.8
+L response: 1.57143
+H throughput: 5
+M throughput: 5
+L throughput: 4.66667

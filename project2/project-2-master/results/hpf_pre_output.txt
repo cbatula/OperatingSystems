@@ -1,0 +1,2739 @@
+
+
+
+============HPF_PRE run 1================
+
+Creating workload
+Process name: 0
+Arrival Time: 0.397681
+Expected Run Time: 4.607081
+Priority: 2
+
+Process name: 1
+Arrival Time: 0.397681
+Expected Run Time: 4.607081
+Priority: 2
+
+Process name: 2
+Arrival Time: 0.943898
+Expected Run Time: 0.688000
+Priority: 3
+
+Process name: 3
+Arrival Time: 3.282198
+Expected Run Time: 8.685257
+Priority: 1
+
+Process name: 4
+Arrival Time: 3.709808
+Expected Run Time: 4.775402
+Priority: 1
+
+Process name: 5
+Arrival Time: 4.511338
+Expected Run Time: 5.698181
+Priority: 4
+
+Process name: 6
+Arrival Time: 6.243796
+Expected Run Time: 2.888687
+Priority: 3
+
+Process name: 7
+Arrival Time: 6.738504
+Expected Run Time: 9.710427
+Priority: 2
+
+Process name: 8
+Arrival Time: 6.738504
+Expected Run Time: 9.710427
+Priority: 2
+
+Process name: 9
+Arrival Time: 8.232365
+Expected Run Time: 1.800599
+Priority: 3
+
+Process name: 10
+Arrival Time: 8.630467
+Expected Run Time: 1.979650
+Priority: 1
+
+Process name: 11
+Arrival Time: 9.706580
+Expected Run Time: 3.899320
+Priority: 4
+
+Process name: 12
+Arrival Time: 10.396932
+Expected Run Time: 5.813894
+Priority: 4
+
+Process name: 13
+Arrival Time: 10.396932
+Expected Run Time: 5.813894
+Priority: 4
+
+Process name: 14
+Arrival Time: 10.454252
+Expected Run Time: 9.914174
+Priority: 2
+
+Process name: 15
+Arrival Time: 12.526776
+Expected Run Time: 3.870666
+Priority: 4
+
+Process name: 16
+Arrival Time: 12.526776
+Expected Run Time: 3.870666
+Priority: 4
+
+Process name: 17
+Arrival Time: 14.326908
+Expected Run Time: 6.862430
+Priority: 3
+
+Process name: 18
+Arrival Time: 14.326908
+Expected Run Time: 6.862430
+Priority: 3
+
+Process name: 19
+Arrival Time: 16.264278
+Expected Run Time: 4.915644
+Priority: 2
+
+Process name: 20
+Arrival Time: 17.225306
+Expected Run Time: 1.075350
+Priority: 3
+
+Process name: 21
+Arrival Time: 18.093571
+Expected Run Time: 2.978717
+Priority: 2
+
+Process name: 22
+Arrival Time: 19.281031
+Expected Run Time: 0.951471
+Priority: 3
+
+Process name: 23
+Arrival Time: 19.987360
+Expected Run Time: 0.185734
+Priority: 2
+
+Process name: 24
+Arrival Time: 22.754761
+Expected Run Time: 5.095707
+Priority: 2
+
+Process name: 25
+Arrival Time: 22.754761
+Expected Run Time: 5.095707
+Priority: 2
+
+Process name: 26
+Arrival Time: 23.711214
+Expected Run Time: 1.239647
+Priority: 1
+
+Process name: 27
+Arrival Time: 24.101442
+Expected Run Time: 7.054821
+Priority: 4
+
+Process name: 28
+Arrival Time: 24.250006
+Expected Run Time: 7.240552
+Priority: 4
+
+Process name: 29
+Arrival Time: 25.407902
+Expected Run Time: 4.203707
+Priority: 1
+
+Process name: 30
+Arrival Time: 26.487085
+Expected Run Time: 7.114946
+Priority: 1
+
+Process name: 31
+Arrival Time: 28.228235
+Expected Run Time: 9.133230
+Priority: 4
+
+Process name: 32
+Arrival Time: 29.015802
+Expected Run Time: 5.255159
+Priority: 1
+
+Process name: 33
+Arrival Time: 30.260111
+Expected Run Time: 6.359428
+Priority: 4
+
+Process name: 34
+Arrival Time: 31.548412
+Expected Run Time: 4.352523
+Priority: 3
+
+Process name: 35
+Arrival Time: 31.793705
+Expected Run Time: 0.258571
+Priority: 1
+
+Process name: 36
+Arrival Time: 33.514652
+Expected Run Time: 2.413465
+Priority: 3
+
+Process name: 37
+Arrival Time: 34.470104
+Expected Run Time: 9.276387
+Priority: 2
+
+Process name: 38
+Arrival Time: 34.470104
+Expected Run Time: 9.276387
+Priority: 2
+
+Process name: 39
+Arrival Time: 35.458286
+Expected Run Time: 5.435447
+Priority: 2
+
+Process name: 40
+Arrival Time: 36.228512
+Expected Run Time: 2.364617
+Priority: 3
+
+Process name: 41
+Arrival Time: 36.228512
+Expected Run Time: 2.364617
+Priority: 3
+
+Process name: 42
+Arrival Time: 39.919579
+Expected Run Time: 3.408375
+Priority: 3
+
+Process name: 43
+Arrival Time: 41.234764
+Expected Run Time: 5.530833
+Priority: 3
+
+Process name: 44
+Arrival Time: 42.970490
+Expected Run Time: 2.558099
+Priority: 4
+
+Process name: 45
+Arrival Time: 43.629932
+Expected Run Time: 4.461819
+Priority: 2
+
+Process name: 46
+Arrival Time: 44.484215
+Expected Run Time: 5.535071
+Priority: 3
+
+Process name: 47
+Arrival Time: 44.484215
+Expected Run Time: 5.535071
+Priority: 3
+
+Process name: 48
+Arrival Time: 45.132416
+Expected Run Time: 6.579745
+Priority: 2
+
+Process name: 49
+Arrival Time: 45.712959
+Expected Run Time: 7.465417
+Priority: 4
+
+Process name: 50
+Arrival Time: 47.985474
+Expected Run Time: 5.577083
+Priority: 2
+
+Process name: 51
+Arrival Time: 48.135384
+Expected Run Time: 0.795622
+Priority: 2
+
+Process name: 52
+Arrival Time: 52.186951
+Expected Run Time: 7.643302
+Priority: 2
+
+Process name: 53
+Arrival Time: 52.186951
+Expected Run Time: 7.643302
+Priority: 2
+
+Process name: 54
+Arrival Time: 54.726391
+Expected Run Time: 1.801552
+Priority: 3
+
+Process name: 55
+Arrival Time: 55.460606
+Expected Run Time: 8.653609
+Priority: 3
+
+Process name: 56
+Arrival Time: 56.998009
+Expected Run Time: 0.891707
+Priority: 2
+
+Process name: 57
+Arrival Time: 58.125542
+Expected Run Time: 7.768856
+Priority: 2
+
+Process name: 58
+Arrival Time: 58.125542
+Expected Run Time: 7.768856
+Priority: 2
+
+Process name: 59
+Arrival Time: 59.336239
+Expected Run Time: 4.769245
+Priority: 2
+
+Process name: 60
+Arrival Time: 60.992355
+Expected Run Time: 1.955743
+Priority: 1
+
+Process name: 61
+Arrival Time: 61.503120
+Expected Run Time: 2.998022
+Priority: 3
+
+Process name: 62
+Arrival Time: 62.753757
+Expected Run Time: 9.880292
+Priority: 2
+
+Process name: 63
+Arrival Time: 64.792953
+Expected Run Time: 7.958391
+Priority: 4
+
+Process name: 64
+Arrival Time: 65.606010
+Expected Run Time: 4.060255
+Priority: 4
+
+Process name: 65
+Arrival Time: 67.228905
+Expected Run Time: 7.052009
+Priority: 3
+
+Process name: 66
+Arrival Time: 68.463181
+Expected Run Time: 4.039178
+Priority: 3
+
+Process name: 67
+Arrival Time: 68.463181
+Expected Run Time: 4.039178
+Priority: 3
+
+Process name: 68
+Arrival Time: 70.228745
+Expected Run Time: 7.038344
+Priority: 4
+
+Process name: 69
+Arrival Time: 70.228745
+Expected Run Time: 7.038344
+Priority: 4
+
+Process name: 70
+Arrival Time: 71.029762
+Expected Run Time: 8.117650
+Priority: 4
+
+Process name: 71
+Arrival Time: 71.394928
+Expected Run Time: 8.978404
+Priority: 1
+
+Process name: 72
+Arrival Time: 71.580894
+Expected Run Time: 9.133103
+Priority: 3
+
+Process name: 73
+Arrival Time: 73.951721
+Expected Run Time: 3.141599
+Priority: 3
+
+Process name: 74
+Arrival Time: 73.951721
+Expected Run Time: 3.141599
+Priority: 3
+
+Process name: 75
+Arrival Time: 76.166832
+Expected Run Time: 6.172384
+Priority: 2
+
+Process name: 76
+Arrival Time: 76.166832
+Expected Run Time: 6.172384
+Priority: 2
+
+Process name: 77
+Arrival Time: 79.656410
+Expected Run Time: 7.182351
+Priority: 2
+
+Process name: 78
+Arrival Time: 80.385918
+Expected Run Time: 3.299399
+Priority: 4
+
+Process name: 79
+Arrival Time: 80.385918
+Expected Run Time: 3.299399
+Priority: 4
+
+Process name: 80
+Arrival Time: 81.976593
+Expected Run Time: 6.269605
+Priority: 3
+
+Process name: 81
+Arrival Time: 81.976593
+Expected Run Time: 6.269605
+Priority: 3
+
+Process name: 82
+Arrival Time: 83.485855
+Expected Run Time: 3.294765
+Priority: 2
+
+Process name: 83
+Arrival Time: 83.814491
+Expected Run Time: 8.442616
+Priority: 1
+
+Process name: 84
+Arrival Time: 85.241455
+Expected Run Time: 1.335622
+Priority: 4
+
+Process name: 85
+Arrival Time: 85.657448
+Expected Run Time: 6.479617
+Priority: 3
+
+Process name: 86
+Arrival Time: 86.377403
+Expected Run Time: 3.443421
+Priority: 1
+
+Process name: 87
+Arrival Time: 87.807823
+Expected Run Time: 5.374926
+Priority: 1
+
+Process name: 88
+Arrival Time: 87.807823
+Expected Run Time: 5.374926
+Priority: 1
+
+Process name: 89
+Arrival Time: 88.374191
+Expected Run Time: 6.439191
+Priority: 4
+
+Process name: 90
+Arrival Time: 90.381531
+Expected Run Time: 9.436344
+Priority: 2
+
+Process name: 91
+Arrival Time: 91.376953
+Expected Run Time: 1.464923
+Priority: 1
+
+Process name: 92
+Arrival Time: 93.017471
+Expected Run Time: 3.613149
+Priority: 1
+
+Process name: 93
+Arrival Time: 95.499542
+Expected Run Time: 2.718518
+Priority: 4
+
+Process name: 94
+Arrival Time: 95.558060
+Expected Run Time: 8.494314
+Priority: 4
+
+Process name: 95
+Arrival Time: 95.558060
+Expected Run Time: 8.494314
+Priority: 4
+
+Process name: 96
+Arrival Time: 96.604050
+Expected Run Time: 4.648695
+Priority: 4
+
+Process name: 97
+Arrival Time: 97.794113
+Expected Run Time: 6.583854
+Priority: 2
+
+Process name: 98
+Arrival Time: 97.794113
+Expected Run Time: 6.583854
+Priority: 2
+
+
+PROCESS RECORD: 
+255,0,0,0,0,0,3,3,3,3,3,3,3,3,3,3,3,0,7,7,7,7,7,7,7,7,7,7,26,26,30,30,30,30,30,30,30,30,30,30,30,7,24,24,24,24,24,24,37,37,37,37,37,37,37,37,37,37,50,50,50,50,50,50,60,60,37,52,52,52,52,52,52,52,52,71,71,71,71,71,71,71,71,71,83,83,83,83,83,83,83,83,83,83,83,83,91,91,91,57,
+
+Priority Queue 1
+=================
+Completed processes: 7
+Mean turnaround time: 10.277253
+Mean wait time: 4.865605
+Mean response time: 3.134396
+Mean throughput: 0.061404
+
+Priority Queue 2
+=================
+Completed processes: 7
+Mean turnaround time: 33.905853
+Mean wait time: 26.808880
+Mean response time: 15.762998
+Mean throughput: 0.065421
+
+Priority Queue 3
+=================
+Completed processes: 0
+Mean turnaround time: -nan
+Mean wait time: -nan
+Mean response time: -nan
+Mean throughput: -nan
+
+Priority Queue 4
+=================
+Completed processes: 0
+Mean turnaround time: -nan
+Mean wait time: -nan
+Mean response time: -nan
+Mean throughput: -nan
+
+Overall Statistics
+=================
+Completed processes: 14
+Mean turnaround time: 22.091555
+Mean wait time: 15.837242
+Mean response time: 9.448697
+Mean throughput: 0.122807
+
+Freeing workload
+
+
+
+============HPF_PRE run 2================
+
+Creating workload
+Process name: 0
+Arrival Time: 0.018290
+Expected Run Time: 7.553297
+Priority: 1
+
+Process name: 1
+Arrival Time: 1.379875
+Expected Run Time: 5.540421
+Priority: 3
+
+Process name: 2
+Arrival Time: 1.830959
+Expected Run Time: 1.619069
+Priority: 4
+
+Process name: 3
+Arrival Time: 1.830959
+Expected Run Time: 1.619069
+Priority: 4
+
+Process name: 4
+Arrival Time: 4.511338
+Expected Run Time: 5.698181
+Priority: 4
+
+Process name: 5
+Arrival Time: 8.232365
+Expected Run Time: 1.800599
+Priority: 3
+
+Process name: 6
+Arrival Time: 9.625419
+Expected Run Time: 8.698984
+Priority: 3
+
+Process name: 7
+Arrival Time: 9.625419
+Expected Run Time: 8.698984
+Priority: 3
+
+Process name: 8
+Arrival Time: 9.706580
+Expected Run Time: 3.899320
+Priority: 4
+
+Process name: 9
+Arrival Time: 10.396932
+Expected Run Time: 5.813894
+Priority: 4
+
+Process name: 10
+Arrival Time: 11.320719
+Expected Run Time: 1.790614
+Priority: 2
+
+Process name: 11
+Arrival Time: 15.756845
+Expected Run Time: 3.893625
+Priority: 2
+
+Process name: 12
+Arrival Time: 15.756845
+Expected Run Time: 3.893625
+Priority: 2
+
+Process name: 13
+Arrival Time: 16.264278
+Expected Run Time: 4.915644
+Priority: 2
+
+Process name: 14
+Arrival Time: 16.434124
+Expected Run Time: 5.778440
+Priority: 3
+
+Process name: 15
+Arrival Time: 18.093571
+Expected Run Time: 2.978717
+Priority: 2
+
+Process name: 16
+Arrival Time: 19.281031
+Expected Run Time: 0.951471
+Priority: 3
+
+Process name: 17
+Arrival Time: 21.189146
+Expected Run Time: 7.917181
+Priority: 2
+
+Process name: 18
+Arrival Time: 21.189146
+Expected Run Time: 7.917181
+Priority: 2
+
+Process name: 19
+Arrival Time: 22.754761
+Expected Run Time: 5.095707
+Priority: 2
+
+Process name: 20
+Arrival Time: 23.182430
+Expected Run Time: 1.044330
+Priority: 1
+
+Process name: 21
+Arrival Time: 23.711214
+Expected Run Time: 1.239647
+Priority: 1
+
+Process name: 22
+Arrival Time: 24.101442
+Expected Run Time: 7.054821
+Priority: 4
+
+Process name: 23
+Arrival Time: 25.098078
+Expected Run Time: 4.033922
+Priority: 2
+
+Process name: 24
+Arrival Time: 27.041779
+Expected Run Time: 2.108186
+Priority: 1
+
+Process name: 25
+Arrival Time: 28.228235
+Expected Run Time: 9.133230
+Priority: 4
+
+Process name: 26
+Arrival Time: 29.349455
+Expected Run Time: 6.123566
+Priority: 4
+
+Process name: 27
+Arrival Time: 29.349455
+Expected Run Time: 6.123566
+Priority: 4
+
+Process name: 28
+Arrival Time: 31.793705
+Expected Run Time: 0.258571
+Priority: 1
+
+Process name: 29
+Arrival Time: 32.752151
+Expected Run Time: 2.192750
+Priority: 4
+
+Process name: 30
+Arrival Time: 32.752151
+Expected Run Time: 2.192750
+Priority: 4
+
+Process name: 31
+Arrival Time: 33.514652
+Expected Run Time: 2.413465
+Priority: 3
+
+Process name: 32
+Arrival Time: 34.470104
+Expected Run Time: 9.276387
+Priority: 2
+
+Process name: 33
+Arrival Time: 35.420387
+Expected Run Time: 5.244469
+Priority: 3
+
+Process name: 34
+Arrival Time: 35.420387
+Expected Run Time: 5.244469
+Priority: 3
+
+Process name: 35
+Arrival Time: 35.458286
+Expected Run Time: 5.435447
+Priority: 2
+
+Process name: 36
+Arrival Time: 36.228512
+Expected Run Time: 2.364617
+Priority: 3
+
+Process name: 37
+Arrival Time: 39.865406
+Expected Run Time: 7.368098
+Priority: 1
+
+Process name: 38
+Arrival Time: 39.865406
+Expected Run Time: 7.368098
+Priority: 1
+
+Process name: 39
+Arrival Time: 39.919579
+Expected Run Time: 3.408375
+Priority: 3
+
+Process name: 40
+Arrival Time: 42.950268
+Expected Run Time: 3.413212
+Priority: 3
+
+Process name: 41
+Arrival Time: 42.950268
+Expected Run Time: 3.413212
+Priority: 3
+
+Process name: 42
+Arrival Time: 43.629932
+Expected Run Time: 4.461819
+Priority: 2
+
+Process name: 43
+Arrival Time: 45.132416
+Expected Run Time: 6.579745
+Priority: 2
+
+Process name: 44
+Arrival Time: 45.260845
+Expected Run Time: 1.508182
+Priority: 2
+
+Process name: 45
+Arrival Time: 45.260845
+Expected Run Time: 1.508182
+Priority: 2
+
+Process name: 46
+Arrival Time: 45.712959
+Expected Run Time: 7.465417
+Priority: 4
+
+Process name: 47
+Arrival Time: 47.985474
+Expected Run Time: 5.577083
+Priority: 2
+
+Process name: 48
+Arrival Time: 49.525097
+Expected Run Time: 3.596448
+Priority: 4
+
+Process name: 49
+Arrival Time: 49.525097
+Expected Run Time: 3.596448
+Priority: 4
+
+Process name: 50
+Arrival Time: 52.772869
+Expected Run Time: 3.608288
+Priority: 3
+
+Process name: 51
+Arrival Time: 53.209999
+Expected Run Time: 9.574896
+Priority: 1
+
+Process name: 52
+Arrival Time: 53.209999
+Expected Run Time: 9.574896
+Priority: 1
+
+Process name: 53
+Arrival Time: 54.195892
+Expected Run Time: 1.598378
+Priority: 3
+
+Process name: 54
+Arrival Time: 55.231052
+Expected Run Time: 2.690229
+Priority: 3
+
+Process name: 55
+Arrival Time: 55.231052
+Expected Run Time: 2.690229
+Priority: 3
+
+Process name: 56
+Arrival Time: 55.460606
+Expected Run Time: 8.653609
+Priority: 3
+
+Process name: 57
+Arrival Time: 56.947285
+Expected Run Time: 0.731591
+Priority: 3
+
+Process name: 58
+Arrival Time: 56.947285
+Expected Run Time: 0.731591
+Priority: 3
+
+Process name: 59
+Arrival Time: 58.125542
+Expected Run Time: 7.768856
+Priority: 2
+
+Process name: 60
+Arrival Time: 59.336239
+Expected Run Time: 4.769245
+Priority: 2
+
+Process name: 61
+Arrival Time: 60.992355
+Expected Run Time: 1.955743
+Priority: 1
+
+Process name: 62
+Arrival Time: 61.853207
+Expected Run Time: 2.885015
+Priority: 2
+
+Process name: 63
+Arrival Time: 61.853207
+Expected Run Time: 2.885015
+Priority: 2
+
+Process name: 64
+Arrival Time: 62.587120
+Expected Run Time: 9.723446
+Priority: 4
+
+Process name: 65
+Arrival Time: 64.010933
+Expected Run Time: 5.917032
+Priority: 4
+
+Process name: 66
+Arrival Time: 64.010933
+Expected Run Time: 5.917032
+Priority: 4
+
+Process name: 67
+Arrival Time: 64.829216
+Expected Run Time: 7.795106
+Priority: 1
+
+Process name: 68
+Arrival Time: 66.762001
+Expected Run Time: 1.911590
+Priority: 1
+
+Process name: 69
+Arrival Time: 66.762001
+Expected Run Time: 1.911590
+Priority: 1
+
+Process name: 70
+Arrival Time: 69.036095
+Expected Run Time: 9.881425
+Priority: 3
+
+Process name: 71
+Arrival Time: 69.036095
+Expected Run Time: 9.881425
+Priority: 3
+
+Process name: 72
+Arrival Time: 70.228745
+Expected Run Time: 7.038344
+Priority: 4
+
+Process name: 73
+Arrival Time: 71.029762
+Expected Run Time: 8.117650
+Priority: 4
+
+Process name: 74
+Arrival Time: 71.394928
+Expected Run Time: 8.978404
+Priority: 1
+
+Process name: 75
+Arrival Time: 75.673782
+Expected Run Time: 5.124559
+Priority: 2
+
+Process name: 76
+Arrival Time: 75.673782
+Expected Run Time: 5.124559
+Priority: 2
+
+Process name: 77
+Arrival Time: 77.129105
+Expected Run Time: 3.123095
+Priority: 2
+
+Process name: 78
+Arrival Time: 77.129105
+Expected Run Time: 3.123095
+Priority: 2
+
+Process name: 79
+Arrival Time: 77.983902
+Expected Run Time: 9.989064
+Priority: 3
+
+Process name: 80
+Arrival Time: 79.656410
+Expected Run Time: 7.182351
+Priority: 2
+
+Process name: 81
+Arrival Time: 80.498177
+Expected Run Time: 9.109798
+Priority: 3
+
+Process name: 82
+Arrival Time: 80.498177
+Expected Run Time: 9.109798
+Priority: 3
+
+Process name: 83
+Arrival Time: 81.976593
+Expected Run Time: 6.269605
+Priority: 3
+
+Process name: 84
+Arrival Time: 83.485855
+Expected Run Time: 3.294765
+Priority: 2
+
+Process name: 85
+Arrival Time: 85.241455
+Expected Run Time: 1.335622
+Priority: 4
+
+Process name: 86
+Arrival Time: 86.330200
+Expected Run Time: 3.269401
+Priority: 3
+
+Process name: 87
+Arrival Time: 87.264572
+Expected Run Time: 4.352296
+Priority: 3
+
+Process name: 88
+Arrival Time: 87.264572
+Expected Run Time: 4.352296
+Priority: 3
+
+Process name: 89
+Arrival Time: 88.461380
+Expected Run Time: 1.332750
+Priority: 4
+
+Process name: 90
+Arrival Time: 90.296677
+Expected Run Time: 4.329948
+Priority: 2
+
+Process name: 91
+Arrival Time: 90.891647
+Expected Run Time: 0.435419
+Priority: 2
+
+Process name: 92
+Arrival Time: 90.891647
+Expected Run Time: 0.435419
+Priority: 2
+
+Process name: 93
+Arrival Time: 91.376953
+Expected Run Time: 1.464923
+Priority: 1
+
+Process name: 94
+Arrival Time: 95.558060
+Expected Run Time: 8.494314
+Priority: 4
+
+Process name: 95
+Arrival Time: 96.286064
+Expected Run Time: 9.421902
+Priority: 4
+
+Process name: 96
+Arrival Time: 96.286064
+Expected Run Time: 9.421902
+Priority: 4
+
+Process name: 97
+Arrival Time: 96.604050
+Expected Run Time: 4.648695
+Priority: 4
+
+Process name: 98
+Arrival Time: 97.794113
+Expected Run Time: 6.583854
+Priority: 2
+
+
+PROCESS RECORD: 
+255,0,0,0,0,0,0,0,0,1,1,1,1,1,1,10,10,11,11,11,11,11,15,15,15,20,20,20,24,24,24,18,18,18,18,18,18,18,18,28,37,37,37,37,37,37,37,37,37,18,32,32,32,32,32,32,32,32,32,32,51,51,51,51,51,51,51,51,51,51,51,68,68,51,51,68,74,74,74,74,74,74,74,74,74,32,32,32,32,32,32,32,93,93,32,32,59,59,59,59,
+
+Priority Queue 1
+=================
+Completed processes: 9
+Mean turnaround time: 9.150501
+Mean wait time: 4.676912
+Mean response time: 3.039390
+Mean throughput: 0.093750
+
+Priority Queue 2
+=================
+Completed processes: 6
+Mean turnaround time: 25.840677
+Mean wait time: 20.236450
+Mean response time: 12.007346
+Mean throughput: 0.057692
+
+Priority Queue 3
+=================
+Completed processes: 1
+Mean turnaround time: 13.620125
+Mean wait time: 8.079704
+Mean response time: 7.620125
+Mean throughput: 0.066667
+
+Priority Queue 4
+=================
+Completed processes: 0
+Mean turnaround time: -nan
+Mean wait time: -nan
+Mean response time: -nan
+Mean throughput: -nan
+
+Overall Statistics
+=================
+Completed processes: 16
+Mean turnaround time: 15.688669
+Mean wait time: 10.724413
+Mean response time: 6.688669
+Mean throughput: 0.153846
+
+Freeing workload
+
+
+
+============HPF_PRE run 3================
+
+Creating workload
+Process name: 0
+Arrival Time: 0.018290
+Expected Run Time: 7.553297
+Priority: 1
+
+Process name: 1
+Arrival Time: 0.495787
+Expected Run Time: 9.416437
+Priority: 4
+
+Process name: 2
+Arrival Time: 0.495787
+Expected Run Time: 9.416437
+Priority: 4
+
+Process name: 3
+Arrival Time: 1.379875
+Expected Run Time: 5.540421
+Priority: 3
+
+Process name: 4
+Arrival Time: 3.230999
+Expected Run Time: 9.374838
+Priority: 1
+
+Process name: 5
+Arrival Time: 5.636538
+Expected Run Time: 3.523047
+Priority: 4
+
+Process name: 6
+Arrival Time: 7.802751
+Expected Run Time: 6.534866
+Priority: 2
+
+Process name: 7
+Arrival Time: 8.232365
+Expected Run Time: 1.800599
+Priority: 3
+
+Process name: 8
+Arrival Time: 8.857309
+Expected Run Time: 2.695529
+Priority: 3
+
+Process name: 9
+Arrival Time: 8.857309
+Expected Run Time: 2.695529
+Priority: 3
+
+Process name: 10
+Arrival Time: 9.635146
+Expected Run Time: 9.536943
+Priority: 2
+
+Process name: 11
+Arrival Time: 11.320719
+Expected Run Time: 1.790614
+Priority: 2
+
+Process name: 12
+Arrival Time: 12.615302
+Expected Run Time: 3.736102
+Priority: 1
+
+Process name: 13
+Arrival Time: 12.615302
+Expected Run Time: 3.736102
+Priority: 1
+
+Process name: 14
+Arrival Time: 13.524213
+Expected Run Time: 5.647161
+Priority: 1
+
+Process name: 15
+Arrival Time: 14.735106
+Expected Run Time: 3.634766
+Priority: 1
+
+Process name: 16
+Arrival Time: 15.800193
+Expected Run Time: 9.685853
+Priority: 2
+
+Process name: 17
+Arrival Time: 16.434124
+Expected Run Time: 5.778440
+Priority: 3
+
+Process name: 18
+Arrival Time: 17.886026
+Expected Run Time: 2.799117
+Priority: 3
+
+Process name: 19
+Arrival Time: 19.281031
+Expected Run Time: 0.951471
+Priority: 3
+
+Process name: 20
+Arrival Time: 19.717905
+Expected Run Time: 5.797991
+Priority: 4
+
+Process name: 21
+Arrival Time: 21.189146
+Expected Run Time: 7.917181
+Priority: 2
+
+Process name: 22
+Arrival Time: 21.915470
+Expected Run Time: 8.827118
+Priority: 1
+
+Process name: 23
+Arrival Time: 22.060814
+Expected Run Time: 4.871861
+Priority: 3
+
+Process name: 24
+Arrival Time: 22.060814
+Expected Run Time: 4.871861
+Priority: 3
+
+Process name: 25
+Arrival Time: 23.182430
+Expected Run Time: 1.044330
+Priority: 1
+
+Process name: 26
+Arrival Time: 24.101442
+Expected Run Time: 7.054821
+Priority: 4
+
+Process name: 27
+Arrival Time: 24.343731
+Expected Run Time: 7.921275
+Priority: 3
+
+Process name: 28
+Arrival Time: 24.343731
+Expected Run Time: 7.921275
+Priority: 3
+
+Process name: 29
+Arrival Time: 25.098078
+Expected Run Time: 4.033922
+Priority: 2
+
+Process name: 30
+Arrival Time: 26.233786
+Expected Run Time: 5.960761
+Priority: 4
+
+Process name: 31
+Arrival Time: 26.233786
+Expected Run Time: 5.960761
+Priority: 4
+
+Process name: 32
+Arrival Time: 27.028992
+Expected Run Time: 7.881849
+Priority: 1
+
+Process name: 33
+Arrival Time: 27.041779
+Expected Run Time: 2.108186
+Priority: 1
+
+Process name: 34
+Arrival Time: 28.791536
+Expected Run Time: 5.921400
+Priority: 4
+
+Process name: 35
+Arrival Time: 29.541569
+Expected Run Time: 2.035352
+Priority: 2
+
+Process name: 36
+Arrival Time: 30.447758
+Expected Run Time: 8.062756
+Priority: 3
+
+Process name: 37
+Arrival Time: 30.447758
+Expected Run Time: 8.062756
+Priority: 3
+
+Process name: 38
+Arrival Time: 32.060982
+Expected Run Time: 5.095341
+Priority: 1
+
+Process name: 39
+Arrival Time: 32.415325
+Expected Run Time: 6.118712
+Priority: 1
+
+Process name: 40
+Arrival Time: 32.415325
+Expected Run Time: 6.118712
+Priority: 1
+
+Process name: 41
+Arrival Time: 32.752151
+Expected Run Time: 2.192750
+Priority: 4
+
+Process name: 42
+Arrival Time: 33.330196
+Expected Run Time: 3.083933
+Priority: 3
+
+Process name: 43
+Arrival Time: 34.289143
+Expected Run Time: 4.164851
+Priority: 1
+
+Process name: 44
+Arrival Time: 34.289143
+Expected Run Time: 4.164851
+Priority: 1
+
+Process name: 45
+Arrival Time: 35.238976
+Expected Run Time: 6.081498
+Priority: 2
+
+Process name: 46
+Arrival Time: 38.201706
+Expected Run Time: 0.280726
+Priority: 2
+
+Process name: 47
+Arrival Time: 38.201706
+Expected Run Time: 0.280726
+Priority: 2
+
+Process name: 48
+Arrival Time: 41.995636
+Expected Run Time: 6.272743
+Priority: 2
+
+Process name: 49
+Arrival Time: 42.134865
+Expected Run Time: 7.303288
+Priority: 4
+
+Process name: 50
+Arrival Time: 42.134865
+Expected Run Time: 7.303288
+Priority: 4
+
+Process name: 51
+Arrival Time: 43.464127
+Expected Run Time: 4.290309
+Priority: 1
+
+Process name: 52
+Arrival Time: 44.295616
+Expected Run Time: 5.358359
+Priority: 2
+
+Process name: 53
+Arrival Time: 44.295616
+Expected Run Time: 5.358359
+Priority: 2
+
+Process name: 54
+Arrival Time: 45.260845
+Expected Run Time: 1.508182
+Priority: 2
+
+Process name: 55
+Arrival Time: 45.380974
+Expected Run Time: 7.297719
+Priority: 2
+
+Process name: 56
+Arrival Time: 45.712959
+Expected Run Time: 7.465417
+Priority: 4
+
+Process name: 57
+Arrival Time: 47.985474
+Expected Run Time: 5.577083
+Priority: 2
+
+Process name: 58
+Arrival Time: 49.011505
+Expected Run Time: 8.327306
+Priority: 4
+
+Process name: 59
+Arrival Time: 51.316391
+Expected Run Time: 6.413309
+Priority: 4
+
+Process name: 60
+Arrival Time: 52.129700
+Expected Run Time: 7.475387
+Priority: 1
+
+Process name: 61
+Arrival Time: 52.772869
+Expected Run Time: 3.608288
+Priority: 3
+
+Process name: 62
+Arrival Time: 53.169617
+Expected Run Time: 0.519857
+Priority: 2
+
+Process name: 63
+Arrival Time: 54.195892
+Expected Run Time: 1.598378
+Priority: 3
+
+Process name: 64
+Arrival Time: 55.699825
+Expected Run Time: 9.503147
+Priority: 3
+
+Process name: 65
+Arrival Time: 55.699825
+Expected Run Time: 9.503147
+Priority: 3
+
+Process name: 66
+Arrival Time: 56.947285
+Expected Run Time: 0.731591
+Priority: 3
+
+Process name: 67
+Arrival Time: 59.336239
+Expected Run Time: 4.769245
+Priority: 2
+
+Process name: 68
+Arrival Time: 59.881725
+Expected Run Time: 5.648337
+Priority: 2
+
+Process name: 69
+Arrival Time: 59.881725
+Expected Run Time: 5.648337
+Priority: 2
+
+Process name: 70
+Arrival Time: 60.908367
+Expected Run Time: 7.564153
+Priority: 1
+
+Process name: 71
+Arrival Time: 62.587120
+Expected Run Time: 9.723446
+Priority: 4
+
+Process name: 72
+Arrival Time: 63.694664
+Expected Run Time: 6.701003
+Priority: 1
+
+Process name: 73
+Arrival Time: 63.694664
+Expected Run Time: 6.701003
+Priority: 1
+
+Process name: 74
+Arrival Time: 64.829216
+Expected Run Time: 7.795106
+Priority: 1
+
+Process name: 75
+Arrival Time: 68.066780
+Expected Run Time: 8.814970
+Priority: 1
+
+Process name: 76
+Arrival Time: 68.066780
+Expected Run Time: 8.814970
+Priority: 1
+
+Process name: 77
+Arrival Time: 69.957352
+Expected Run Time: 6.860884
+Priority: 2
+
+Process name: 78
+Arrival Time: 69.957352
+Expected Run Time: 6.860884
+Priority: 2
+
+Process name: 79
+Arrival Time: 71.394928
+Expected Run Time: 8.978404
+Priority: 1
+
+Process name: 80
+Arrival Time: 73.206657
+Expected Run Time: 1.932151
+Priority: 4
+
+Process name: 81
+Arrival Time: 74.742531
+Expected Run Time: 9.837940
+Priority: 2
+
+Process name: 82
+Arrival Time: 77.321388
+Expected Run Time: 3.988561
+Priority: 2
+
+Process name: 83
+Arrival Time: 77.983902
+Expected Run Time: 9.989064
+Priority: 3
+
+Process name: 84
+Arrival Time: 83.485855
+Expected Run Time: 3.294765
+Priority: 2
+
+Process name: 85
+Arrival Time: 85.241455
+Expected Run Time: 1.335622
+Priority: 4
+
+Process name: 86
+Arrival Time: 85.940872
+Expected Run Time: 7.203919
+Priority: 2
+
+Process name: 87
+Arrival Time: 85.940872
+Expected Run Time: 7.203919
+Priority: 2
+
+Process name: 88
+Arrival Time: 86.330200
+Expected Run Time: 3.269401
+Priority: 3
+
+Process name: 89
+Arrival Time: 86.951477
+Expected Run Time: 4.151239
+Priority: 4
+
+Process name: 90
+Arrival Time: 88.444527
+Expected Run Time: 2.178350
+Priority: 1
+
+Process name: 91
+Arrival Time: 88.461380
+Expected Run Time: 1.332750
+Priority: 4
+
+Process name: 92
+Arrival Time: 89.687637
+Expected Run Time: 3.294943
+Priority: 3
+
+Process name: 93
+Arrival Time: 90.296677
+Expected Run Time: 4.329948
+Priority: 2
+
+Process name: 94
+Arrival Time: 90.435799
+Expected Run Time: 0.236162
+Priority: 4
+
+Process name: 95
+Arrival Time: 95.617340
+Expected Run Time: 3.405358
+Priority: 4
+
+Process name: 96
+Arrival Time: 95.617340
+Expected Run Time: 3.405358
+Priority: 4
+
+Process name: 97
+Arrival Time: 96.838936
+Expected Run Time: 0.402917
+Priority: 4
+
+Process name: 98
+Arrival Time: 97.350761
+Expected Run Time: 1.427335
+Priority: 1
+
+
+PROCESS RECORD: 
+255,0,0,0,0,0,0,0,0,0,6,6,6,6,6,6,6,12,12,12,12,12,12,12,22,22,22,22,22,22,22,22,22,22,22,22,38,38,38,38,38,38,38,38,38,38,51,51,51,51,51,6,6,60,60,60,60,60,60,60,60,70,70,70,70,70,70,70,70,70,70,70,75,75,75,75,75,75,75,75,75,75,75,16,16,16,16,16,16,16,16,16,16,90,90,90,54,54,98,98,
+
+Priority Queue 1
+=================
+Completed processes: 10
+Mean turnaround time: 10.302568
+Mean wait time: 4.606334
+Mean response time: 2.402569
+Mean throughput: 0.099010
+
+Priority Queue 2
+=================
+Completed processes: 3
+Mean turnaround time: 58.378738
+Mean wait time: 52.469105
+Mean response time: 40.045406
+Mean throughput: 0.030612
+
+Priority Queue 3
+=================
+Completed processes: 0
+Mean turnaround time: -nan
+Mean wait time: -nan
+Mean response time: -nan
+Mean throughput: -nan
+
+Priority Queue 4
+=================
+Completed processes: 0
+Mean turnaround time: -nan
+Mean wait time: -nan
+Mean response time: -nan
+Mean throughput: -nan
+
+Overall Statistics
+=================
+Completed processes: 13
+Mean turnaround time: 21.397072
+Mean wait time: 15.651589
+Mean response time: 11.089376
+Mean throughput: 0.128713
+
+Freeing workload
+
+
+
+============HPF_PRE run 4================
+
+Creating workload
+Process name: 0
+Arrival Time: 0.884036
+Expected Run Time: 5.325836
+Priority: 3
+
+Process name: 1
+Arrival Time: 0.884036
+Expected Run Time: 5.325836
+Priority: 3
+
+Process name: 2
+Arrival Time: 3.230999
+Expected Run Time: 9.374838
+Priority: 1
+
+Process name: 3
+Arrival Time: 4.775482
+Expected Run Time: 6.414744
+Priority: 4
+
+Process name: 4
+Arrival Time: 5.636538
+Expected Run Time: 3.523047
+Priority: 4
+
+Process name: 5
+Arrival Time: 7.802751
+Expected Run Time: 6.534866
+Priority: 2
+
+Process name: 6
+Arrival Time: 8.857309
+Expected Run Time: 2.695529
+Priority: 3
+
+Process name: 7
+Arrival Time: 9.625419
+Expected Run Time: 8.698984
+Priority: 3
+
+Process name: 8
+Arrival Time: 9.635146
+Expected Run Time: 9.536943
+Priority: 2
+
+Process name: 9
+Arrival Time: 11.135569
+Expected Run Time: 1.619741
+Priority: 3
+
+Process name: 10
+Arrival Time: 11.135569
+Expected Run Time: 1.619741
+Priority: 3
+
+Process name: 11
+Arrival Time: 11.320719
+Expected Run Time: 1.790614
+Priority: 2
+
+Process name: 12
+Arrival Time: 13.524213
+Expected Run Time: 5.647161
+Priority: 1
+
+Process name: 13
+Arrival Time: 14.735106
+Expected Run Time: 3.634766
+Priority: 1
+
+Process name: 14
+Arrival Time: 15.800193
+Expected Run Time: 9.685853
+Priority: 2
+
+Process name: 15
+Arrival Time: 17.886026
+Expected Run Time: 2.799117
+Priority: 3
+
+Process name: 16
+Arrival Time: 19.119522
+Expected Run Time: 4.753479
+Priority: 1
+
+Process name: 17
+Arrival Time: 19.119522
+Expected Run Time: 4.753479
+Priority: 1
+
+Process name: 18
+Arrival Time: 19.717905
+Expected Run Time: 5.797991
+Priority: 4
+
+Process name: 19
+Arrival Time: 20.717264
+Expected Run Time: 7.719489
+Priority: 4
+
+Process name: 20
+Arrival Time: 20.717264
+Expected Run Time: 7.719489
+Priority: 4
+
+Process name: 21
+Arrival Time: 21.915470
+Expected Run Time: 8.827118
+Priority: 1
+
+Process name: 22
+Arrival Time: 22.060814
+Expected Run Time: 4.871861
+Priority: 3
+
+Process name: 23
+Arrival Time: 23.182430
+Expected Run Time: 1.044330
+Priority: 1
+
+Process name: 24
+Arrival Time: 25.076101
+Expected Run Time: 8.818806
+Priority: 1
+
+Process name: 25
+Arrival Time: 25.076101
+Expected Run Time: 8.818806
+Priority: 1
+
+Process name: 26
+Arrival Time: 27.028992
+Expected Run Time: 7.881849
+Priority: 1
+
+Process name: 27
+Arrival Time: 28.791536
+Expected Run Time: 5.921400
+Priority: 4
+
+Process name: 28
+Arrival Time: 29.541569
+Expected Run Time: 2.035352
+Priority: 2
+
+Process name: 29
+Arrival Time: 31.047661
+Expected Run Time: 8.942008
+Priority: 1
+
+Process name: 30
+Arrival Time: 31.047661
+Expected Run Time: 8.942008
+Priority: 1
+
+Process name: 31
+Arrival Time: 32.060982
+Expected Run Time: 5.095341
+Priority: 1
+
+Process name: 32
+Arrival Time: 32.415325
+Expected Run Time: 6.118712
+Priority: 1
+
+Process name: 33
+Arrival Time: 33.330196
+Expected Run Time: 3.083933
+Priority: 3
+
+Process name: 34
+Arrival Time: 34.289143
+Expected Run Time: 4.164851
+Priority: 1
+
+Process name: 35
+Arrival Time: 35.238976
+Expected Run Time: 6.081498
+Priority: 2
+
+Process name: 36
+Arrival Time: 35.420387
+Expected Run Time: 5.244469
+Priority: 3
+
+Process name: 37
+Arrival Time: 37.914539
+Expected Run Time: 6.038054
+Priority: 2
+
+Process name: 38
+Arrival Time: 37.914539
+Expected Run Time: 6.038054
+Priority: 2
+
+Process name: 39
+Arrival Time: 40.594128
+Expected Run Time: 9.118424
+Priority: 2
+
+Process name: 40
+Arrival Time: 41.995636
+Expected Run Time: 6.272743
+Priority: 2
+
+Process name: 41
+Arrival Time: 43.464127
+Expected Run Time: 4.290309
+Priority: 1
+
+Process name: 42
+Arrival Time: 44.295616
+Expected Run Time: 5.358359
+Priority: 2
+
+Process name: 43
+Arrival Time: 45.380974
+Expected Run Time: 7.297719
+Priority: 2
+
+Process name: 44
+Arrival Time: 46.549911
+Expected Run Time: 9.223598
+Priority: 2
+
+Process name: 45
+Arrival Time: 46.549911
+Expected Run Time: 9.223598
+Priority: 2
+
+Process name: 46
+Arrival Time: 48.267677
+Expected Run Time: 7.257685
+Priority: 4
+
+Process name: 47
+Arrival Time: 48.267677
+Expected Run Time: 7.257685
+Priority: 4
+
+Process name: 48
+Arrival Time: 49.011505
+Expected Run Time: 8.327306
+Priority: 4
+
+Process name: 49
+Arrival Time: 51.316391
+Expected Run Time: 6.413309
+Priority: 4
+
+Process name: 50
+Arrival Time: 51.909317
+Expected Run Time: 3.375919
+Priority: 1
+
+Process name: 51
+Arrival Time: 52.129700
+Expected Run Time: 7.475387
+Priority: 1
+
+Process name: 52
+Arrival Time: 53.169617
+Expected Run Time: 0.519857
+Priority: 2
+
+Process name: 53
+Arrival Time: 54.879944
+Expected Run Time: 2.505194
+Priority: 3
+
+Process name: 54
+Arrival Time: 54.879944
+Expected Run Time: 2.505194
+Priority: 3
+
+Process name: 55
+Arrival Time: 56.199406
+Expected Run Time: 0.486495
+Priority: 3
+
+Process name: 56
+Arrival Time: 56.199406
+Expected Run Time: 0.486495
+Priority: 3
+
+Process name: 57
+Arrival Time: 56.493671
+Expected Run Time: 9.459872
+Priority: 1
+
+Process name: 58
+Arrival Time: 58.335575
+Expected Run Time: 3.538797
+Priority: 4
+
+Process name: 59
+Arrival Time: 58.335575
+Expected Run Time: 3.538797
+Priority: 4
+
+Process name: 60
+Arrival Time: 59.881725
+Expected Run Time: 5.648337
+Priority: 2
+
+Process name: 61
+Arrival Time: 60.908367
+Expected Run Time: 7.564153
+Priority: 1
+
+Process name: 62
+Arrival Time: 62.164856
+Expected Run Time: 4.576118
+Priority: 1
+
+Process name: 63
+Arrival Time: 62.164856
+Expected Run Time: 4.576118
+Priority: 1
+
+Process name: 64
+Arrival Time: 64.315430
+Expected Run Time: 2.658387
+Priority: 3
+
+Process name: 65
+Arrival Time: 65.683487
+Expected Run Time: 5.614753
+Priority: 4
+
+Process name: 66
+Arrival Time: 66.808464
+Expected Run Time: 1.756491
+Priority: 2
+
+Process name: 67
+Arrival Time: 66.808464
+Expected Run Time: 1.756491
+Priority: 2
+
+Process name: 68
+Arrival Time: 67.931915
+Expected Run Time: 8.661433
+Priority: 3
+
+Process name: 69
+Arrival Time: 69.957352
+Expected Run Time: 6.860884
+Priority: 2
+
+Process name: 70
+Arrival Time: 70.027985
+Expected Run Time: 6.699958
+Priority: 4
+
+Process name: 71
+Arrival Time: 71.969070
+Expected Run Time: 0.801674
+Priority: 1
+
+Process name: 72
+Arrival Time: 71.969070
+Expected Run Time: 0.801674
+Priority: 1
+
+Process name: 73
+Arrival Time: 73.206657
+Expected Run Time: 1.932151
+Priority: 4
+
+Process name: 74
+Arrival Time: 74.742531
+Expected Run Time: 9.837940
+Priority: 2
+
+Process name: 75
+Arrival Time: 75.962029
+Expected Run Time: 1.887139
+Priority: 3
+
+Process name: 76
+Arrival Time: 77.321388
+Expected Run Time: 3.988561
+Priority: 2
+
+Process name: 77
+Arrival Time: 77.555389
+Expected Run Time: 9.819189
+Priority: 2
+
+Process name: 78
+Arrival Time: 79.753250
+Expected Run Time: 7.883620
+Priority: 2
+
+Process name: 79
+Arrival Time: 81.741188
+Expected Run Time: 5.959278
+Priority: 3
+
+Process name: 80
+Arrival Time: 82.373451
+Expected Run Time: 6.989253
+Priority: 2
+
+Process name: 81
+Arrival Time: 82.373451
+Expected Run Time: 6.989253
+Priority: 2
+
+Process name: 82
+Arrival Time: 83.847115
+Expected Run Time: 9.943134
+Priority: 2
+
+Process name: 83
+Arrival Time: 83.847115
+Expected Run Time: 9.943134
+Priority: 2
+
+Process name: 84
+Arrival Time: 85.858208
+Expected Run Time: 8.024192
+Priority: 2
+
+Process name: 85
+Arrival Time: 85.858208
+Expected Run Time: 8.024192
+Priority: 2
+
+Process name: 86
+Arrival Time: 86.951477
+Expected Run Time: 4.151239
+Priority: 4
+
+Process name: 87
+Arrival Time: 88.444527
+Expected Run Time: 2.178350
+Priority: 1
+
+Process name: 88
+Arrival Time: 89.687637
+Expected Run Time: 3.294943
+Priority: 3
+
+Process name: 89
+Arrival Time: 90.435799
+Expected Run Time: 0.236162
+Priority: 4
+
+Process name: 90
+Arrival Time: 91.409019
+Expected Run Time: 2.152272
+Priority: 3
+
+Process name: 91
+Arrival Time: 92.180954
+Expected Run Time: 3.233431
+Priority: 4
+
+Process name: 92
+Arrival Time: 92.180954
+Expected Run Time: 3.233431
+Priority: 4
+
+Process name: 93
+Arrival Time: 93.849739
+Expected Run Time: 5.204936
+Priority: 3
+
+Process name: 94
+Arrival Time: 94.424843
+Expected Run Time: 1.295928
+Priority: 1
+
+Process name: 95
+Arrival Time: 94.424843
+Expected Run Time: 1.295928
+Priority: 1
+
+Process name: 96
+Arrival Time: 95.617340
+Expected Run Time: 3.405358
+Priority: 4
+
+Process name: 97
+Arrival Time: 96.286064
+Expected Run Time: 9.421902
+Priority: 4
+
+Process name: 98
+Arrival Time: 96.838936
+Expected Run Time: 0.402917
+Priority: 4
+
+
+PROCESS RECORD: 
+255,0,0,0,0,0,0,2,2,2,2,2,2,2,2,2,2,13,13,13,13,13,16,16,16,16,16,23,23,16,24,24,24,24,24,24,24,24,24,31,31,31,31,31,31,24,24,31,31,31,31,31,41,41,41,41,41,41,41,57,57,57,57,57,57,57,57,57,57,57,57,57,71,72,5,5,5,5,5,5,5,38,38,38,38,38,38,38,52,87,87,87,60,60,60,60,60,60,94,94,
+
+Priority Queue 1
+=================
+Completed processes: 12
+Mean turnaround time: 10.235795
+Mean wait time: 5.940015
+Mean response time: 3.402463
+Mean throughput: 0.120000
+
+Priority Queue 2
+=================
+Completed processes: 4
+Mean turnaround time: 49.307842
+Mean wait time: 44.622566
+Mean response time: 44.057842
+Mean throughput: 0.040816
+
+Priority Queue 3
+=================
+Completed processes: 1
+Mean turnaround time: 6.115964
+Mean wait time: 0.790128
+Mean response time: 0.115964
+Mean throughput: 0.142857
+
+Priority Queue 4
+=================
+Completed processes: 0
+Mean turnaround time: -nan
+Mean wait time: -nan
+Mean response time: -nan
+Mean throughput: -nan
+
+Overall Statistics
+=================
+Completed processes: 17
+Mean turnaround time: 19.186876
+Mean wait time: 14.738856
+Mean response time: 12.775110
+Mean throughput: 0.170000
+
+Freeing workload
+
+
+
+============HPF_PRE run 5================
+
+Creating workload
+Process name: 0
+Arrival Time: 1.963165
+Expected Run Time: 2.328500
+Priority: 3
+
+Process name: 1
+Arrival Time: 1.963165
+Expected Run Time: 2.328500
+Priority: 3
+
+Process name: 2
+Arrival Time: 4.775482
+Expected Run Time: 6.414744
+Priority: 4
+
+Process name: 3
+Arrival Time: 7.576799
+Expected Run Time: 6.365364
+Priority: 1
+
+Process name: 4
+Arrival Time: 7.802751
+Expected Run Time: 6.534866
+Priority: 2
+
+Process name: 5
+Arrival Time: 9.099568
+Expected Run Time: 9.336801
+Priority: 3
+
+Process name: 6
+Arrival Time: 9.635146
+Expected Run Time: 9.536943
+Priority: 2
+
+Process name: 7
+Arrival Time: 10.523922
+Expected Run Time: 0.574627
+Priority: 3
+
+Process name: 8
+Arrival Time: 10.523922
+Expected Run Time: 0.574627
+Priority: 3
+
+Process name: 9
+Arrival Time: 11.736455
+Expected Run Time: 2.522403
+Priority: 4
+
+Process name: 10
+Arrival Time: 13.169964
+Expected Run Time: 5.466114
+Priority: 4
+
+Process name: 11
+Arrival Time: 15.904300
+Expected Run Time: 4.600094
+Priority: 2
+
+Process name: 12
+Arrival Time: 15.904300
+Expected Run Time: 4.600094
+Priority: 2
+
+Process name: 13
+Arrival Time: 17.830721
+Expected Run Time: 2.634336
+Priority: 1
+
+Process name: 14
+Arrival Time: 17.830721
+Expected Run Time: 2.634336
+Priority: 1
+
+Process name: 15
+Arrival Time: 19.119522
+Expected Run Time: 4.753479
+Priority: 1
+
+Process name: 16
+Arrival Time: 19.717905
+Expected Run Time: 5.797991
+Priority: 4
+
+Process name: 17
+Arrival Time: 19.718647
+Expected Run Time: 0.713638
+Priority: 3
+
+Process name: 18
+Arrival Time: 20.717264
+Expected Run Time: 7.719489
+Priority: 4
+
+Process name: 19
+Arrival Time: 21.315174
+Expected Run Time: 8.623939
+Priority: 4
+
+Process name: 20
+Arrival Time: 21.817453
+Expected Run Time: 9.662185
+Priority: 4
+
+Process name: 21
+Arrival Time: 21.817453
+Expected Run Time: 9.662185
+Priority: 4
+
+Process name: 22
+Arrival Time: 21.915470
+Expected Run Time: 8.827118
+Priority: 1
+
+Process name: 23
+Arrival Time: 23.411005
+Expected Run Time: 1.745435
+Priority: 4
+
+Process name: 24
+Arrival Time: 24.986017
+Expected Run Time: 9.663722
+Priority: 1
+
+Process name: 25
+Arrival Time: 27.006931
+Expected Run Time: 2.764939
+Priority: 3
+
+Process name: 26
+Arrival Time: 29.939310
+Expected Run Time: 1.924876
+Priority: 4
+
+Process name: 27
+Arrival Time: 29.939310
+Expected Run Time: 1.924876
+Priority: 4
+
+Process name: 28
+Arrival Time: 31.444950
+Expected Run Time: 4.872761
+Priority: 4
+
+Process name: 29
+Arrival Time: 31.444950
+Expected Run Time: 4.872761
+Priority: 4
+
+Process name: 30
+Arrival Time: 32.060982
+Expected Run Time: 5.095341
+Priority: 1
+
+Process name: 31
+Arrival Time: 33.277534
+Expected Run Time: 7.875361
+Priority: 2
+
+Process name: 32
+Arrival Time: 33.330196
+Expected Run Time: 3.083933
+Priority: 3
+
+Process name: 33
+Arrival Time: 34.039616
+Expected Run Time: 3.992575
+Priority: 4
+
+Process name: 34
+Arrival Time: 34.039616
+Expected Run Time: 3.992575
+Priority: 4
+
+Process name: 35
+Arrival Time: 35.238976
+Expected Run Time: 6.081498
+Priority: 2
+
+Process name: 36
+Arrival Time: 35.261971
+Expected Run Time: 5.952343
+Priority: 4
+
+Process name: 37
+Arrival Time: 35.823841
+Expected Run Time: 6.961504
+Priority: 2
+
+Process name: 38
+Arrival Time: 35.823841
+Expected Run Time: 6.961504
+Priority: 2
+
+Process name: 39
+Arrival Time: 38.727627
+Expected Run Time: 2.018246
+Priority: 4
+
+Process name: 40
+Arrival Time: 39.496735
+Expected Run Time: 3.072481
+Priority: 3
+
+Process name: 41
+Arrival Time: 39.496735
+Expected Run Time: 3.072481
+Priority: 3
+
+Process name: 42
+Arrival Time: 40.594128
+Expected Run Time: 9.118424
+Priority: 2
+
+Process name: 43
+Arrival Time: 40.791927
+Expected Run Time: 9.965299
+Priority: 1
+
+Process name: 44
+Arrival Time: 45.296604
+Expected Run Time: 7.145605
+Priority: 1
+
+Process name: 45
+Arrival Time: 45.380974
+Expected Run Time: 7.297719
+Priority: 2
+
+Process name: 46
+Arrival Time: 46.549911
+Expected Run Time: 9.223598
+Priority: 2
+
+Process name: 47
+Arrival Time: 47.395134
+Expected Run Time: 0.257382
+Priority: 4
+
+Process name: 48
+Arrival Time: 50.147896
+Expected Run Time: 9.292994
+Priority: 3
+
+Process name: 49
+Arrival Time: 50.147896
+Expected Run Time: 9.292994
+Priority: 3
+
+Process name: 50
+Arrival Time: 50.774124
+Expected Run Time: 1.284563
+Priority: 3
+
+Process name: 51
+Arrival Time: 51.909317
+Expected Run Time: 3.375919
+Priority: 1
+
+Process name: 52
+Arrival Time: 52.534374
+Expected Run Time: 9.214006
+Priority: 3
+
+Process name: 53
+Arrival Time: 53.605854
+Expected Run Time: 5.360594
+Priority: 1
+
+Process name: 54
+Arrival Time: 53.605854
+Expected Run Time: 5.360594
+Priority: 1
+
+Process name: 55
+Arrival Time: 55.458706
+Expected Run Time: 8.351863
+Priority: 1
+
+Process name: 56
+Arrival Time: 55.458706
+Expected Run Time: 8.351863
+Priority: 1
+
+Process name: 57
+Arrival Time: 56.199406
+Expected Run Time: 0.486495
+Priority: 3
+
+Process name: 58
+Arrival Time: 56.493671
+Expected Run Time: 9.459872
+Priority: 1
+
+Process name: 59
+Arrival Time: 57.507378
+Expected Run Time: 7.413074
+Priority: 1
+
+Process name: 60
+Arrival Time: 57.507378
+Expected Run Time: 7.413074
+Priority: 1
+
+Process name: 61
+Arrival Time: 58.335575
+Expected Run Time: 3.538797
+Priority: 4
+
+Process name: 62
+Arrival Time: 61.632252
+Expected Run Time: 3.542275
+Priority: 2
+
+Process name: 63
+Arrival Time: 61.632252
+Expected Run Time: 3.542275
+Priority: 2
+
+Process name: 64
+Arrival Time: 63.599525
+Expected Run Time: 6.561299
+Priority: 2
+
+Process name: 65
+Arrival Time: 63.599525
+Expected Run Time: 6.561299
+Priority: 2
+
+Process name: 66
+Arrival Time: 64.315430
+Expected Run Time: 2.658387
+Priority: 3
+
+Process name: 67
+Arrival Time: 64.472366
+Expected Run Time: 3.523408
+Priority: 2
+
+Process name: 68
+Arrival Time: 65.683487
+Expected Run Time: 5.614753
+Priority: 4
+
+Process name: 69
+Arrival Time: 67.931915
+Expected Run Time: 8.661433
+Priority: 3
+
+Process name: 70
+Arrival Time: 70.027985
+Expected Run Time: 6.699958
+Priority: 4
+
+Process name: 71
+Arrival Time: 71.969070
+Expected Run Time: 0.801674
+Priority: 1
+
+Process name: 72
+Arrival Time: 73.727989
+Expected Run Time: 7.755679
+Priority: 3
+
+Process name: 73
+Arrival Time: 73.727989
+Expected Run Time: 7.755679
+Priority: 3
+
+Process name: 74
+Arrival Time: 75.342590
+Expected Run Time: 0.844440
+Priority: 4
+
+Process name: 75
+Arrival Time: 75.342590
+Expected Run Time: 0.844440
+Priority: 4
+
+Process name: 76
+Arrival Time: 75.962029
+Expected Run Time: 1.887139
+Priority: 3
+
+Process name: 77
+Arrival Time: 77.371216
+Expected Run Time: 8.799970
+Priority: 1
+
+Process name: 78
+Arrival Time: 77.371216
+Expected Run Time: 8.799970
+Priority: 1
+
+Process name: 79
+Arrival Time: 77.555389
+Expected Run Time: 9.819189
+Priority: 2
+
+Process name: 80
+Arrival Time: 79.753250
+Expected Run Time: 7.883620
+Priority: 2
+
+Process name: 81
+Arrival Time: 81.741188
+Expected Run Time: 5.959278
+Priority: 3
+
+Process name: 82
+Arrival Time: 82.373451
+Expected Run Time: 6.989253
+Priority: 2
+
+Process name: 83
+Arrival Time: 83.847115
+Expected Run Time: 9.943134
+Priority: 2
+
+Process name: 84
+Arrival Time: 86.845436
+Expected Run Time: 8.967104
+Priority: 3
+
+Process name: 85
+Arrival Time: 87.538666
+Expected Run Time: 5.067204
+Priority: 4
+
+Process name: 86
+Arrival Time: 87.538666
+Expected Run Time: 5.067204
+Priority: 4
+
+Process name: 87
+Arrival Time: 91.114784
+Expected Run Time: 1.167646
+Priority: 4
+
+Process name: 88
+Arrival Time: 91.114784
+Expected Run Time: 1.167646
+Priority: 4
+
+Process name: 89
+Arrival Time: 91.409019
+Expected Run Time: 2.152272
+Priority: 3
+
+Process name: 90
+Arrival Time: 92.986160
+Expected Run Time: 4.152489
+Priority: 4
+
+Process name: 91
+Arrival Time: 92.986160
+Expected Run Time: 4.152489
+Priority: 4
+
+Process name: 92
+Arrival Time: 93.849739
+Expected Run Time: 5.204936
+Priority: 3
+
+Process name: 93
+Arrival Time: 94.424843
+Expected Run Time: 1.295928
+Priority: 1
+
+Process name: 94
+Arrival Time: 95.276611
+Expected Run Time: 8.176223
+Priority: 4
+
+Process name: 95
+Arrival Time: 95.276611
+Expected Run Time: 8.176223
+Priority: 4
+
+Process name: 96
+Arrival Time: 96.838936
+Expected Run Time: 0.402917
+Priority: 4
+
+Process name: 97
+Arrival Time: 97.582977
+Expected Run Time: 1.327201
+Priority: 4
+
+Process name: 98
+Arrival Time: 97.582977
+Expected Run Time: 1.327201
+Priority: 4
+
+
+PROCESS RECORD: 
+255,255,0,0,0,0,2,2,2,2,2,2,2,3,3,3,3,3,3,3,14,14,14,14,14,22,22,22,22,22,22,22,22,22,22,30,30,30,30,30,30,43,43,43,43,43,43,43,43,43,43,43,51,51,51,51,54,54,54,54,54,54,54,59,59,59,59,59,59,59,59,59,59,59,59,71,4,4,4,4,4,4,4,77,77,77,77,77,77,77,77,77,77,38,38,38,38,38,38,38,
+
+Priority Queue 1
+=================
+Completed processes: 10
+Mean turnaround time: 10.346127
+Mean wait time: 4.482258
+Mean response time: 3.046127
+Mean throughput: 0.107527
+
+Priority Queue 2
+=================
+Completed processes: 2
+Mean turnaround time: 69.686707
+Mean wait time: 62.938522
+Mean response time: 62.686707
+Mean throughput: 0.020000
+
+Priority Queue 3
+=================
+Completed processes: 1
+Mean turnaround time: 4.036835
+Mean wait time: 1.708336
+Mean response time: 0.036835
+Mean throughput: 0.166667
+
+Priority Queue 4
+=================
+Completed processes: 1
+Mean turnaround time: 8.224518
+Mean wait time: 1.809774
+Mean response time: 1.224518
+Mean throughput: 0.076923
+
+Overall Statistics
+=================
+Completed processes: 14
+Mean turnaround time: 18.221144
+Mean wait time: 12.444123
+Mean response time: 11.221145
+Mean throughput: 0.140000
+
+Freeing workload
+
+=========================================
+
+~~~~~~~~~~Averages for all 5 runs~~~~~~~~~~
+
+Avg Turnaround time = 19.317064
+Avg Wait Time = 13.879245
+Avg Response Time = 10.244600
+Avg Throughput = 0.143073

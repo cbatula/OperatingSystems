@@ -1,0 +1,636 @@
+response time: 0
+response time: 0
+response time: 0
+response time: 0
+response time: 0
+response time: 0
+response time: 0
+response time: 0
+response time: 0
+response time: 0
+response time: 2
+response time: 3
+response time: 0
+response time: 3
+response time: 1
+response time: 0
+response time: 4
+response time: 7
+response time: 0
+response time: 0
+response time: 0
+response time: 4
+response time: 6
+response time: 5
+response time: 8
+response time: 4
+response time: 0
+response time: 0
+response time: 5
+response time: 0
+response time: 0
+response time: 11
+response time: 10
+response time: 2
+response time: 2
+response time: 6
+response time: 0
+response time: 1
+response time: 2
+response time: 9
+response time: 5
+response time: 3
+response time: 12
+response time: 7
+response time: 8
+response time: 4
+response time: 8
+response time: 0
+response time: 5
+response time: 0
+response time: 5
+response time: 15
+response time: 13
+response time: 11
+response time: 11
+response time: 6
+response time: 0
+response time: 0
+response time: 1
+response time: 6
+response time: 4
+response time: 5
+response time: 20
+response time: 0
+response time: 1
+response time: 9
+response time: 2
+response time: 2
+response time: 7
+response time: 21
+response time: 9
+response time: 0
+response time: 0
+response time: 10
+response time: 5
+response time: 10
+response time: 0
+response time: 5
+response time: 26
+response time: 0
+response time: 4
+response time: 6
+response time: 10
+response time: 4
+response time: 0
+response time: 0
+response time: 28
+response time: 17
+response time: 0
+response time: 1
+response time: 0
+response time: 4
+response time: 4
+response time: 4
+response time: 2
+response time: 16
+response time: 19
+response time: 11
+response time: 11
+response time: 3
+response time: 0
+response time: 9
+response time: 4
+response time: 0
+response time: 0
+response time: 22
+response time: 10
+response time: 0
+response time: 0
+response time: 9
+response time: 10
+response time: 21
+response time: 14
+response time: 6
+response time: 9
+response time: 15
+response time: 0
+response time: 15
+response time: 3
+response time: 9
+response time: 9
+response time: 0
+response time: 0
+response time: 5
+response time: 17
+response time: 19
+response time: 3
+response time: 12
+response time: 0
+response time: 0
+response time: 0
+response time: 10
+response time: 3
+response time: 15
+response time: 18
+response time: 0
+response time: 2
+response time: 14
+response time: 0
+response time: 18
+response time: 11
+response time: 0
+response time: 0
+response time: 0
+response time: 15
+response time: 11
+------------------------------------------
+Seller H1 event log: 
+------------------------------------------
+0:0 - Customer 8 arrived.
+0:0 - Customer 8 assigned a seat!
+0:1 - Customer 8 completed transaction!
+0:2 - Customer 5 arrived.
+0:2 - Customer 12 arrived.
+0:2 - Customer 13 arrived.
+0:2 - Customer 5 assigned a seat!
+0:4 - Customer 5 completed transaction!
+0:4 - Customer 12 assigned a seat!
+0:5 - Customer 12 completed transaction!
+0:5 - Customer 13 assigned a seat!
+0:7 - Customer 14 arrived.
+0:7 - Customer 13 completed transaction!
+0:7 - Customer 14 assigned a seat!
+0:9 - Customer 4 arrived.
+0:9 - Customer 14 completed transaction!
+0:9 - Customer 4 assigned a seat!
+0:11 - Customer 10 arrived.
+0:11 - Customer 4 completed transaction!
+0:11 - Customer 10 assigned a seat!
+0:12 - Customer 10 completed transaction!
+0:23 - Customer 7 arrived.
+0:23 - Customer 7 assigned a seat!
+0:24 - Customer 7 completed transaction!
+0:27 - Customer 11 arrived.
+0:27 - Customer 11 assigned a seat!
+0:29 - Customer 11 completed transaction!
+0:43 - Customer 0 arrived.
+0:43 - Customer 0 assigned a seat!
+0:44 - Customer 0 completed transaction!
+0:46 - Customer 3 arrived.
+0:46 - Customer 3 assigned a seat!
+0:47 - Customer 3 completed transaction!
+0:50 - Customer 6 arrived.
+0:50 - Customer 6 rejected transaction!
+0:52 - Customer 9 arrived.
+0:52 - Customer 9 rejected transaction!
+0:53 - Customer 2 arrived.
+0:53 - Customer 2 rejected transaction!
+0:57 - Customer 1 arrived.
+0:57 - Customer 1 rejected transaction!
+response time: 5average_response_time: 0.333333
+turnaround time: 21average turnaround time: 1.909091
+price: 0 seated: 11 turnedaway: 4 turnabout: 21 response: 5
+------------------------------------------
+Seller M1 event log: 
+------------------------------------------
+0:2 - Customer 13 arrived.
+0:2 - Customer 13 assigned a seat!
+0:6 - Customer 13 completed transaction!
+0:9 - Customer 5 arrived.
+0:9 - Customer 5 assigned a seat!
+0:11 - Customer 5 completed transaction!
+0:13 - Customer 3 arrived.
+0:13 - Customer 3 assigned a seat!
+0:16 - Customer 14 arrived.
+0:16 - Customer 3 completed transaction!
+0:16 - Customer 14 assigned a seat!
+0:19 - Customer 14 completed transaction!
+0:21 - Customer 6 arrived.
+0:21 - Customer 6 assigned a seat!
+0:25 - Customer 6 completed transaction!
+0:29 - Customer 0 arrived.
+0:29 - Customer 2 arrived.
+0:29 - Customer 0 assigned a seat!
+0:31 - Customer 4 arrived.
+0:31 - Customer 11 arrived.
+0:31 - Customer 0 completed transaction!
+0:31 - Customer 2 assigned a seat!
+0:33 - Customer 2 completed transaction!
+0:33 - Customer 4 assigned a seat!
+0:35 - Customer 9 arrived.
+0:36 - Customer 4 completed transaction!
+0:36 - Customer 11 assigned a seat!
+0:38 - Customer 8 arrived.
+0:40 - Customer 11 completed transaction!
+0:40 - Customer 9 assigned a seat!
+0:42 - Customer 1 arrived.
+0:42 - Customer 9 completed transaction!
+0:42 - Customer 8 assigned a seat!
+0:44 - Customer 7 arrived.
+0:46 - Customer 8 completed transaction!
+0:46 - Customer 1 assigned a seat!
+0:48 - Customer 1 completed transaction!
+0:48 - Customer 7 assigned a seat!
+0:51 - Customer 7 completed transaction!
+0:53 - Customer 10 arrived.
+0:53 - Customer 10 rejected transaction!
+0:56 - Customer 12 arrived.
+0:56 - Customer 12 rejected transaction!
+response time: 26average_response_time: 1.733333
+turnaround time: 64average turnaround time: 4.923077
+price: 1 seated: 13 turnedaway: 2 turnabout: 64 response: 26
+------------------------------------------
+Seller M2 event log: 
+------------------------------------------
+0:3 - Customer 9 arrived.
+0:3 - Customer 13 arrived.
+0:3 - Customer 9 assigned a seat!
+0:7 - Customer 10 arrived.
+0:7 - Customer 9 completed transaction!
+0:7 - Customer 13 assigned a seat!
+0:8 - Customer 12 arrived.
+0:11 - Customer 13 completed transaction!
+0:11 - Customer 10 assigned a seat!
+0:13 - Customer 4 arrived.
+0:13 - Customer 10 completed transaction!
+0:13 - Customer 12 assigned a seat!
+0:14 - Customer 7 arrived.
+0:14 - Customer 8 arrived.
+0:14 - Customer 14 arrived.
+0:15 - Customer 12 completed transaction!
+0:15 - Customer 4 assigned a seat!
+0:19 - Customer 4 completed transaction!
+0:19 - Customer 7 assigned a seat!
+0:21 - Customer 7 completed transaction!
+0:21 - Customer 8 assigned a seat!
+0:24 - Customer 5 arrived.
+0:25 - Customer 8 completed transaction!
+0:25 - Customer 14 assigned a seat!
+0:28 - Customer 14 completed transaction!
+0:28 - Customer 5 assigned a seat!
+0:30 - Customer 5 completed transaction!
+0:36 - Customer 11 arrived.
+0:36 - Customer 11 assigned a seat!
+0:40 - Customer 11 completed transaction!
+0:42 - Customer 6 arrived.
+0:42 - Customer 6 assigned a seat!
+0:44 - Customer 1 arrived.
+0:44 - Customer 6 completed transaction!
+0:44 - Customer 1 assigned a seat!
+0:45 - Customer 0 arrived.
+0:46 - Customer 3 arrived.
+0:46 - Customer 1 completed transaction!
+0:46 - Customer 0 assigned a seat!
+0:48 - Customer 0 completed transaction!
+0:48 - Customer 3 assigned a seat!
+0:50 - Customer 3 completed transaction!
+0:56 - Customer 2 arrived.
+0:56 - Customer 2 rejected transaction!
+response time: 45average_response_time: 3.000000
+turnaround time: 84average turnaround time: 6.000000
+price: 1 seated: 14 turnedaway: 1 turnabout: 84 response: 45
+------------------------------------------
+Seller M3 event log: 
+------------------------------------------
+0:1 - Customer 11 arrived.
+0:1 - Customer 11 assigned a seat!
+0:4 - Customer 14 arrived.
+0:5 - Customer 11 completed transaction!
+0:5 - Customer 14 assigned a seat!
+0:9 - Customer 14 completed transaction!
+0:12 - Customer 0 arrived.
+0:12 - Customer 0 assigned a seat!
+0:14 - Customer 6 arrived.
+0:14 - Customer 0 completed transaction!
+0:14 - Customer 6 assigned a seat!
+0:15 - Customer 5 arrived.
+0:17 - Customer 8 arrived.
+0:17 - Customer 6 completed transaction!
+0:17 - Customer 5 assigned a seat!
+0:19 - Customer 2 arrived.
+0:20 - Customer 5 completed transaction!
+0:20 - Customer 8 assigned a seat!
+0:24 - Customer 8 completed transaction!
+0:24 - Customer 2 assigned a seat!
+0:26 - Customer 12 arrived.
+0:27 - Customer 2 completed transaction!
+0:27 - Customer 12 assigned a seat!
+0:30 - Customer 12 completed transaction!
+0:45 - Customer 13 arrived.
+0:45 - Customer 13 assigned a seat!
+0:46 - Customer 3 arrived.
+0:47 - Customer 7 arrived.
+0:49 - Customer 13 completed transaction!
+0:49 - Customer 3 assigned a seat!
+0:51 - Customer 3 completed transaction!
+0:51 - Customer 7 rejected transaction!
+0:52 - Customer 10 arrived.
+0:52 - Customer 10 rejected transaction!
+0:54 - Customer 4 arrived.
+0:54 - Customer 4 rejected transaction!
+0:56 - Customer 1 arrived.
+0:56 - Customer 1 rejected transaction!
+0:57 - Customer 9 arrived.
+0:57 - Customer 9 rejected transaction!
+response time: 19average_response_time: 1.266667
+turnaround time: 47average turnaround time: 4.700000
+price: 1 seated: 10 turnedaway: 5 turnabout: 47 response: 19
+------------------------------------------
+Seller L1 event log: 
+------------------------------------------
+0:3 - Customer 12 arrived.
+0:3 - Customer 12 assigned a seat!
+0:6 - Customer 7 arrived.
+0:9 - Customer 4 arrived.
+0:10 - Customer 12 completed transaction!
+0:10 - Customer 7 assigned a seat!
+0:15 - Customer 7 completed transaction!
+0:15 - Customer 4 assigned a seat!
+0:17 - Customer 6 arrived.
+0:21 - Customer 3 arrived.
+0:22 - Customer 4 completed transaction!
+0:22 - Customer 6 assigned a seat!
+0:27 - Customer 5 arrived.
+0:27 - Customer 6 completed transaction!
+0:27 - Customer 3 assigned a seat!
+0:28 - Customer 10 arrived.
+0:28 - Customer 14 arrived.
+0:30 - Customer 13 arrived.
+0:32 - Customer 11 arrived.
+0:34 - Customer 3 completed transaction!
+0:34 - Customer 5 assigned a seat!
+0:38 - Customer 5 completed transaction!
+0:38 - Customer 10 assigned a seat!
+0:40 - Customer 0 arrived.
+0:45 - Customer 10 completed transaction!
+0:45 - Customer 14 assigned a seat!
+0:46 - Customer 8 arrived.
+0:51 - Customer 1 arrived.
+0:52 - Customer 14 completed transaction!
+0:52 - Customer 13 rejected transaction!
+0:53 - Customer 11 rejected transaction!
+0:54 - Customer 0 rejected transaction!
+0:55 - Customer 8 rejected transaction!
+0:56 - Customer 1 rejected transaction!
+0:57 - Customer 2 arrived.
+0:57 - Customer 2 rejected transaction!
+0:59 - Customer 9 arrived.
+0:59 - Customer 9 rejected transaction!
+response time: 126average_response_time: 8.400000
+turnaround time: 104average turnaround time: 13.000000
+price: 2 seated: 8 turnedaway: 7 turnabout: 104 response: 126
+------------------------------------------
+Seller L2 event log: 
+------------------------------------------
+0:1 - Customer 4 arrived.
+0:1 - Customer 7 arrived.
+0:1 - Customer 4 assigned a seat!
+0:3 - Customer 12 arrived.
+0:8 - Customer 4 completed transaction!
+0:8 - Customer 7 assigned a seat!
+0:13 - Customer 8 arrived.
+0:14 - Customer 9 arrived.
+0:14 - Customer 7 completed transaction!
+0:14 - Customer 12 assigned a seat!
+0:21 - Customer 12 completed transaction!
+0:21 - Customer 8 assigned a seat!
+0:24 - Customer 10 arrived.
+0:25 - Customer 8 completed transaction!
+0:25 - Customer 9 assigned a seat!
+0:26 - Customer 3 arrived.
+0:29 - Customer 9 completed transaction!
+0:29 - Customer 10 assigned a seat!
+0:35 - Customer 10 completed transaction!
+0:35 - Customer 3 assigned a seat!
+0:36 - Customer 1 arrived.
+0:38 - Customer 2 arrived.
+0:39 - Customer 14 arrived.
+0:40 - Customer 0 arrived.
+0:42 - Customer 3 completed transaction!
+0:42 - Customer 1 assigned a seat!
+0:44 - Customer 6 arrived.
+0:47 - Customer 11 arrived.
+0:47 - Customer 13 arrived.
+0:49 - Customer 1 completed transaction!
+0:49 - Customer 2 assigned a seat!
+0:54 - Customer 2 completed transaction!
+0:54 - Customer 14 rejected transaction!
+0:55 - Customer 0 rejected transaction!
+0:56 - Customer 6 rejected transaction!
+0:57 - Customer 11 rejected transaction!
+0:58 - Customer 13 rejected transaction!
+0:59 - Customer 5 arrived.
+0:59 - Customer 5 rejected transaction!
+response time: 131average_response_time: 8.733333
+turnaround time: 121average turnaround time: 13.444444
+price: 2 seated: 9 turnedaway: 6 turnabout: 121 response: 131
+------------------------------------------
+Seller L3 event log: 
+------------------------------------------
+0:3 - Customer 8 arrived.
+0:3 - Customer 8 assigned a seat!
+0:4 - Customer 14 arrived.
+0:10 - Customer 8 completed transaction!
+0:10 - Customer 14 assigned a seat!
+0:15 - Customer 6 arrived.
+0:16 - Customer 14 completed transaction!
+0:16 - Customer 6 assigned a seat!
+0:17 - Customer 1 arrived.
+0:21 - Customer 6 completed transaction!
+0:21 - Customer 1 assigned a seat!
+0:25 - Customer 1 completed transaction!
+0:26 - Customer 13 arrived.
+0:26 - Customer 13 assigned a seat!
+0:29 - Customer 5 arrived.
+0:30 - Customer 13 completed transaction!
+0:30 - Customer 5 assigned a seat!
+0:35 - Customer 2 arrived.
+0:35 - Customer 5 completed transaction!
+0:35 - Customer 2 assigned a seat!
+0:38 - Customer 4 arrived.
+0:38 - Customer 7 arrived.
+0:42 - Customer 2 completed transaction!
+0:42 - Customer 4 assigned a seat!
+0:43 - Customer 11 arrived.
+0:48 - Customer 9 arrived.
+0:49 - Customer 4 completed transaction!
+0:49 - Customer 7 assigned a seat!
+0:52 - Customer 0 arrived.
+0:53 - Customer 12 arrived.
+0:53 - Customer 7 completed transaction!
+0:53 - Customer 11 rejected transaction!
+0:54 - Customer 3 arrived.
+0:54 - Customer 9 rejected transaction!
+0:55 - Customer 0 rejected transaction!
+0:56 - Customer 10 arrived.
+0:56 - Customer 12 rejected transaction!
+0:57 - Customer 3 rejected transaction!
+0:58 - Customer 10 rejected transaction!
+response time: 54average_response_time: 3.600000
+turnaround time: 76average turnaround time: 8.444444
+price: 2 seated: 9 turnedaway: 6 turnabout: 76 response: 54
+------------------------------------------
+Seller L4 event log: 
+------------------------------------------
+0:4 - Customer 7 arrived.
+0:4 - Customer 7 assigned a seat!
+0:5 - Customer 8 arrived.
+0:8 - Customer 14 arrived.
+0:9 - Customer 1 arrived.
+0:9 - Customer 10 arrived.
+0:10 - Customer 7 completed transaction!
+0:10 - Customer 8 assigned a seat!
+0:14 - Customer 9 arrived.
+0:15 - Customer 13 arrived.
+0:17 - Customer 2 arrived.
+0:17 - Customer 8 completed transaction!
+0:17 - Customer 14 assigned a seat!
+0:24 - Customer 14 completed transaction!
+0:24 - Customer 1 assigned a seat!
+0:29 - Customer 1 completed transaction!
+0:29 - Customer 10 assigned a seat!
+0:30 - Customer 4 arrived.
+0:35 - Customer 10 completed transaction!
+0:35 - Customer 9 assigned a seat!
+0:37 - Customer 12 arrived.
+0:41 - Customer 9 completed transaction!
+0:41 - Customer 13 assigned a seat!
+0:42 - Customer 11 arrived.
+0:44 - Customer 3 arrived.
+0:45 - Customer 13 completed transaction!
+0:45 - Customer 2 assigned a seat!
+0:48 - Customer 0 arrived.
+0:49 - Customer 2 completed transaction!
+0:49 - Customer 4 assigned a seat!
+0:50 - Customer 5 arrived.
+0:52 - Customer 6 arrived.
+0:56 - Customer 4 completed transaction!
+0:56 - Customer 12 rejected transaction!
+0:57 - Customer 11 rejected transaction!
+0:58 - Customer 3 rejected transaction!
+0:59 - Customer 0 rejected transaction!
+response time: 202average_response_time: 15.538462
+turnaround time: 195average turnaround time: 21.666667
+price: 2 seated: 9 turnedaway: 4 turnabout: 195 response: 202
+------------------------------------------
+Seller L5 event log: 
+------------------------------------------
+0:0 - Customer 8 arrived.
+0:0 - Customer 8 assigned a seat!
+0:1 - Customer 6 arrived.
+0:2 - Customer 0 arrived.
+0:4 - Customer 9 arrived.
+0:4 - Customer 8 completed transaction!
+0:4 - Customer 6 assigned a seat!
+0:8 - Customer 11 arrived.
+0:10 - Customer 6 completed transaction!
+0:10 - Customer 0 assigned a seat!
+0:11 - Customer 4 arrived.
+0:14 - Customer 0 completed transaction!
+0:14 - Customer 9 assigned a seat!
+0:20 - Customer 9 completed transaction!
+0:20 - Customer 11 assigned a seat!
+0:24 - Customer 11 completed transaction!
+0:24 - Customer 4 assigned a seat!
+0:30 - Customer 4 completed transaction!
+0:40 - Customer 3 arrived.
+0:40 - Customer 3 assigned a seat!
+0:42 - Customer 10 arrived.
+0:42 - Customer 12 arrived.
+0:42 - Customer 14 arrived.
+0:44 - Customer 13 arrived.
+0:45 - Customer 5 arrived.
+0:46 - Customer 2 arrived.
+0:46 - Customer 3 completed transaction!
+0:46 - Customer 10 assigned a seat!
+0:51 - Customer 10 completed transaction!
+0:51 - Customer 12 rejected transaction!
+0:52 - Customer 14 rejected transaction!
+0:53 - Customer 13 rejected transaction!
+0:54 - Customer 5 rejected transaction!
+0:55 - Customer 2 rejected transaction!
+0:58 - Customer 7 arrived.
+0:58 - Customer 7 rejected transaction!
+0:59 - Customer 1 arrived.
+0:59 - Customer 1 rejected transaction!
+response time: 96average_response_time: 6.400000
+turnaround time: 91average turnaround time: 11.375000
+price: 2 seated: 8 turnedaway: 7 turnabout: 91 response: 96
+------------------------------------------
+Seller L6 event log: 
+------------------------------------------
+0:0 - Customer 0 arrived.
+0:0 - Customer 0 assigned a seat!
+0:4 - Customer 0 completed transaction!
+0:8 - Customer 3 arrived.
+0:8 - Customer 3 assigned a seat!
+0:13 - Customer 6 arrived.
+0:13 - Customer 11 arrived.
+0:15 - Customer 3 completed transaction!
+0:15 - Customer 6 assigned a seat!
+0:19 - Customer 8 arrived.
+0:21 - Customer 5 arrived.
+0:21 - Customer 6 completed transaction!
+0:21 - Customer 11 assigned a seat!
+0:25 - Customer 11 completed transaction!
+0:25 - Customer 8 assigned a seat!
+0:26 - Customer 13 arrived.
+0:30 - Customer 8 completed transaction!
+0:30 - Customer 5 assigned a seat!
+0:32 - Customer 1 arrived.
+0:33 - Customer 4 arrived.
+0:36 - Customer 5 completed transaction!
+0:36 - Customer 13 assigned a seat!
+0:39 - Customer 2 arrived.
+0:39 - Customer 10 arrived.
+0:40 - Customer 7 arrived.
+0:42 - Customer 13 completed transaction!
+0:42 - Customer 1 assigned a seat!
+0:44 - Customer 14 arrived.
+0:49 - Customer 1 completed transaction!
+0:49 - Customer 4 assigned a seat!
+0:50 - Customer 12 arrived.
+0:56 - Customer 4 completed transaction!
+0:56 - Customer 2 rejected transaction!
+0:57 - Customer 10 rejected transaction!
+0:58 - Customer 7 rejected transaction!
+0:59 - Customer 9 arrived.
+0:59 - Customer 14 rejected transaction!
+response time: 129average_response_time: 9.923077
+turnaround time: 113average turnaround time: 12.555556
+price: 2 seated: 9 turnedaway: 4 turnabout: 113 response: 129
+---------------------------------------------------------------------------------
+| H1_8  | H1_5  | H1_12 | H1_13 | H1_14 | H1_4  | H1_10 | H1_7  | H1_11 | H1_0  |
+---------------------------------------------------------------------------------
+| H1_3  | M1_1  | M1_7  | M2_3  | M3_3  | L2_2  | L3_7  | L4_4  | L6_4  | L5_10 |
+---------------------------------------------------------------------------------
+| M2_6  | M1_8  | M2_1  | M3_13 | M2_0  | L1_14 | L4_2  | L6_1  | L2_1  | L3_4  |
+---------------------------------------------------------------------------------
+| M2_11 | M1_11 | M1_9  | L4_13 | L5_3  | L1_10 | L6_13 | L3_2  | L2_3  | L4_9  |
+---------------------------------------------------------------------------------
+| M3_12 | M2_5  | M1_0  | M1_2  | M1_4  | L1_5  | L6_5  | L3_5  | L4_10 | L2_10 |
+---------------------------------------------------------------------------------
+| M3_11 | M1_13 | M2_9  | M3_14 | M2_13 | M1_5  | M2_10 | M3_0  | M2_12 | M1_3  |
+---------------------------------------------------------------------------------
+| M3_6  | M2_4  | M1_14 | M3_5  | M2_7  | M3_8  | M2_8  | M1_6  | M3_2  | M2_14 |
+---------------------------------------------------------------------------------
+| L1_3  | L3_13 | L6_8  | L2_9  | L5_4  | L4_1  | L1_6  | L6_11 | L3_1  | L2_8  |
+---------------------------------------------------------------------------------
+| L5_11 | L4_14 | L3_6  | L1_4  | L6_6  | L5_9  | L2_12 | L5_0  | L4_8  | L3_14 |
+---------------------------------------------------------------------------------
+| L1_7  | L6_3  | L2_7  | L4_7  | L5_6  | L3_8  | L1_12 | L2_4  | L6_0  | L5_8  |
+---------------------------------------------------------------------------------
+
+H sold: 11 H rejected: 4
+M sold: 37 M rejected: 8
+L sold: 52 L rejected: 34
+H turnabout: 1.90909
+M turnabout: 5.27027
+L turnabout: 13.4615
+H response: 0.333333
+M response: 2
+L response: 8.5814
+H throughput: 15
+M throughput: 15
+L throughput: 14.3333
